@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: isomorphismes/algebraic-variety-explorer-mobile
-          ref: catalog-polynomial-preview
+          ref: surfer
           path: .surfer
 
       - uses: actions/setup-java@v4
