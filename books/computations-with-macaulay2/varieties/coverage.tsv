@@ -1,0 +1,14 @@
+source	chapter_or_area	code_pass	prose_pass	second_pass	notes
+official-book	all chapters	pending	pending	pending	Read front to back; equation labels beat page numbers when available.
+upstream-m2	preface	pending	n/a	pending	chapter.m2 and test.m2
+upstream-m2	varieties	in-progress	n/a	pending	Opening examples seeded; not a completeness claim.
+upstream-m2	geometry	pending	n/a	pending	chapter.m2, test.m2, mystery.m2
+upstream-m2	programming	pending	n/a	pending	chapter.m2 and test.m2
+upstream-m2	schemes	pending	n/a	pending	chapter.m2 and test.m2
+upstream-m2	monomialIdeals	pending	n/a	pending	chapter.m2 and test.m2
+upstream-m2	solving	pending	n/a	pending	chapter.m2, test.m2, realroots.m2
+upstream-m2	completeIntersections	pending	n/a	pending	chapter.m2, test.m2, simplify.m2
+upstream-m2	toricHilbertScheme	pending	n/a	pending	chapter.m2 plus auxiliary .m2 files
+upstream-m2	exterior-algebra	pending	n/a	pending	chapter.m2 and test.m2
+upstream-m2	d-modules	pending	n/a	pending	chapter.m2 and test.m2
+upstream-m2	constructions	pending	n/a	pending	chapter.m2 and test.m2

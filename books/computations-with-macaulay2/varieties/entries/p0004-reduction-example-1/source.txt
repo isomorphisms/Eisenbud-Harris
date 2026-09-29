@@ -1,0 +1,5 @@
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Section: 4. Monomials Under the Staircase
+Role: first explicit polynomial reduced modulo the ideal called ourpoints
+Upstream: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.m2#L24-L25
