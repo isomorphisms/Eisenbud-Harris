@@ -1,0 +1,10 @@
+Kind: variety
+Construction: union of the opening curve and surface, represented by intersection/product of their ideals
+Components:
+- V(x⁴ − y⁵, x³ − y⁷)
+- V(x⁵ + y⁵ + z⁵ − 1)
+Macaulay2:
+theirunion = intersect(curve,surface)
+curve*surface == theirunion
+Source: Computations in Algebraic Geometry with Macaulay 2; Ideals, Varieties, and Macaulay 2; §2; upstream varieties/chapter.m2 lines 14–15.
+Why: This forces the algebra/geometry reversal into view: intersection of ideals corresponds to union of zero sets. It is why a geometric intersection must never be faked by multiplying defining polynomials.

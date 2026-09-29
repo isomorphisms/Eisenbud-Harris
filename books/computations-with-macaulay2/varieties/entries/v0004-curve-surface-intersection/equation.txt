@@ -1,1 +1,0 @@
-V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface)

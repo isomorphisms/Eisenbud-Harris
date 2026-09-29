@@ -1,0 +1,8 @@
+Kind: variety
+Construction: simultaneous geometric intersection, represented by the sum of the defining ideals
+Components:
+- V(x⁴ − y⁵, x³ − y⁷)
+- V(x⁵ + y⁵ + z⁵ − 1)
+Macaulay2: ourpoints = curve + surface
+Source: Computations in Algebraic Geometry with Macaulay 2; Ideals, Varieties, and Macaulay 2; §2; upstream varieties/chapter.m2 lines 16–20.
+Why: This is the geometric intersection the section is aiming at. The following computations ask for dimension, degree, degree after radical, and the leading-term ideal used to obtain a monomial staircase. A product polynomial would encode a union instead.

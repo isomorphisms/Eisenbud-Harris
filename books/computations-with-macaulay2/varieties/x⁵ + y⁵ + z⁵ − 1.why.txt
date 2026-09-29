@@ -1,0 +1,3 @@
+After studying the opening curve, the chapter introduces a concrete surface so it can demonstrate how ideal operations encode unions and intersections.
+
+Its real zero set is directly suited to SURFER, making this the simplest end-to-end catalog test: exact polynomial, actual renderer input, deterministic still image, and a separate variety record for the hypersurface.

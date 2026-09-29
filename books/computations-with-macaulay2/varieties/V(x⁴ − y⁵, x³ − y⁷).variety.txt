@@ -1,0 +1,8 @@
+Kind: variety / system
+Construction: simultaneous vanishing of two component polynomials
+Components:
+- x⁴ − y⁵
+- x³ − y⁷
+Macaulay2: curve = ideal( x^4-y^5, x^3-y^7 )
+Source: Computations in Algebraic Geometry with Macaulay 2; Ideals, Varieties, and Macaulay 2; §1 A Curve in Affine Three-Space; upstream varieties/chapter.m2 lines 1–12.
+Why: This is the first sustained geometric object in the computations. The chapter asks for a Gröbner basis, dimension, codimension, degree, saturation, and radical information. It is the common zero set of both generators, not either component and not their product.

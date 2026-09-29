@@ -1,0 +1,3 @@
+After the curve/surface intersection has become a Gröbner-basis and leading-term computation, the chapter tests reduction of an explicit polynomial modulo the intersection ideal.
+
+The role is computational rather than primarily visual: this is a concrete input whose normal form can be inspected. It belongs because the catalog rule is every explicit polynomial, not only equations introduced as named varieties.

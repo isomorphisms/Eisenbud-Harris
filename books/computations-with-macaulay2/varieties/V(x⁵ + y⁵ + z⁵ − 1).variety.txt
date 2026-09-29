@@ -1,0 +1,7 @@
+Kind: variety / hypersurface
+Construction: zero set of one component polynomial
+Components:
+- x⁵ + y⁵ + z⁵ − 1
+Macaulay2: surface = ideal( x^5 + y^5 + z^5 - 1)
+Source: Computations in Algebraic Geometry with Macaulay 2; Ideals, Varieties, and Macaulay 2; §2 Intersecting Our Curve With a Surface; upstream varieties/chapter.m2 line 13.
+Why: The chapter needs a second geometric object to combine with the opening curve. The next computations distinguish ideal intersection/product from ideal sum and hence distinguish union from simultaneous geometric intersection.

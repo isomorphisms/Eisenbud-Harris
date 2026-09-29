@@ -4,86 +4,79 @@
 
 Catalog every explicit polynomial and every explicit variety, scheme, ideal, or system of equations in *Computations in Algebraic Geometry with Macaulay 2*.
 
-Do not select only representative or famous examples. Exhaustiveness is the acceptance criterion.
+Exhaustiveness is the acceptance criterion. Do not keep only representative examples.
 
 Tracking:
-- Eisenbud–Harris issue: https://github.com/walnut-burgundy/Eisenbud-Harris/issues/5
-- AICI agent job: https://github.com/isomorphisms/ai-ci/issues/182
+- Eisenbud–Harris: https://github.com/walnut-burgundy/Eisenbud-Harris/issues/5
+- AICI: https://github.com/isomorphisms/ai-ci/issues/182
 - SURFER: https://github.com/isomorphismes/algebraic-variety-explorer-mobile
-- keyboard notation issue: https://github.com/isomorphisms/programmers-keyboard/issues/16
 - upstream book tests: https://github.com/Macaulay2/M2/tree/stable/M2/Macaulay2/tests/ComputationsBook
-- official book site: https://macaulay2.com/Book/
 
-## Entry contract
+## Polynomial invariant: exactly three sibling files
 
-Use stable ASCII directory IDs under `entries/`. Do not put the literal polynomial in a pathname: equations can contain slashes, spaces, Unicode, or enough text to make shell use unpleasant.
+A polynomial is not a variety.
 
-Every entry contains:
+For every relevant polynomial P, put exactly three sibling files directly in this `varieties/` directory. Use the polynomial itself as the basename; do not use p0001-style IDs or per-entry directories.
 
-- `kind.txt`: `polynomial`, `variety`, `scheme`, `ideal`, or `system`.
-- `equation.txt`: canonical human-facing mathematical name/equation.
-- `macaulay2.txt`: exact runnable Macaulay2 spelling when one exists. Preserve upstream `*` here.
-- `source.txt`: deterministic provenance only. Record book, chapter, section, example/equation/exercise label when available, and upstream source path/line when applicable. Add every later occurrence; do not replace the first citation.
-- `why.md`: agent-written mathematical context. Explain why this object appears at this point, what question it answers or raises, what it illustrates or counters, and useful next questions.
-- `components.txt` for composite objects: one catalog entry ID per defining component.
-- `render.png`, `render.gif`, or `render.mp4` when SURFER can render the object.
+Unicode mathematical notation is intentional. Prefer readable basenames such as `x⁴ − y⁵` and `y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁵`.
 
-## Components are first-class
+The three siblings are:
 
-If the book defines an object by
+1. one primary render file, named `P.png`, `P.gif`, or `P.mp4`; while an actual SURFER render is pending, `P.render.txt` occupies this slot and contains the exact render recipe;
+2. `P.source.txt`: provenance, exact machine spellings, and a `SURFER:` line;
+3. `P.why.txt`: plain text explaining why the polynomial was mentioned.
 
-```
-I = ideal(f, g, h)
-```
+The primary slot is exclusive. Never keep both `P.render.txt` and `P.png`.
 
-catalog `I` and separately catalog `f`, `g`, and `h`.
+Do not create `why.md`. Do not create a directory-level `WHY.md`.
 
-If the book later intersects, unions, saturates, eliminates, projects, specializes, degenerates, or otherwise transforms objects, catalog the resulting object separately and link its inputs through `components.txt` or the provenance/context files.
+## Source files
 
-Do not confuse union with intersection:
+A polynomial source file records provenance, not interpretation. Include `Display:`, `SURFER:`, `Macaulay2:`, book/chapter/section/role, and upstream location. Add later occurrences instead of replacing the first one.
 
-- `V(f) ∩ V(g) = V(f, g)`
-- `V(f × g) = V(f) ∪ V(g)`
+Machine syntax may use `*`; filenames and prose may use `×`.
 
-The first chapter of the book deliberately exercises this distinction at the ideal level.
+## Variety records
 
-## Mathematical display notation
+A variety, scheme, ideal, union, intersection, saturation, projection, degeneration, or other composite object gets its own single `*.variety.txt` record. It does not replace component-polynomial records.
 
-Use Unicode mathematical notation in `equation.txt` and prose. When an explicit multiplication sign is useful, write `×`, not `*`.
+If the text discusses `A ∩ B ∩ C`, create a record for `A ∩ B ∩ C`. If A, B, and C are relevant component polynomials, each independently gets its own three-file polynomial bundle.
 
-Keep original machine syntax separately in `macaulay2.txt`; runnable Macaulay2 code must remain valid.
+A variety record should state kind, construction, components, machine spelling when available, source, and why the construction matters.
 
-## README is generated
+Do not flatten a system into a product polynomial:
+
+- `V(f) ∩ V(g) = V(f,g)`;
+- `V(f × g) = V(f) ∪ V(g)`.
+
+## Renders
+
+Only an actual SURFER render may replace `P.render.txt` with an image or movie. Do not synthesize a lookalike with another renderer and call it SURFER.
+
+`render-surfer.sh` drives SURFER's JVM preview renderer using the exact `SURFER:` expression from `P.source.txt`. The standard still is currently a deterministic 256×256 PNG.
+
+## Mechanical checks
 
 Run:
 
 ```
+./validate.sh
 ./generate-readme.sh
 ```
 
-from this directory after any entry change.
+`validate.sh` rejects the old `entries/` structure, Markdown why files, missing companions, and multiple primary render files.
 
-Do not hand-edit generated catalog rows in `README.md`. Change entry files or the generator.
-
-The README must expose missing renders rather than hiding them.
+`README.md` is generated. Do not hand-edit catalog rows.
 
 ## Exhaustive passes
 
-At minimum perform these independent sweeps and reconcile them:
+Maintain `coverage.tsv`. Reconcile at least:
 
-1. official full book text/PDF in book order;
+1. official book text in book order;
 2. official table of contents/book site;
 3. every upstream `chapter.m2`;
-4. every maintained `test.m2` and chapter-specific auxiliary `.m2`;
+4. maintained `test.m2` and auxiliary `.m2` files;
 5. prose, worked examples, and exercises for equations absent from code;
-6. a second book-order pass whose sole purpose is finding omissions.
+6. a second book-order pass whose only purpose is finding omissions.
 
-Update `coverage.tsv` as each pass completes. A pass marked complete means the source was actually checked from beginning to end.
-
-Deduplicate mathematical objects only after preserving every occurrence in `source.txt`.
-
-## Render rule
-
-An atomic polynomial in three real variables should normally receive a SURFER render. If SURFER cannot directly represent a composite system or higher-dimensional object, say why in `why.md`; do not fake a surface by multiplying equations, because that changes an intersection into a union.
-
-Prefer a reproducible rendering command/script over a manually produced image whenever SURFER exposes one.
+A pass marked complete means the source was actually checked from beginning to end.

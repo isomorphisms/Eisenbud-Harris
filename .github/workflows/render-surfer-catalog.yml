@@ -1,0 +1,44 @@
+name: Render SURFER polynomial catalog
+
+on:
+  push:
+    paths:
+      - 'books/computations-with-macaulay2/varieties/*.source.txt'
+      - 'books/computations-with-macaulay2/varieties/*.render.txt'
+      - 'books/computations-with-macaulay2/varieties/render-surfer.sh'
+      - 'books/computations-with-macaulay2/varieties/ppm-to-png.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          repository: isomorphismes/algebraic-variety-explorer-mobile
+          ref: catalog-polynomial-preview
+          path: .surfer
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Render every polynomial with SURFER
+        run: books/computations-with-macaulay2/varieties/render-surfer.sh .surfer
+
+      - name: Commit deterministic renders
+        run: |
+          if git diff --quiet; then
+            exit 0
+          fi
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add books/computations-with-macaulay2/varieties
+          git commit -m "Render polynomial catalog with SURFER"
+          git push

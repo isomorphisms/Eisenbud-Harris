@@ -1,5 +1,0 @@
-Book: Computations in Algebraic Geometry with Macaulay 2
-Chapter: Ideals, Varieties, and Macaulay 2
-Section: 2. Intersecting Our Curve With a Surface
-Role: simultaneous intersection of the curve and surface; subsequent code computes dimension and degrees
-Upstream: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.m2#L16-L20

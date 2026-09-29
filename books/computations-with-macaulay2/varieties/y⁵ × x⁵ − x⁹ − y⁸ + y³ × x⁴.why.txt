@@ -1,0 +1,3 @@
+This follows the preceding reduction example with a closely related polynomial whose last monomial changes from y³ × x⁵ to y³ × x⁴.
+
+The near-neighbor construction is useful for seeing how a small input change alters reduction modulo the same ideal. A later prose pass should record the exact pedagogical contrast stated in the book.
