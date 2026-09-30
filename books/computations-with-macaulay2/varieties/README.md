@@ -14,6 +14,42 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the exact polynomial is a 19-fold plane; a point-set surface would erase the multiplicity the example is testing
 
+## 10105 × x₀ × x₁ × x₂³ + 6063 × x₁ × x₂⁴ + 11820 × x₀ × x₁² × x₃² + 1305 × x₁² × x₂ × x₃² − 2394 × x₀² × x₃³ − 1037 × x₀ × x₂ × x₃³ + 4042 × x₂² × x₃³
+
+- [source](<10105 × x₀ × x₁ × x₂³ + 6063 × x₁ × x₂⁴ + 11820 × x₀ × x₁² × x₃² + 1305 × x₁² × x₂ × x₃² − 2394 × x₀² × x₃³ − 1037 × x₀ × x₂ × x₃³ + 4042 × x₂² × x₃³.source.txt>) · [why](<10105 × x₀ × x₁ × x₂³ + 6063 × x₁ × x₂⁴ + 11820 × x₀ × x₁² × x₃² + 1305 × x₁² × x₂ × x₃² − 2394 × x₀² × x₃³ − 1037 × x₀ × x₂ × x₃³ + 4042 × x₂² × x₃³.why.txt>)
+
+**SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
+
+## 10105 × x₀² × x₁ × x₂² − 11322 × x₀ × x₁ × x₂³ + 11322 × x₁ × x₂⁴ − 15169 × x₀ × x₁² × x₃² + 15287 × x₁² × x₂ × x₃² − 8396 × x₀² × x₃³
+
+- [source](<10105 × x₀² × x₁ × x₂² − 11322 × x₀ × x₁ × x₂³ + 11322 × x₁ × x₂⁴ − 15169 × x₀ × x₁² × x₃² + 15287 × x₁² × x₂ × x₃² − 8396 × x₀² × x₃³.source.txt>) · [why](<10105 × x₀² × x₁ × x₂² − 11322 × x₀ × x₁ × x₂³ + 11322 × x₁ × x₂⁴ − 15169 × x₀ × x₁² × x₃² + 15287 × x₁² × x₂ × x₃² − 8396 × x₀² × x₃³.why.txt>)
+
+**SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
+
+## 10105 × x₀² × x₂² × x₃ − 11322 × x₀ × x₂³ × x₃ + 11322 × x₂⁴ × x₃ + 8396 × x₁³ × x₃² + 788 × x₀ × x₁ × x₃³ + 6891 × x₁ × x₂ × x₃³
+
+- [source](<10105 × x₀² × x₂² × x₃ − 11322 × x₀ × x₂³ × x₃ + 11322 × x₂⁴ × x₃ + 8396 × x₁³ × x₃² + 788 × x₀ × x₁ × x₃³ + 6891 × x₁ × x₂ × x₃³.source.txt>) · [why](<10105 × x₀² × x₂² × x₃ − 11322 × x₀ × x₂³ × x₃ + 11322 × x₂⁴ × x₃ + 8396 × x₁³ × x₃² + 788 × x₀ × x₁ × x₃³ + 6891 × x₁ × x₂ × x₃³.why.txt>)
+
+**SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
+
+## 10105 × x₀² × x₂² − 11322 × x₀ × x₂³ + 11322 × x₂⁴ + 8396 × x₁³ × x₃ + 788 × x₀ × x₁ × x₃² + 6891 × x₁ × x₂ × x₃²
+
+- [source](<10105 × x₀² × x₂² − 11322 × x₀ × x₂³ + 11322 × x₂⁴ + 8396 × x₁³ × x₃ + 788 × x₀ × x₁ × x₃² + 6891 × x₁ × x₂ × x₃².source.txt>) · [why](<10105 × x₀² × x₂² − 11322 × x₀ × x₂³ + 11322 × x₂⁴ + 8396 × x₁³ × x₃ + 788 × x₀ × x₁ × x₃² + 6891 × x₁ × x₂ × x₃².why.txt>)
+
+**SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
+
+## 10105 × x₀² × x₂³ − 11322 × x₀ × x₂⁴ + 11322 × x₂⁵ + 8396 × x₁³ × x₂ × x₃ + 788 × x₀ × x₁ × x₂ × x₃² + 6891 × x₁ × x₂² × x₃²
+
+- [source](<10105 × x₀² × x₂³ − 11322 × x₀ × x₂⁴ + 11322 × x₂⁵ + 8396 × x₁³ × x₂ × x₃ + 788 × x₀ × x₁ × x₂ × x₃² + 6891 × x₁ × x₂² × x₃².source.txt>) · [why](<10105 × x₀² × x₂³ − 11322 × x₀ × x₂⁴ + 11322 × x₂⁵ + 8396 × x₁³ × x₂ × x₃ + 788 × x₀ × x₁ × x₂ × x₃² + 6891 × x₁ × x₂² × x₃².why.txt>)
+
+**SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
+
+## 10105 × x₀³ × x₂² − 11322 × x₀² × x₂³ + 11322 × x₀ × x₂⁴ + 8396 × x₀ × x₁³ × x₃ + 788 × x₀² × x₁ × x₃² + 6891 × x₀ × x₁ × x₂ × x₃²
+
+- [source](<10105 × x₀³ × x₂² − 11322 × x₀² × x₂³ + 11322 × x₀ × x₂⁴ + 8396 × x₀ × x₁³ × x₃ + 788 × x₀² × x₁ × x₃² + 6891 × x₀ × x₁ × x₂ × x₃².source.txt>) · [why](<10105 × x₀³ × x₂² − 11322 × x₀² × x₂³ + 11322 × x₀ × x₂⁴ + 8396 × x₀ × x₁³ × x₃ + 788 × x₀² × x₁ × x₃² + 6891 × x₀ × x₁ × x₂ × x₃².why.txt>)
+
+**SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
+
 ## 15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5
 
 - [source](<15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5.source.txt>) · [why](<15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5.why.txt>)
@@ -506,6 +542,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the monomial is a quotient-basis element with repeated coordinate factors; a surface picture would discard the quotient and exponent information
 
+## x₀ + 7742 × x₂ − 15779 × x₄
+
+- [source](<x₀ + 7742 × x₂ − 15779 × x₄.source.txt>) · [why](<x₀ + 7742 × x₂ − 15779 × x₄.why.txt>)
+
+**SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
+
 ## x₀ + x₁
 
 - [source](<x₀ + x₁.source.txt>) · [why](<x₀ + x₁.why.txt>)
@@ -578,6 +620,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
 
+## x₀³ × x₂² + 10915 × x₀² × x₂³ + 807 × x₀ × x₂⁴ + 4043 × x₂⁵ + 7655 × x₀ × x₁ × x₂ × x₃² − 15561 × x₁ × x₂² × x₃² − 14150 × x₃⁵
+
+- [source](<x₀³ × x₂² + 10915 × x₀² × x₂³ + 807 × x₀ × x₂⁴ + 4043 × x₂⁵ + 7655 × x₀ × x₁ × x₂ × x₃² − 15561 × x₁ × x₂² × x₃² − 14150 × x₃⁵.source.txt>) · [why](<x₀³ × x₂² + 10915 × x₀² × x₂³ + 807 × x₀ × x₂⁴ + 4043 × x₂⁵ + 7655 × x₀ × x₁ × x₂ × x₃² − 15561 × x₁ × x₂² × x₃² − 14150 × x₃⁵.why.txt>)
+
+**SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
+
 ## x₀³
 
 - [source](<x₀³.source.txt>) · [why](<x₀³.why.txt>)
@@ -601,6 +649,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x₀⁵ + x₁⁵ + x₂⁵.source.txt>) · [why](<x₀⁵ + x₁⁵ + x₂⁵.why.txt>)
 
 **SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁ + 6551 × x₃
+
+- [source](<x₁ + 6551 × x₃.source.txt>) · [why](<x₁ + 6551 × x₃.why.txt>)
+
+**SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
 
 ## x₁ + x₃
 
@@ -1092,6 +1146,7 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 - [C.dd₂ syzygy matrix](<C.dd₂ syzygy matrix.variety.txt>)
 - [C.dd₃ syzygy matrix](<C.dd₃ syzygy matrix.variety.txt>)
+- [Euler resolution matrices for ΩP³](<Euler resolution matrices for ΩP³.variety.txt>)
 - [Fermat quintic idealC2](<Fermat quintic idealC2.variety.txt>)
 - [F₁₀₁ decomposition component 01](<F₁₀₁ decomposition component 01.variety.txt>)
 - [F₁₀₁ decomposition component 02](<F₁₀₁ decomposition component 02.variety.txt>)
@@ -1107,6 +1162,7 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [GB(I = toric parametrization ideal)](<GB(I = toric parametrization ideal).variety.txt>)
 - [GB(curve)](<GB(curve).variety.txt>)
 - [I = toric parametrization ideal](<I = toric parametrization ideal.variety.txt>)
+- [Jacobian map δ₁ for twisted cubic](<Jacobian map δ₁ for twisted cubic.variety.txt>)
 - [M = staircase³](<M = staircase³.variety.txt>)
 - [V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface)](<V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface).variety.txt>)
 - [V(I_curve ∩ I_surface) = V(I_curve) ∪ V(I_surface)](<V(I_curve ∩ I_surface) = V(I_curve) ∪ V(I_surface).variety.txt>)
@@ -1116,7 +1172,10 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [basis(R∕staircase), 65 standard monomials](<basis(R∕staircase), 65 standard monomials.variety.txt>)
 - [basis(R∕staircase³), 690 standard monomials](<basis(R∕staircase³), 690 standard monomials.variety.txt>)
 - [basis({25,219}, multigraded R)](<basis({25,219}, multigraded R).variety.txt>)
+- [canonical generators canGens](<canonical generators canGens.variety.txt>)
+- [canonical homomorphism f](<canonical homomorphism f.variety.txt>)
 - [canonical idealXcan](<canonical idealXcan.variety.txt>)
+- [cotangent sheaf presentation on twisted cubic](<cotangent sheaf presentation on twisted cubic.variety.txt>)
 - [curve₁ = saturate(curve, (x))](<curve₁ = saturate(curve, (x)).variety.txt>)
 - [curve₂ = saturate(curve, curve₁)](<curve₂ = saturate(curve, curve₁).variety.txt>)
 - [decompose(ourpoints over F₁₀₁)](<decompose(ourpoints over F₁₀₁).variety.txt>)
@@ -1128,6 +1187,7 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [idealY = L₁ ∪ L₂](<idealY = L₁ ∪ L₂.variety.txt>)
 - [linear idealX in P⁴](<linear idealX in P⁴.variety.txt>)
 - [mystery curve idealX](<mystery curve idealX.variety.txt>)
+- [plane map toP2](<plane map toP2.variety.txt>)
 - [plane model idealXplane](<plane model idealXplane.variety.txt>)
 - [quadratic embedding idealC5](<quadratic embedding idealC5.variety.txt>)
 - [quadratic subideal idealS](<quadratic subideal idealS.variety.txt>)
