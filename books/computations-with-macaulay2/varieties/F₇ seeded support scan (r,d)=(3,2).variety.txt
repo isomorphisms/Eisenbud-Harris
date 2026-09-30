@@ -1,0 +1,10 @@
+Kind: deterministic random module/support-variety experiment over F₇
+Random-module parameters: rank r=3, generator degree d=2
+Presentation rows:
+- 2 × x² − 2 × x × y + 2 × y² + 2 × x × z − 3 × z²
+- − x² + 2 × x × y + y² + 3 × x × z + 3 × y × z − z²
+- − 2 × x × z + 2 × y × z + 2 × z²
+Support-variety ideal:
+- zero ideal
+Source: completeIntersections/chapter.m2/test.m2 lines 184–195 with setRandomSeed(); expected transcript lines 677–724.
+Why: This is one of the nine seeded random modules used to demonstrate supportVarietyIdeal over B″=F₇[x,y,z]/(x⁷,y⁷,z⁷).

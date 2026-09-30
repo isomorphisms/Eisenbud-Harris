@@ -1,0 +1,3 @@
+status: unavailable
+reason: this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+SURFER: unavailable

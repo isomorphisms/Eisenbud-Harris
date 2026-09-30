@@ -1,0 +1,10 @@
+Display: − x³ − 2 × x² × y − x × y² − 2 × x × y × z + 3 × y² × z + 2 × x × z² − y × z² − 2 × z³
+SURFER: unavailable
+Macaulay2: -x^3-2*x^2*y-x*y^2-2*x*y*z+3*y^2*z+2*x*z^2-y*z^2-2*z^3
+Coefficient ring: ZZ/7[x,y,z]
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Occurrences:
+- seeded F₇ support scan (r,d)=(2,3)
+Transcript source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/chapter.out.expected#L677-L724
+Generation source: chapter.m2/test.m2 lines 184–195 with setRandomSeed().

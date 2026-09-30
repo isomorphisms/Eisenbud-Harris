@@ -1,0 +1,10 @@
+Display: X₁ + X₃
+SURFER: unavailable
+Macaulay2: X_1+X_3
+Coefficient ring: ZZ/7[X_1,X_2,X_3]
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Occurrences:
+- seeded F₇ support scan (r,d)=(1,1)
+Transcript source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/chapter.out.expected#L677-L724
+Generation source: chapter.m2/test.m2 lines 184–195 with setRandomSeed().

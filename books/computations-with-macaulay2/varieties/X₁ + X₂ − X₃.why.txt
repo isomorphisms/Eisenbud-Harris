@@ -1,0 +1,3 @@
+This polynomial is emitted by the deterministic random support-variety scan over F₇.
+
+It is a generator of the computed support-variety ideal in the Ext coordinate ring. The finite field is part of the experiment; no real SURFER reinterpretation is substituted.

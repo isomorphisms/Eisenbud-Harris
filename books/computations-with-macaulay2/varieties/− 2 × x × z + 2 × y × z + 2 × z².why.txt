@@ -1,0 +1,3 @@
+This polynomial is emitted by the deterministic random support-variety scan over F₇.
+
+It is one row of the seeded random presentation matrix defining the module V. The finite field is part of the experiment; no real SURFER reinterpretation is substituted.

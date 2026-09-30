@@ -7,4 +7,4 @@ Ext support-coordinate matrices	complete	X₁,X₂,X₃ occurrences merged rathe
 supportVarietyPairIdeal(M,N)	complete	ideal(X₁) recorded
 supportVarietyPairIdeal(M,N′)	complete	zero ideal recorded
 Poincare/Bass/Ext generating series	structured-non-variety	retained as rational/Laurent series outputs; not promoted to algebraic-variety polynomial bundles
-F7 seeded random support scan	pending-side-effect	printed random modules/support ideals occur only in chapter.out.expected and require separate deterministic transcript audit
+F7 seeded random support scan	complete	all nine deterministic module presentations and three nonzero support-ideal generator sets transcribed from chapter.out.expected
