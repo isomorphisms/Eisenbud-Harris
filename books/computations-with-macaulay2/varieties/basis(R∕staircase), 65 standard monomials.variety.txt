@@ -1,0 +1,5 @@
+Kind: quotient-ring vector-space basis
+Construction: basis(R/staircase)
+Size: 65 standard monomials
+Source: chapter.m2 lines 20–22; chapter.out.expected lines 82–95; test.oldvalues o22.
+Why: The 65 standard monomials witness the degree of the zero-dimensional initial ideal combinatorially. The full basis is preserved upstream as one structured matrix; its individual monomials are not defining/component equations of separate objects.

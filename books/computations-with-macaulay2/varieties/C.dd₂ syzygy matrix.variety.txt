@@ -1,0 +1,13 @@
+Kind: matrix of second syzygies in the minimal free resolution of M=staircase³
+Matrix size: 16 × 27
+Distinct nonzero polynomial entries:
+- y³
+- x⁴
+- z⁵
+- y²
+- x
+- x × y²
+- x⁵
+- y⁵
+Source: chapter.m2 line 49; chapter.out.expected lines 293–314; test.oldvalues o49.
+Why: The matrix records relations among the 16 minimal generators in C.dd₁. Cataloging the distinct coefficient polynomials avoids pretending that the many zero/repeated matrix entries are independent geometric objects.

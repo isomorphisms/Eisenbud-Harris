@@ -1,0 +1,5 @@
+Kind: quotient-ring vector-space basis
+Construction: basis(R/staircase³)
+Size: 690 standard monomials
+Source: chapter.m2 lines 37–44; chapter.out.expected lines 189–264; test.oldvalues o42/o43.
+Why: The 690-element standard-monomial basis records the length/degree of the monomial quotient. The source treats it as one basis matrix; selected degree-19 basis elements are cataloged separately because the next computation singles them out.

@@ -5,3 +5,4 @@ Book: Computations in Algebraic Geometry with Macaulay 2
 Chapter: Ideals, Varieties, and Macaulay 2
 Role: second generator of curve₂ and a later staircase generator
 Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L32
+Resolution occurrence: nonzero coefficient in C.dd_2 and/or C.dd_3; chapter.out.expected lines 293–346.

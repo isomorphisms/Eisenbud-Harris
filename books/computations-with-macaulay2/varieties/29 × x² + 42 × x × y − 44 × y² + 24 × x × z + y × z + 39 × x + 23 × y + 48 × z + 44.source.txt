@@ -1,0 +1,9 @@
+Display: 29 × x² + 42 × x × y − 44 × y² + 24 × x × z + y × z + 39 × x + 23 × y + 48 × z + 44
+SURFER: unavailable
+Macaulay2: 29*x^2+42*x*y-44*y^2+24*x*z+y*z+39*x+23*y+48*z+44
+Coefficient ring: ZZ/101
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: generator in F₁₀₁ decomposition component(s) 10
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L126-L165
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/test.oldvalues

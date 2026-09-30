@@ -1,0 +1,9 @@
+Display: z⁵ + 46 × x² − 46 × x × y + 8 × y² − 48 × x − 19 × y − 29
+SURFER: unavailable
+Macaulay2: z^5+46*x^2-46*x*y+8*y^2-48*x-19*y-29
+Coefficient ring: ZZ/101
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: generator in F₁₀₁ decomposition component(s) 11
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L126-L165
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/test.oldvalues

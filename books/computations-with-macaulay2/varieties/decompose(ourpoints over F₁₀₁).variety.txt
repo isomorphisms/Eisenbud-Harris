@@ -1,0 +1,17 @@
+Kind: decomposition of a zero-dimensional ideal over F₁₀₁
+Construction: R'=ZZ/101[x,y,z]; ourpoints'=substitute(ourpoints,R'); decompose ourpoints'
+Components and degrees:
+- F₁₀₁ decomposition component 01: degree 1
+- F₁₀₁ decomposition component 02: degree 1
+- F₁₀₁ decomposition component 03: degree 1
+- F₁₀₁ decomposition component 04: degree 1
+- F₁₀₁ decomposition component 05: degree 1
+- F₁₀₁ decomposition component 06: degree 6
+- F₁₀₁ decomposition component 07: degree 6
+- F₁₀₁ decomposition component 08: degree 6
+- F₁₀₁ decomposition component 09: degree 6
+- F₁₀₁ decomposition component 10: degree 6
+- F₁₀₁ decomposition component 11: degree 30
+Degree check: 1 + 1 + 1 + 1 + 1 + 6 + 6 + 6 + 6 + 6 + 30 = 65
+Source: chapter.m2 lines 28–32; chapter.out.expected lines 119–165; test.oldvalues o30/o32.
+Why: The decomposition breaks the 65-point ideal into 11 finite-field components. Five are rational points of degree 1, five have degree 6, and one has degree 30; their degrees recover the earlier total degree 65.

@@ -1,0 +1,12 @@
+Kind: matrix of third syzygies in the minimal free resolution of M=staircase³
+Matrix size: 27 × 12
+Distinct nonzero polynomial entries:
+- z⁵
+- y³
+- x⁴
+- y⁵
+- x⁵
+- y²
+- x
+Source: chapter.m2 line 50; chapter.out.expected lines 314–346; test.oldvalues o50.
+Why: This is the next differential in the minimal resolution. Its nonzero coefficients are drawn from the same small monomial vocabulary, now arranged to encode higher relations.

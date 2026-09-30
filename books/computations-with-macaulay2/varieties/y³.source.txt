@@ -1,0 +1,7 @@
+Display: y³
+SURFER: unavailable
+Macaulay2: y^3
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: nonzero coefficient appearing in the C.dd_2/C.dd_3 syzygy matrices of the minimal resolution of M=staircase³
+Derived output: chapter.out.expected lines 293–346; machine-readable matrices o49/o50 in test.oldvalues.

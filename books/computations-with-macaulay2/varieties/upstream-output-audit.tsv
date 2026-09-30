@@ -2,17 +2,17 @@ output_area	source_lines	status	note
 opening Groebner basis	chapter.out.expected 11-14	complete	unit multiple y⁵−x⁴ deduplicated to x⁴−y⁵; two new generators cataloged
 curve saturations	chapter.out.expected 25-35	complete	curve₁ and curve₂ plus component polynomials cataloged
 theirunion product/intersection ideal	chapter.out.expected 58-64	complete	three displayed expanded generators cataloged
-ourpoints sum ideal	chapter.out.expected 67-73	complete	all four displayed generators already cataloged
+ourpoints sum ideal	chapter.out.expected 67-73	complete	all four displayed generators cataloged
 staircase leading-term ideal	chapter.out.expected 82-86	complete	four monomial generators cataloged
-basis R/staircase (65 standard monomials)	chapter.out.expected 90-95	structured-only	basis list is recorded by its ideal/dimension context; individual 65 monomials not yet expanded
+basis R/staircase (65 standard monomials)	chapter.out.expected 90-95	structured	preserved as one 65-element basis record; entries are standard monomials, not separate defining/component equations
 polynomial reductions	chapter.out.expected 95-117	complete	inputs and nonzero remainder cataloged; second remainder is zero
-F101 decomposition	chapter.out.expected 119-165	pending	large decomposition into ten ideals remains the main explicit-output gap
+F101 decomposition	chapter.out.expected 119-165	complete	11 component ideals, degrees, and 34 distinct finite-field generator polynomials cataloged
 elimination Groebner basis	chapter.out.expected 167-187	complete	three triangular/elimination polynomials cataloged
 M=staircase³ generators	chapter.out.expected 189-223	complete	all 20 displayed generators cataloged; four redundant generators noted
-basis R/M (690 standard monomials)	chapter.out.expected 229-260	structured-only	690-element basis not expanded into 690 individual records
+basis R/M (690 standard monomials)	chapter.out.expected 229-260	structured	preserved as one 690-element basis record; three degree-19 elements singled out later are cataloged individually
 degree-19 basis and reduction	chapter.out.expected 261-271	complete	three basis monomials and reduced polynomial cataloged
-resolution C.dd_1	chapter.out.expected 273-291	complete-as-generator-check	16 minimal generators are members of M; four omitted redundant M generators recorded
-resolution C.dd_2 and C.dd_3	chapter.out.expected 293-346	pending	matrix-entry/syzygy polynomial sweep remains
+resolution C.dd_1	chapter.out.expected 273-291	complete	16 minimal generators are cataloged M generators; four omitted redundant M generators recorded
+resolution C.dd_2 and C.dd_3	chapter.out.expected 293-346	complete	distinct nonzero coefficient polynomials cataloged and matrices recorded structurally
 multigraded basis {25,219}	chapter.out.expected 350-384	complete	nine displayed basis monomials cataloged
 toric Groebner basis	chapter.out.expected 391-419	complete	18 relations represented; xy−p deduplicated as unit multiple of p−xy
 toric quotient normal forms	chapter.out.expected 425-469	complete	six displayed normal forms cataloged

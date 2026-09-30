@@ -1,0 +1,3 @@
+status: unavailable
+reason: this monomial is a graded syzygy coefficient; its reduced zero-set plane hides the exponent and resolution data
+SURFER: unavailable

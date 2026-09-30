@@ -1,0 +1,12 @@
+Kind: ideal over F₁₀₁
+Construction: component 8 returned by decompose(ourpoints') after base change to ZZ/101
+Degree: 6
+Components:
+- − 41 × x² + 30 × x × y + x × z + 30 × x + 38 × y − 30 × z + 1
+- − 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44
+- − 24 × x² − 5 × x × y + 14 × y² − 34 × x × z + y × z + 5 × x − 31 × y + 26 × z − 16
+- 16 × x² − 23 × x × y + z² + 8 × x − 26 × y − 31 × z − 26
+- x³ + 11 × x² + 6 × x × y − 5 × y² − 11 × x + y + 5
+- 19 × x³ + x² × y + x² + 20 × x × y − 19 × x + 20 × y − 18
+Source: chapter.m2 lines 28–32; chapter.out.expected lines 119–165; machine-readable value o30/o32 in test.oldvalues.
+Why: This is one of the 11 components in the finite-field decomposition of the degree-65 intersection. The component degrees sum to 65.

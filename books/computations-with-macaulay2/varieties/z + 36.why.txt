@@ -1,0 +1,3 @@
+This polynomial appears as a generator of component 5 when the 65-point ideal is moved to F₁₀₁ and decomposed.
+
+The coefficient field is part of the example: the decomposition is being used to make the finite zero-dimensional scheme computationally tractable and to expose its component degrees. The same integer-looking formula interpreted over R would be a different geometric problem, so no real SURFER image is substituted for this occurrence.

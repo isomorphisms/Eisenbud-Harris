@@ -1,0 +1,3 @@
+This monomial appears as a coefficient in the higher syzygy matrices of the minimal free resolution of M=staircase³.
+
+Its exponent is part of the graded relation among monomial generators. A picture of the coordinate plane would erase the multiplicity and the matrix position that give the polynomial its meaning here.

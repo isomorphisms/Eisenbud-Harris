@@ -1,0 +1,3 @@
+status: unavailable
+reason: this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+SURFER: unavailable
