@@ -188,17 +188,41 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
+## 2 × x × y − 3 × x × z − 3 × y × z − 2 × z²
+
+- [source](<2 × x × y − 3 × x × z − 3 × y × z − 2 × z².source.txt>) · [why](<2 × x × y − 3 × x × z − 3 × y × z − 2 × z².why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
 ## 2 × x × y
 
 - [source](<2 × x × y.source.txt>) · [why](<2 × x × y.why.txt>)
 
 **SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
+## 2 × x × y² + 3 × y³ − 3 × x² × z − 2 × y² × z + 2 × x × z² + 2 × y × z²
+
+- [source](<2 × x × y² + 3 × y³ − 3 × x² × z − 2 × y² × z + 2 × x × z² + 2 × y × z².source.txt>) · [why](<2 × x × y² + 3 × y³ − 3 × x² × z − 2 × y² × z + 2 × x × z² + 2 × y × z².why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
+## 2 × x² − 2 × x × y + 2 × y² + 2 × x × z − 3 × z²
+
+- [source](<2 × x² − 2 × x × y + 2 × y² + 2 × x × z − 3 × z².source.txt>) · [why](<2 × x² − 2 × x × y + 2 × y² + 2 × x × z − 3 × z².why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
 ## 2 × x²
 
 - [source](<2 × x².source.txt>) · [why](<2 × x².why.txt>)
 
 **SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 2 × x³ − x² × y + 2 × x × y² − y³ − 2 × x × y × z + 3 × y² × z + x × z² + 3 × y × z² + z³
+
+- [source](<2 × x³ − x² × y + 2 × x × y² − y³ − 2 × x × y × z + 3 × y² × z + x × z² + 3 × y × z² + z³.source.txt>) · [why](<2 × x³ − x² × y + 2 × x × y² − y³ − 2 × x × y × z + 3 × y² × z + x × z² + 3 × y × z² + z³.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
 
 ## 2 × y × z − 5 × z²
 
@@ -278,11 +302,23 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
+## 3 × x − y − z
+
+- [source](<3 × x − y − z.source.txt>) · [why](<3 × x − y − z.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
 ## 3 × x² × a + 2 × x × y × b + y² × d + 2 × x × z × c + y × z × e + z² × f
 
 - [source](<3 × x² × a + 2 × x × y × b + y² × d + 2 × x × z × c + y × z × e + z² × f.source.txt>) · [why](<3 × x² × a + 2 × x × y × b + y² × d + 2 × x × z × c + y × z × e + z² × f.why.txt>)
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 3 × x² − 2 × x × y + x × z − 3 × y × z
+
+- [source](<3 × x² − 2 × x × y + x × z − 3 × y × z.source.txt>) · [why](<3 × x² − 2 × x × y + x × z − 3 × y × z.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
 
 ## 3 × x²
 
@@ -470,11 +506,35 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## X₁ + 3 × X₂ + 2 × X₃
+
+- [source](<X₁ + 3 × X₂ + 2 × X₃.source.txt>) · [why](<X₁ + 3 × X₂ + 2 × X₃.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
+## X₁ + X₂ − X₃
+
+- [source](<X₁ + X₂ − X₃.source.txt>) · [why](<X₁ + X₂ − X₃.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
+## X₁ + X₃
+
+- [source](<X₁ + X₃.source.txt>) · [why](<X₁ + X₃.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
 ## X₁
 
 - [source](<X₁.source.txt>) · [why](<X₁.why.txt>)
 
 **SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
+
+## X₂ − 2 × X₃
+
+- [source](<X₂ − 2 × X₃.source.txt>) · [why](<X₂ − 2 × X₃.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
 
 ## X₂
 
@@ -1393,6 +1453,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x − 1.source.txt>) · [why](<x − 1.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## x − 2 × y + 3 × z
+
+- [source](<x − 2 × y + 3 × z.source.txt>) · [why](<x − 2 × y + 3 × z.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
 
 ## x − a
 
@@ -2648,11 +2714,35 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
+## − 2 × x + 3 × y + 2 × z
+
+- [source](<− 2 × x + 3 × y + 2 × z.source.txt>) · [why](<− 2 × x + 3 × y + 2 × z.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
+## − 2 × x × z + 2 × y × z + 2 × z²
+
+- [source](<− 2 × x × z + 2 × y × z + 2 × z².source.txt>) · [why](<− 2 × x × z + 2 × y × z + 2 × z².why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
+## − 2 × x − 2 × y
+
+- [source](<− 2 × x − 2 × y.source.txt>) · [why](<− 2 × x − 2 × y.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
 ## − 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44
 
 - [source](<− 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44.source.txt>) · [why](<− 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 2 × x³ + 3 × x² × y + y³ − x² × z − 3 × y² × z − x × z² − 3 × z³
+
+- [source](<− 2 × x³ + 3 × x² × y + y³ − x² × z − 3 × y² × z − x × z² − 3 × z³.source.txt>) · [why](<− 2 × x³ + 3 × x² × y + y³ − x² × z − 3 × y² × z − x × z² − 3 × z³.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
 
 ## − 2 × y + 5 × z
 
@@ -2713,6 +2803,30 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<− 26 × x³ + x × y² − 16 × x² − 21 × x × y − 5 × y² + 16 × x − 26 × y + 4.source.txt>) · [why](<− 26 × x³ + x × y² − 16 × x² − 21 × x × y − 5 × y² + 16 × x − 26 × y + 4.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 3 × x − y + 2 × z
+
+- [source](<− 3 × x − y + 2 × z.source.txt>) · [why](<− 3 × x − y + 2 × z.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
+## − 3 × x³ − 2 × x² × y − x × y² − 2 × y³ − 2 × x × y × z + y² × z + x × z² + 3 × y × z² − z³
+
+- [source](<− 3 × x³ − 2 × x² × y − x × y² − 2 × y³ − 2 × x × y × z + y² × z + x × z² + 3 × y × z² − z³.source.txt>) · [why](<− 3 × x³ − 2 × x² × y − x × y² − 2 × y³ − 2 × x × y × z + y² × z + x × z² + 3 × y × z² − z³.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
+## − 3 × x³ − 3 × x² × y + 3 × x × y² + 2 × x² × z + 3 × x × y × z − 3 × y² × z − x × z²
+
+- [source](<− 3 × x³ − 3 × x² × y + 3 × x × y² + 2 × x² × z + 3 × x × y × z − 3 × y² × z − x × z².source.txt>) · [why](<− 3 × x³ − 3 × x² × y + 3 × x × y² + 2 × x² × z + 3 × x × y × z − 3 × y² × z − x × z².why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
+## − 3 × y + 3 × z
+
+- [source](<− 3 × y + 3 × z.source.txt>) · [why](<− 3 × y + 3 × z.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
 
 ## − 30 × x² − 20 × x × y + z² − 15 × x − 27 × y − 16 × z − 27
 
@@ -2948,11 +3062,29 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
+## − x² + 2 × x × y + y² + 3 × x × z + 3 × y × z − z²
+
+- [source](<− x² + 2 × x × y + y² + 3 × x × z + 3 × y × z − z².source.txt>) · [why](<− x² + 2 × x × y + y² + 3 × x × z + 3 × y × z − z².why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
+## − x² + 2 × y² − x × z + y × z + 3 × z²
+
+- [source](<− x² + 2 × y² − x × z + y × z + 3 × z².source.txt>) · [why](<− x² + 2 × y² − x × z + y × z + 3 × z².why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
+
 ## − x²
 
 - [source](<− x².source.txt>) · [why](<− x².why.txt>)
 
 **SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − x³ − 2 × x² × y − x × y² − 2 × x × y × z + 3 × y² × z + 2 × x × z² − y × z² − 2 × z³
+
+- [source](<− x³ − 2 × x² × y − x × y² − 2 × x × y × z + 3 × y² × z + 2 × x × z² − y × z² − 2 × z³.source.txt>) · [why](<− x³ − 2 × x² × y − x × y² − 2 × x × y × z + 3 × y² × z + 2 × x × z² − y × z² − 2 × z³.why.txt>)
+
+**SURFER unavailable:** this polynomial belongs to a deterministic F₇ random support-variety experiment; interpreting it over R would change the experiment
 
 ## − x₁³ × x₂ + x₀³ × x₃
 
@@ -3126,6 +3258,15 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [F₁₀₃ one-variable complete intersection](<F₁₀₃ one-variable complete intersection.variety.txt>)
 - [F₁₀₃ three-variable complete intersection](<F₁₀₃ three-variable complete intersection.variety.txt>)
 - [F₁₀₃ two-variable complete intersection](<F₁₀₃ two-variable complete intersection.variety.txt>)
+- [F₇ seeded support scan (r,d)=(1,1)](<F₇ seeded support scan (r,d)=(1,1).variety.txt>)
+- [F₇ seeded support scan (r,d)=(1,2)](<F₇ seeded support scan (r,d)=(1,2).variety.txt>)
+- [F₇ seeded support scan (r,d)=(1,3)](<F₇ seeded support scan (r,d)=(1,3).variety.txt>)
+- [F₇ seeded support scan (r,d)=(2,1)](<F₇ seeded support scan (r,d)=(2,1).variety.txt>)
+- [F₇ seeded support scan (r,d)=(2,2)](<F₇ seeded support scan (r,d)=(2,2).variety.txt>)
+- [F₇ seeded support scan (r,d)=(2,3)](<F₇ seeded support scan (r,d)=(2,3).variety.txt>)
+- [F₇ seeded support scan (r,d)=(3,1)](<F₇ seeded support scan (r,d)=(3,1).variety.txt>)
+- [F₇ seeded support scan (r,d)=(3,2)](<F₇ seeded support scan (r,d)=(3,2).variety.txt>)
+- [F₇ seeded support scan (r,d)=(3,3)](<F₇ seeded support scan (r,d)=(3,3).variety.txt>)
 - [F₇ support-variety scan complete intersection](<F₇ support-variety scan complete intersection.variety.txt>)
 - [GB(I = toric parametrization ideal)](<GB(I = toric parametrization ideal).variety.txt>)
 - [GB(curve)](<GB(curve).variety.txt>)
