@@ -1,0 +1,7 @@
+Display: z⁵ + x⁵ + x⁴ − 1
+SURFER: z^5+x^5+x^4-1
+Macaulay2: z^5+x^5+x^4-1
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: third Gröbner-basis relation in the elimination ordering
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L178

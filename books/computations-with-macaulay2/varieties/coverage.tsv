@@ -1,7 +1,7 @@
 source	chapter_or_area	code_pass	prose_pass	second_pass	notes
 official-book	all chapters	pending	pending	pending	Read front to back; equation labels beat page numbers when available.
 upstream-m2	preface	pending	n/a	pending	chapter.m2 and test.m2
-upstream-m2	varieties	in-progress	n/a	pending	Opening examples migrated to flat three-file polynomial invariant; not a completeness claim.
+upstream-m2	varieties	source-complete; output-in-progress	n/a	pending	chapter.m2/test.m2 literal polynomial audit complete; saturation, staircase and elimination outputs started; F101 decomposition, M/resolution matrices, and toric Gröbner output remain.
 upstream-m2	geometry	pending	n/a	pending	chapter.m2, test.m2, mystery.m2
 upstream-m2	programming	pending	n/a	pending	chapter.m2 and test.m2
 upstream-m2	schemes	pending	n/a	pending	chapter.m2 and test.m2

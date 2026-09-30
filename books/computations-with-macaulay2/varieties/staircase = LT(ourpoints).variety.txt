@@ -1,0 +1,9 @@
+Kind: monomial ideal
+Construction: ideal leadTerm ourpoints
+Components:
+- x × y²
+- z⁵
+- y⁵
+- x⁵
+Source: chapter.m2 line 20; chapter.out.expected lines 82–86.
+Why: The leading-term ideal turns the zero-dimensional intersection into a monomial staircase. Standard monomials in the quotient make the degree 65 visible combinatorially and feed the later staircase³ example.

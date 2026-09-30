@@ -1,0 +1,1 @@
+The second saturation isolates the discarded component as the ideal (x³,y⁵). The power x³ records nonreduced thickness along x=0; rendering only the plane would erase exactly that information.

@@ -1,0 +1,1 @@
+This monomial is one of the four leading terms that define the staircase quotient. Its combinatorial exponent data controls the standard monomials and later the ideal power M=staircase³.

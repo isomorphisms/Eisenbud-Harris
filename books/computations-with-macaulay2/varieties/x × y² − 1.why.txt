@@ -1,0 +1,1 @@
+Saturating the original curve by (x) removes the x-supported component and exposes this relation. The equation forces x and y to be nonzero on the retained component and is central to the changed geometry after saturation.

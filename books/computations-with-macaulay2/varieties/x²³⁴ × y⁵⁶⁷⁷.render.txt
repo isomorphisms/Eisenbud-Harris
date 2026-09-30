@@ -1,0 +1,3 @@
+status: unavailable
+reason: degree 5911 with repeated coordinate factors; exact SURFER rendering is impractical and visually loses the multiplicity
+SURFER: unavailable

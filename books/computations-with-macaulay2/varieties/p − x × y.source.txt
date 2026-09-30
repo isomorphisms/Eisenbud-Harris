@@ -1,0 +1,8 @@
+Display: p − x × y
+SURFER: unavailable
+Macaulay2: p - x*y
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: first generator of the toric parametrization ideal I
+Upstream source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.m2#L62
+Maintained source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/test.m2#L62

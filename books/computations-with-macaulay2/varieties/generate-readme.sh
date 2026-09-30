@@ -28,6 +28,9 @@ tmp="$here/README.md.tmp"
             printf '![%s](<%s.gif>)\n\n' "$name" "$name"
         elif [ -f "$base.mp4" ]; then
             printf '[SURFER rotation](<%s.mp4>)\n\n' "$name"
+        elif grep -q '^status: unavailable$' "$base.render.txt"; then
+            reason=$(sed -n 's/^reason: //p' "$base.render.txt" | head -n 1)
+            printf '**SURFER unavailable:** %s\n\n' "$reason"
         else
             formula=$(sed -n 's/^SURFER: //p' "$source" | head -n 1)
             printf '**SURFER render pending:** `%s`\n\n' "$formula"

@@ -1,0 +1,1 @@
+The monomial is chosen to demonstrate the two-component grading determined by the degree matrix A. Its purpose is algebraic degree bookkeeping, not a three-dimensional hypersurface.

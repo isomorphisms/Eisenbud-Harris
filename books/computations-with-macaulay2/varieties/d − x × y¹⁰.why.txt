@@ -1,0 +1,1 @@
+This relation records d=xy¹⁰. Its exponent is one of the semigroup weights whose relations are exposed by the Gröbner basis.

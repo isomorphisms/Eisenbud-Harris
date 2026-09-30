@@ -1,0 +1,3 @@
+status: unavailable
+reason: the reduced zero set is just x=0 union y=0 and does not show the y² multiplicity that drives the staircase combinatorics
+SURFER: unavailable

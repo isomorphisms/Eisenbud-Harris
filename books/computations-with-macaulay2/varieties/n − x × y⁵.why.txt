@@ -1,0 +1,1 @@
+This relation records n=xy⁵ in the six-variable toric presentation. It is a component polynomial of I and must remain separate from the composite ideal.

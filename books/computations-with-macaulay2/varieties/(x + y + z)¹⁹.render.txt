@@ -1,0 +1,3 @@
+status: unavailable
+reason: the exact polynomial is a 19-fold plane; a point-set surface would erase the multiplicity the example is testing
+SURFER: unavailable

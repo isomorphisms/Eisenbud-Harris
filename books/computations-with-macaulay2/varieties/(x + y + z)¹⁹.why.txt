@@ -1,0 +1,1 @@
+This polynomial is used to show how a large homogeneous expression collapses after quotienting by the monomial ideal. Its exact multiplicity is algebraically important but a point-set rendering would only show the plane x+y+z=0 and hide the 19-fold factor.

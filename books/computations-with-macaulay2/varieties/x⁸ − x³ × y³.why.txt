@@ -1,0 +1,1 @@
+This is another derived Gröbner-basis generator for the opening curve ideal. It belongs in the catalog because the transcript explicitly displays it and later computations depend on that basis.

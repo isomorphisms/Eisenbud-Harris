@@ -1,0 +1,21 @@
+source	lines	kind	catalog_record	status	note
+chapter.m2/test.m2	2	polynomial	x⁴ − y⁵	cataloged	first curve generator
+chapter.m2/test.m2	2	polynomial	x³ − y⁷	cataloged	second curve generator
+chapter.m2/test.m2	7	polynomial	x	cataloged	saturation ideal (x)
+chapter.m2/test.m2	13	polynomial	x⁵ + y⁵ + z⁵ − 1	cataloged	surface generator
+chapter.m2/test.m2	24	polynomial	y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁵	cataloged	reduction input
+chapter.m2/test.m2	26	polynomial	y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁴	cataloged	reduction input
+chapter.m2/test.m2	45	polynomial	(x + y + z)¹⁹	cataloged	explicit quotient-ring element
+chapter.m2/test.m2	56	polynomial	p⁴ × n⁸ × d¹⁰ × q³	cataloged	multidegree example
+chapter.m2/test.m2	62,72	polynomial	p − x × y	cataloged	toric parametrization relation
+chapter.m2/test.m2	62,72	polynomial	n − x × y⁵	cataloged	toric parametrization relation
+chapter.m2/test.m2	62,72	polynomial	d − x × y¹⁰	cataloged	toric parametrization relation
+chapter.m2/test.m2	62,72	polynomial	q − x × y²⁵	cataloged	toric parametrization relation
+chapter.m2/test.m2	65,73	polynomial	x¹⁰ × y¹⁰⁰	cataloged	quotient normal-form example
+chapter.m2/test.m2	66,74	polynomial	x¹⁰⁰ × y¹⁰⁰⁰	cataloged	quotient normal-form example
+chapter.m2/test.m2	67	polynomial	x³⁹ × y¹⁰⁰⁰	cataloged	quotient normal-form example
+chapter.m2/test.m2	75	polynomial	x²³⁴ × y⁵⁶⁷⁷	cataloged	weighted quotient normal-form example
+chapter.m2/test.m2	14-16	composite operation	union/intersection records	cataloged	ideal intersection/product versus ideal sum
+chapter.m2/test.m2	20,37,46	derived ideal operations	staircase, M, resolution	partial	staircase cataloged; M/resolution output expansion remains
+chapter.m2/test.m2	28-36	finite-field decomposition/elimination	derived systems	partial	elimination basis cataloged; full F101 decomposition output remains
+chapter.m2/test.m2	51-75	multigraded/toric example	toric ideal I	partial	defining ideal cataloged; Gröbner-basis output pass remains

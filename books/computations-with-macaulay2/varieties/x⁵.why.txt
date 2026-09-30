@@ -1,0 +1,1 @@
+The fifth power of x is a staircase generator that bounds standard monomials and contributes to the generators of staircase³.

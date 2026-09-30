@@ -1,0 +1,1 @@
+The fifth power of z is a staircase generator. The exponent bounds standard monomials in z and is later cubed/mixed when forming staircase³.

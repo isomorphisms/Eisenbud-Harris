@@ -1,0 +1,8 @@
+Display: x²³⁴ × y⁵⁶⁷⁷
+SURFER: unavailable
+Macaulay2: x^234 * y^5677
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: large weighted normal-form test
+Upstream source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.m2#L75
+Maintained source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/test.m2#L75

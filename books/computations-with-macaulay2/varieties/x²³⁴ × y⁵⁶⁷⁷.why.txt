@@ -1,0 +1,1 @@
+This is the final large-exponent test in the weighted quotient. It demonstrates that the chosen weighted presentation still reduces an enormous monomial to a compact expression in p,n,d,q.

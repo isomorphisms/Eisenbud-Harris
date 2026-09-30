@@ -39,8 +39,13 @@ do
     [ "$count" -eq 1 ] || fail "$name must have exactly one primary render slot, found $count"
 
     if [ -f "$base.render.txt" ]; then
-        grep -q '^status: pending actual SURFER render$' "$base.render.txt" ||
-            fail "$name pending render does not identify itself as pending"
+        if ! grep -Eq '^status: (pending actual SURFER render|unavailable)$' "$base.render.txt"; then
+            fail "$name render record must be pending or unavailable"
+        fi
+        if grep -q '^status: unavailable$' "$base.render.txt"; then
+            grep -q '^reason: ' "$base.render.txt" || fail "$name unavailable render needs a reason"
+            grep -q '^SURFER: unavailable$' "$source" || fail "$name unavailable render must use SURFER: unavailable"
+        fi
     fi
 done
 

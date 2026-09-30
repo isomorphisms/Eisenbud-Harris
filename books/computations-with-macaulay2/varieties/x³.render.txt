@@ -1,0 +1,3 @@
+status: unavailable
+reason: the zero set is only the plane x=0, while the exponent 3 is the scheme-theoretic information being recorded
+SURFER: unavailable

@@ -1,0 +1,1 @@
+This polynomial appears only after saturation. Together with x×y²−1 and the unit-equivalent original relation, it gives the saturated component that replaces the initial nonradical curve in the rest of the example.

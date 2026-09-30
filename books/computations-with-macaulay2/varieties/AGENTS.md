@@ -22,7 +22,7 @@ Unicode mathematical notation is intentional. Prefer readable basenames such as 
 
 The three siblings are:
 
-1. one primary render file, named `P.png`, `P.gif`, or `P.mp4`; while an actual SURFER render is pending, `P.render.txt` occupies this slot and contains the exact render recipe;
+1. one primary render file, named `P.png`, `P.gif`, or `P.mp4`; `P.render.txt` occupies this slot when an actual SURFER render is pending **or when no faithful canonical SURFER render exists**; it must say which case applies and why;
 2. `P.source.txt`: provenance, exact machine spellings, and a `SURFER:` line;
 3. `P.why.txt`: plain text explaining why the polynomial was mentioned.
 
@@ -53,7 +53,7 @@ Do not flatten a system into a product polynomial:
 
 Only an actual SURFER render may replace `P.render.txt` with an image or movie. Do not synthesize a lookalike with another renderer and call it SURFER.
 
-`render-surfer.sh` drives SURFER's JVM preview renderer using the exact `SURFER:` expression from `P.source.txt`. The standard still is currently a deterministic 256×256 PNG.
+`render-surfer.sh` drives SURFER's JVM preview renderer using the exact `SURFER:` expression from `P.source.txt`. `SURFER: unavailable` means there is no faithful canonical render yet (for example, extra independent variables, impractically high degree, or multiplicity that a point-set render would hide). The standard rendered still is currently a deterministic 256×256 PNG.
 
 ## Mechanical checks
 

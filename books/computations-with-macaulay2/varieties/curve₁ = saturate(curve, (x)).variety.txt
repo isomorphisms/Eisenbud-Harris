@@ -1,0 +1,8 @@
+Kind: ideal / saturated component
+Construction: saturate(curve, ideal(x))
+Components:
+- x × y² − 1
+- x⁴ − y⁵  [upstream output uses y⁵ − x⁴]
+- x⁵ − y³
+Source: chapter.m2 line 7; chapter.out.expected lines 25–29.
+Why: Saturation removes the component supported on x=0. This is the radical degree-13 component that the chapter then renames curve.

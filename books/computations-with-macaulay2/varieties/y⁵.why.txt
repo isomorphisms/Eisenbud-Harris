@@ -1,0 +1,1 @@
+The power y⁵ participates in the nonreduced component (x³,y⁵) and later reappears as a leading-term generator. A reduced picture of y=0 would discard the multiplicity.

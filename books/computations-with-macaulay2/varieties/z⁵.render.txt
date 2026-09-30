@@ -1,0 +1,3 @@
+status: unavailable
+reason: the zero set is the plane z=0; the exponent 5, not the support, is the information used downstream
+SURFER: unavailable

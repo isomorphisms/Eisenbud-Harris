@@ -1,0 +1,1 @@
+The same large monomial is reduced in two quotient rings to compare ordinary lexicographic and weighted normal forms. The algebraic reduction, not its zero set, is the point.

@@ -1,0 +1,1 @@
+This relation recovers y from x after elimination. Together with x¹³−1 and the z-equation it gives a triangular description of the intersection points.

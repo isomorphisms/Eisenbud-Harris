@@ -1,0 +1,9 @@
+Display: x¹⁰ × y¹⁰⁰
+SURFER: unavailable
+Macaulay2: x^10 * y^100
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: normal-form test in both quotient presentations
+Upstream source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.m2#L65
+Maintained source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/test.m2#L65
+Maintained repeat: test.m2 line 73; same polynomial evaluated in the weighted quotient.

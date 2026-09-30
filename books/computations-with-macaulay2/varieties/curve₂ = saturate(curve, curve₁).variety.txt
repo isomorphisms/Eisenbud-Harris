@@ -1,0 +1,7 @@
+Kind: ideal / complementary nonreduced component
+Construction: saturate(curve, curve₁)
+Components:
+- x³
+- y⁵
+Source: chapter.m2 line 8; chapter.out.expected lines 31–35.
+Why: The second saturation isolates the component discarded from the original nonradical curve. Its generators make the nonreduced thickness explicit.

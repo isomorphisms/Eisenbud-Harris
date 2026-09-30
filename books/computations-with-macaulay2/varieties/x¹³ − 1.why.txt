@@ -1,0 +1,1 @@
+This is the one-variable elimination equation extracted from the Gröbner basis. It demonstrates how the zero-dimensional intersection projects to the x-coordinate and exposes the finite coordinate possibilities algebraically.

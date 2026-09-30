@@ -22,6 +22,10 @@ do
         exit 1
     }
 
+    [ "$formula" = unavailable ] && continue
+    [ -f "$base.render.txt" ] || continue
+    grep -q '^status: pending actual SURFER render$' "$base.render.txt" || continue
+
     ppm="$work/render.ppm"
     "$surfer/build.sh" preview "$ppm" "$formula"
     python3 "$here/ppm-to-png.py" "$ppm" "$base.png"

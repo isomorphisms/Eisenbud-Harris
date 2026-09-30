@@ -1,0 +1,8 @@
+Kind: ideal / Gröbner basis
+Construction: Gröbner basis of the opening ideal curve = (x⁴ − y⁵, x³ − y⁷)
+Components:
+- x⁴ − y⁵  [displayed upstream as the unit multiple y⁵ − x⁴]
+- x⁴ × y² − x³
+- x⁸ − x³ × y³
+Source: chapter.m2 line 3; chapter.out.expected line 12.
+Why: The example immediately replaces the original generating set by a Gröbner basis to compute dimension, codimension, degree, saturation, and normal forms.

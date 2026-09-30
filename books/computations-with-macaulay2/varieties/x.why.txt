@@ -1,0 +1,1 @@
+The first saturation removes the component supported where x vanishes. Keeping x as its own polynomial record makes the saturation target explicit rather than hiding it inside the operation.

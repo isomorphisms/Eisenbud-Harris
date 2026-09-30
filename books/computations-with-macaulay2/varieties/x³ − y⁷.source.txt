@@ -3,6 +3,6 @@ SURFER: x^3-y^7
 Macaulay2: x^3-y^7
 Book: Computations in Algebraic Geometry with Macaulay 2
 Chapter: Ideals, Varieties, and Macaulay 2
-Section: 1. A Curve in Affine Three-Space
 Role: second generator of the opening curve ideal
-Upstream: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.m2#L2
+Upstream source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.m2#L2
+Maintained source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/test.m2#L2

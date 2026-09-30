@@ -1,0 +1,1 @@
+This stresses the quotient presentation with much larger exponents and shows the compact normal form obtained from the toric relations.

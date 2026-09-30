@@ -1,0 +1,3 @@
+status: unavailable
+reason: the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
+SURFER: unavailable

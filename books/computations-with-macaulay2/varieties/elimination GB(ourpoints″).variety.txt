@@ -1,0 +1,8 @@
+Kind: Gröbner basis / elimination system
+Construction: substitute ourpoints into QQ[z,y,x] with Eliminate 2, then compute gens gb
+Components:
+- x¹³ − 1
+- y − x⁶
+- z⁵ + x⁵ + x⁴ − 1
+Source: chapter.m2 lines 33–36; chapter.out.expected lines 171–187.
+Why: The elimination order produces a triangular system. Selecting the subring leaves x¹³−1, an explicit elimination equation for the projected finite set.

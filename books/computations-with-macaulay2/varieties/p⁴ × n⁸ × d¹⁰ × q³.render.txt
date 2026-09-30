@@ -1,0 +1,3 @@
+status: unavailable
+reason: four independent variables p,n,d,q have no canonical embedding into SURFER's x,y,z surface coordinates
+SURFER: unavailable

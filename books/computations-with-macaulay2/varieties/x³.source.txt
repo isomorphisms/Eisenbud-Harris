@@ -1,0 +1,7 @@
+Display: x³
+SURFER: unavailable
+Macaulay2: x^3
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: first generator of curve₂, the component removed by the saturation
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L32
