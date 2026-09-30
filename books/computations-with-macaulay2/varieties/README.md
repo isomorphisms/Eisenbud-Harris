@@ -320,6 +320,24 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## X₁
+
+- [source](<X₁.source.txt>) · [why](<X₁.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
+
+## X₂
+
+- [source](<X₂.source.txt>) · [why](<X₂.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
+
+## X₃
+
+- [source](<X₃.source.txt>) · [why](<X₃.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
+
 ## a + e + i
 
 - [source](<a + e + i.source.txt>) · [why](<a + e + i.why.txt>)
@@ -1106,6 +1124,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## w
+
+- [source](<w.source.txt>) · [why](<w.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
+
 ## x + y + z
 
 - [source](<x + y + z.source.txt>) · [why](<x + y + z.why.txt>)
@@ -1165,6 +1189,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x × y − 1.source.txt>) · [why](<x × y − 1.why.txt>)
 
 ![x × y − 1](<x × y − 1.png>)
+
+## x × y − w × z
+
+- [source](<x × y − w × z.source.txt>) · [why](<x × y − w × z.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
 
 ## x × y
 
@@ -1250,6 +1280,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** its real zero locus is the isolated origin, not a surface that SURFER's surface renderer can faithfully display
 
+## x² + z²
+
+- [source](<x² + z².source.txt>) · [why](<x² + z².why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
+
 ## x² × b + 2 × x × y × d + 3 × y² × g + x × z × e + 2 × y × z × h + z² × i
 
 - [source](<x² × b + 2 × x × y × d + 3 × y² × g + x × z × e + 2 × y × z × h + z² × i.source.txt>) · [why](<x² × b + 2 × x × y × d + 3 × y² × g + x × z × e + 2 × y × z × h + z² × i.why.txt>)
@@ -1309,6 +1345,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x³ + 11 × x² + 6 × x × y − 5 × y² − 11 × x + y + 5.source.txt>) · [why](<x³ + 11 × x² + 6 × x × y − 5 × y² − 11 × x + y + 5.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## x³ + 3 × y³ − 2 × y × z² + 5 × z³
+
+- [source](<x³ + 3 × y³ − 2 × y × z² + 5 × z³.source.txt>) · [why](<x³ + 3 × y³ − 2 × y × z² + 5 × z³.why.txt>)
+
+![x³ + 3 × y³ − 2 × y × z² + 5 × z³](<x³ + 3 × y³ − 2 × y × z² + 5 × z³.png>)
 
 ## x³ + y³ + z³
 
@@ -1531,6 +1573,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x⁷ × y⁴.source.txt>) · [why](<x⁷ × y⁴.why.txt>)
 
 **SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x⁷
+
+- [source](<x⁷.source.txt>) · [why](<x⁷.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
 
 ## x⁸ − x³ × y³
 
@@ -2066,6 +2114,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
 
+## y³ − 2 × z³
+
+- [source](<y³ − 2 × z³.source.txt>) · [why](<y³ − 2 × z³.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
+
 ## y³
 
 - [source](<y³.source.txt>) · [why](<y³.why.txt>)
@@ -2095,6 +2149,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<y⁴ × p − n.source.txt>) · [why](<y⁴ × p − n.why.txt>)
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y⁴
+
+- [source](<y⁴.source.txt>) · [why](<y⁴.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
 
 ## y⁵ + x³ + z³
 
@@ -2137,6 +2197,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<y⁶ × d² − p × q.source.txt>) · [why](<y⁶ × d² − p × q.why.txt>)
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y⁷
+
+- [source](<y⁷.source.txt>) · [why](<y⁷.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
 
 ## z + 1
 
@@ -2192,6 +2258,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the exponent 2 is algebraic multiplicity; the reduced plane z=0 would discard it
 
+## z³
+
+- [source](<z³.source.txt>) · [why](<z³.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
+
 ## z¹⁵
 
 - [source](<z¹⁵.source.txt>) · [why](<z¹⁵.why.txt>)
@@ -2227,6 +2299,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<z⁵.source.txt>) · [why](<z⁵.why.txt>)
 
 **SURFER unavailable:** the zero set is the plane z=0; the exponent 5, not the support, is the information used downstream
+
+## z⁷
+
+- [source](<z⁷.source.txt>) · [why](<z⁷.why.txt>)
+
+**SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
 
 ## − (x₁³ × x₃)
 
@@ -2608,9 +2686,11 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ## Composite varieties, schemes, ideals, and systems
 
+- [2×2 determinant matrix factorization seed](<2×2 determinant matrix factorization seed.variety.txt>)
 - [C.dd₂ syzygy matrix](<C.dd₂ syzygy matrix.variety.txt>)
 - [C.dd₃ syzygy matrix](<C.dd₃ syzygy matrix.variety.txt>)
 - [Euler resolution matrices for ΩP³](<Euler resolution matrices for ΩP³.variety.txt>)
+- [Ext-pair modules N and N′](<Ext-pair modules N and N′.variety.txt>)
 - [Fermat quintic idealC2](<Fermat quintic idealC2.variety.txt>)
 - [F₁₀₁ decomposition component 01](<F₁₀₁ decomposition component 01.variety.txt>)
 - [F₁₀₁ decomposition component 02](<F₁₀₁ decomposition component 02.variety.txt>)
@@ -2623,12 +2703,17 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [F₁₀₁ decomposition component 09](<F₁₀₁ decomposition component 09.variety.txt>)
 - [F₁₀₁ decomposition component 10](<F₁₀₁ decomposition component 10.variety.txt>)
 - [F₁₀₁ decomposition component 11](<F₁₀₁ decomposition component 11.variety.txt>)
+- [F₁₀₃ one-variable complete intersection](<F₁₀₃ one-variable complete intersection.variety.txt>)
+- [F₁₀₃ three-variable complete intersection](<F₁₀₃ three-variable complete intersection.variety.txt>)
+- [F₁₀₃ two-variable complete intersection](<F₁₀₃ two-variable complete intersection.variety.txt>)
+- [F₇ support-variety scan complete intersection](<F₇ support-variety scan complete intersection.variety.txt>)
 - [GB(I = toric parametrization ideal)](<GB(I = toric parametrization ideal).variety.txt>)
 - [GB(curve)](<GB(curve).variety.txt>)
 - [I = toric parametrization ideal](<I = toric parametrization ideal.variety.txt>)
 - [IX and IY intersection with embedded point](<IX and IY intersection with embedded point.variety.txt>)
 - [Jacobian map δ₁ for twisted cubic](<Jacobian map δ₁ for twisted cubic.variety.txt>)
 - [M = staircase³](<M = staircase³.variety.txt>)
+- [Poincare comparison complete intersection B′](<Poincare comparison complete intersection B′.variety.txt>)
 - [V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface)](<V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface).variety.txt>)
 - [V(I_curve ∩ I_surface) = V(I_curve) ∪ V(I_surface)](<V(I_curve ∩ I_surface) = V(I_curve) ∪ V(I_surface).variety.txt>)
 - [V(x⁴ − y⁵, x³ − y⁷)](<V(x⁴ − y⁵, x³ − y⁷).variety.txt>)
@@ -2669,6 +2754,7 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [staircase = LT(ourpoints)](<staircase = LT(ourpoints).variety.txt>)
 - [surfaceA parametrization ideal](<surfaceA parametrization ideal.variety.txt>)
 - [ternary cubic discriminant computation](<ternary cubic discriminant computation.variety.txt>)
+- [ternary cubic hypersurface matrix-factorization example](<ternary cubic hypersurface matrix-factorization example.variety.txt>)
 - [toric quotient normal forms](<toric quotient normal forms.variety.txt>)
 - [twisted cubic determinantal matrix M](<twisted cubic determinantal matrix M.variety.txt>)
 - [twisted cubic ideal](<twisted cubic ideal.variety.txt>)
