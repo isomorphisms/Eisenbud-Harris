@@ -1,3 +1,0 @@
-status: pending actual SURFER render
-SURFER: 3*y*z
-expected-primary: 3 × y × z.png

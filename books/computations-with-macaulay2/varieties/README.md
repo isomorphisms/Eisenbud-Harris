@@ -74,11 +74,119 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## 2 × b × e² − 8 × b × d × f − 24 × c² × g + 72 × a × f × g + 16 × b × c × h − 24 × a × e × h − 8 × b² × i + 24 × a × d × i
+
+- [source](<2 × b × e² − 8 × b × d × f − 24 × c² × g + 72 × a × f × g + 16 × b × c × h − 24 × a × e × h − 8 × b² × i + 24 × a × d × i.source.txt>) · [why](<2 × b × e² − 8 × b × d × f − 24 × c² × g + 72 × a × f × g + 16 × b × c × h − 24 × a × e × h − 8 × b² × i + 24 × a × d × i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × b
+
+- [source](<2 × b.source.txt>) · [why](<2 × b.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × c × e² − 8 × c × d × f − 8 × c² × h + 24 × a × f × h + 16 × b × c × i − 24 × a × e × i − 24 × b² × j + 72 × a × d × j
+
+- [source](<2 × c × e² − 8 × c × d × f − 8 × c² × h + 24 × a × f × h + 16 × b × c × i − 24 × a × e × i − 24 × b² × j + 72 × a × d × j.source.txt>) · [why](<2 × c × e² − 8 × c × d × f − 8 × c² × h + 24 × a × f × h + 16 × b × c × i − 24 × a × e × i − 24 × b² × j + 72 × a × d × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × c
+
+- [source](<2 × c.source.txt>) · [why](<2 × c.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × d × e² − 8 × d² × f − 24 × c × e × g + 24 × b × f × g + 16 × c × d × h − 24 × a × h² − 8 × b × d × i + 72 × a × g × i
+
+- [source](<2 × d × e² − 8 × d² × f − 24 × c × e × g + 24 × b × f × g + 16 × c × d × h − 24 × a × h² − 8 × b × d × i + 72 × a × g × i.source.txt>) · [why](<2 × d × e² − 8 × d² × f − 24 × c × e × g + 24 × b × f × g + 16 × c × d × h − 24 × a × h² − 8 × b × d × i + 72 × a × g × i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × d
+
+- [source](<2 × d.source.txt>) · [why](<2 × d.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × e² × f − 8 × d × f² − 8 × c × f × h + 16 × b × f × i − 24 × a × i² + 24 × c × d × j − 24 × b × e × j + 72 × a × h × j
+
+- [source](<2 × e² × f − 8 × d × f² − 8 × c × f × h + 16 × b × f × i − 24 × a × i² + 24 × c × d × j − 24 × b × e × j + 72 × a × h × j.source.txt>) · [why](<2 × e² × f − 8 × d × f² − 8 × c × f × h + 16 × b × f × i − 24 × a × i² + 24 × c × d × j − 24 × b × e × j + 72 × a × h × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × e³ − 8 × d × e × f − 24 × c × f × g − 8 × c × e × h + 24 × b × f × h + 24 × c × d × i − 8 × b × e × i − 24 × a × h × i − 24 × b × d × j + 216 × a × g × j
+
+- [source](<2 × e³ − 8 × d × e × f − 24 × c × f × g − 8 × c × e × h + 24 × b × f × h + 24 × c × d × i − 8 × b × e × i − 24 × a × h × i − 24 × b × d × j + 216 × a × g × j.source.txt>) · [why](<2 × e³ − 8 × d × e × f − 24 × c × f × g − 8 × c × e × h + 24 × b × f × h + 24 × c × d × i − 8 × b × e × i − 24 × a × h × i − 24 × b × d × j + 216 × a × g × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × f
+
+- [source](<2 × f.source.txt>) · [why](<2 × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × h
+
+- [source](<2 × h.source.txt>) · [why](<2 × h.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × i
+
+- [source](<2 × i.source.txt>) · [why](<2 × i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × t × A × E + 2 × t × B × F + 2 × t × C × G + 2 × D × H
+
+- [source](<2 × t × A × E + 2 × t × B × F + 2 × t × C × G + 2 × D × H.source.txt>) · [why](<2 × t × A × E + 2 × t × B × F + 2 × t × C × G + 2 × D × H.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 2 × y² + 2 × y × z + 2 × z²
+
+- [source](<2 × y² + 2 × y × z + 2 × z².source.txt>) · [why](<2 × y² + 2 × y × z + 2 × z².why.txt>)
+
+![2 × y² + 2 × y × z + 2 × z²](<2 × y² + 2 × y × z + 2 × z².png>)
+
 ## 29 × x² + 42 × x × y − 44 × y² + 24 × x × z + y × z + 39 × x + 23 × y + 48 × z + 44
 
 - [source](<29 × x² + 42 × x × y − 44 × y² + 24 × x × z + y × z + 39 × x + 23 × y + 48 × z + 44.source.txt>) · [why](<29 × x² + 42 × x × y − 44 × y² + 24 × x × z + y × z + 39 × x + 23 × y + 48 × z + 44.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 3 × a
+
+- [source](<3 × a.source.txt>) · [why](<3 × a.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 3 × g
+
+- [source](<3 × g.source.txt>) · [why](<3 × g.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 3 × j
+
+- [source](<3 × j.source.txt>) · [why](<3 × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 3 × x² × a + 2 × x × y × b + y² × d + 2 × x × z × c + y × z × e + z² × f
+
+- [source](<3 × x² × a + 2 × x × y × b + y² × d + 2 × x × z × c + y × z × e + z² × f.source.txt>) · [why](<3 × x² × a + 2 × x × y × b + y² × d + 2 × x × z × c + y × z × e + z² × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 3 × y × z
+
+- [source](<3 × y × z.source.txt>) · [why](<3 × y × z.why.txt>)
+
+![3 × y × z](<3 × y × z.png>)
 
 ## 31 × x² − 13 × x × y + z² − 35 × x + 38 × y − 5 × z + 38
 
@@ -104,6 +212,30 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## 4 × b × e² − 16 × b × d × f − 48 × c² × g + 144 × a × f × g + 32 × b × c × h − 48 × a × e × h − 16 × b² × i + 48 × a × d × i
+
+- [source](<4 × b × e² − 16 × b × d × f − 48 × c² × g + 144 × a × f × g + 32 × b × c × h − 48 × a × e × h − 16 × b² × i + 48 × a × d × i.source.txt>) · [why](<4 × b × e² − 16 × b × d × f − 48 × c² × g + 144 × a × f × g + 32 × b × c × h − 48 × a × e × h − 16 × b² × i + 48 × a × d × i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 4 × c × e² − 16 × c × d × f − 16 × c² × h + 48 × a × f × h + 32 × b × c × i − 48 × a × e × i − 48 × b² × j + 144 × a × d × j
+
+- [source](<4 × c × e² − 16 × c × d × f − 16 × c² × h + 48 × a × f × h + 32 × b × c × i − 48 × a × e × i − 48 × b² × j + 144 × a × d × j.source.txt>) · [why](<4 × c × e² − 16 × c × d × f − 16 × c² × h + 48 × a × f × h + 32 × b × c × i − 48 × a × e × i − 48 × b² × j + 144 × a × d × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 4 × d × e² − 16 × d² × f − 48 × c × e × g + 48 × b × f × g + 32 × c × d × h − 48 × a × h² − 16 × b × d × i + 144 × a × g × i
+
+- [source](<4 × d × e² − 16 × d² × f − 48 × c × e × g + 48 × b × f × g + 32 × c × d × h − 48 × a × h² − 16 × b × d × i + 144 × a × g × i.source.txt>) · [why](<4 × d × e² − 16 × d² × f − 48 × c × e × g + 48 × b × f × g + 32 × c × d × h − 48 × a × h² − 16 × b × d × i + 144 × a × g × i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## 4 × e² × f − 16 × d × f² − 16 × c × f × h + 32 × b × f × i − 48 × a × i² + 48 × c × d × j − 48 × b × e × j + 144 × a × h × j
+
+- [source](<4 × e² × f − 16 × d × f² − 16 × c × f × h + 32 × b × f × i − 48 × a × i² + 48 × c × d × j − 48 × b × e × j + 144 × a × h × j.source.txt>) · [why](<4 × e² × f − 16 × d × f² − 16 × c × f × h + 32 × b × f × i − 48 × a × i² + 48 × c × d × j − 48 × b × e × j + 144 × a × h × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## 44 × x² + 22 × x × y + x × z + 22 × x − 26 × y − 30 × z − 6
 
 - [source](<44 × x² + 22 × x × y + x × z + 22 × x − 26 × y − 30 × z − 6.source.txt>) · [why](<44 × x² + 22 × x × y + x × z + 22 × x − 26 × y − 30 × z − 6.why.txt>)
@@ -122,17 +254,41 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this degree-19 quotient normal form is being used as algebra in R/staircase³; a raw zero-set render would not show that quotient relation
 
+## 6
+
+- [source](<6.source.txt>) · [why](<6.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## A − r²
 
 - [source](<A − r².source.txt>) · [why](<A − r².why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## B − D
+
+- [source](<B − D.source.txt>) · [why](<B − D.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## B − s²
 
 - [source](<B − s².source.txt>) · [why](<B − s².why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## C × D − A × F
+
+- [source](<C × D − A × F.source.txt>) · [why](<C × D − A × F.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## C × E − D × F
+
+- [source](<C × E − D × F.source.txt>) · [why](<C × E − D × F.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## C − r × s
 
@@ -146,11 +302,23 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## D² − A × E
+
+- [source](<D² − A × E.source.txt>) · [why](<D² − A × E.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## E − s × t
 
 - [source](<E − s × t.source.txt>) · [why](<E − s × t.why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a + e + i
+
+- [source](<a + e + i.source.txt>) · [why](<a + e + i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## a + f
 
@@ -158,11 +326,95 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## a × b + e × f
+
+- [source](<a × b + e × f.source.txt>) · [why](<a × b + e × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × b × e² − a² × e × f − c² × e × f
+
+- [source](<a × b × e² − a² × e × f − c² × e × f.source.txt>) · [why](<a × b × e² − a² × e × f − c² × e × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × b − c²
+
+- [source](<a × b − c².source.txt>) · [why](<a × b − c².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × c × e² + a² × d × f + b × c × e × f − a × c × f²
+
+- [source](<a × c × e² + a² × d × f + b × c × e × f − a × c × f².source.txt>) · [why](<a × c × e² + a² × d × f + b × c × e × f − a × c × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × c − d × f
+
+- [source](<a × c − d × f.source.txt>) · [why](<a × c − d × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## a × c
 
 - [source](<a × c.source.txt>) · [why](<a × c.why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a × c² − b² × d
+
+- [source](<a × c² − b² × d.source.txt>) · [why](<a × c² − b² × d.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × d × e − c × e × f
+
+- [source](<a × d × e − c × e × f.source.txt>) · [why](<a × d × e − c × e × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × d × f² − c × f³
+
+- [source](<a × d × f² − c × f³.source.txt>) · [why](<a × d × f² − c × f³.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × d − c × f
+
+- [source](<a × d − c × f.source.txt>) · [why](<a × d − c × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × d² − a × e² − 2 × b × e × f + a × f²
+
+- [source](<a × d² − a × e² − 2 × b × e × f + a × f².source.txt>) · [why](<a × d² − a × e² − 2 × b × e × f + a × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × e + b × f
+
+- [source](<a × e + b × f.source.txt>) · [why](<a × e + b × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × e × f² + b × f³
+
+- [source](<a × e × f² + b × f³.source.txt>) · [why](<a × e × f² + b × f³.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × e² × f + b × e × f²
+
+- [source](<a × e² × f + b × e × f².source.txt>) · [why](<a × e² × f + b × e × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a × e³ + b × e² × f
+
+- [source](<a × e³ + b × e² × f.source.txt>) · [why](<a × e³ + b × e² × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## a × x + b × y − 1
 
@@ -194,11 +446,29 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## a² + b² + c²
+
+- [source](<a² + b² + c².source.txt>) · [why](<a² + b² + c².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## a² × f³ + b² × f³ + c² × f³
+
+- [source](<a² × f³ + b² × f³ + c² × f³.source.txt>) · [why](<a² × f³ + b² × f³ + c² × f³.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## a² − 2
 
 - [source](<a² − 2.source.txt>) · [why](<a² − 2.why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a² − f²
+
+- [source](<a² − f².source.txt>) · [why](<a² − f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## a⁴ + a³ + a² + a + 1
 
@@ -212,17 +482,65 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## b × c + d × e
+
+- [source](<b × c + d × e.source.txt>) · [why](<b × c + d × e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## b × c − a × d
+
+- [source](<b × c − a × d.source.txt>) · [why](<b × c − a × d.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## b × c
 
 - [source](<b × c.source.txt>) · [why](<b × c.why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## b × d + c × e
+
+- [source](<b × d + c × e.source.txt>) · [why](<b × d + c × e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## b × d + e² + c × g + f × h + e × i + i²
+
+- [source](<b × d + e² + c × g + f × h + e × i + i².source.txt>) · [why](<b × d + e² + c × g + f × h + e × i + i².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## b × d × e + c × e² + a × d × f − c × f²
+
+- [source](<b × d × e + c × e² + a × d × f − c × f².source.txt>) · [why](<b × d × e + c × e² + a × d × f − c × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## b × d × f + c × e × f
+
+- [source](<b × d × f + c × e × f.source.txt>) · [why](<b × d × f + c × e × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## b × d − c × e
+
+- [source](<b × d − c × e.source.txt>) · [why](<b × d − c × e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## b × d
 
 - [source](<b × d.source.txt>) · [why](<b × d.why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b × d² + b × e² − 2 × a × e × f − b × f²
+
+- [source](<b × d² + b × e² − 2 × a × e × f − b × f².source.txt>) · [why](<b × d² + b × e² − 2 × a × e × f − b × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## b − e
 
@@ -236,17 +554,47 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## b² × d
+
+- [source](<b² × d.source.txt>) · [why](<b² × d.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## b² × e × f + c² × e × f − a × b × f²
+
+- [source](<b² × e × f + c² × e × f − a × b × f².source.txt>) · [why](<b² × e × f + c² × e × f − a × b × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## b² × e² + c² × e² − a² × f² − c² × f²
+
+- [source](<b² × e² + c² × e² − a² × f² − c² × f².source.txt>) · [why](<b² × e² + c² × e² − a² × f² − c² × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## b² − 3
 
 - [source](<b² − 3.source.txt>) · [why](<b² − 3.why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## b² − e²
+
+- [source](<b² − e².source.txt>) · [why](<b² − e².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## b²
 
 - [source](<b².source.txt>) · [why](<b².why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b³ − a² × c
+
+- [source](<b³ − a² × c.source.txt>) · [why](<b³ − a² × c.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## b³
 
@@ -260,6 +608,30 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## c × d − a × e
+
+- [source](<c × d − a × e.source.txt>) · [why](<c × d − a × e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## c × d − b × e + a × f
+
+- [source](<c × d − b × e + a × f.source.txt>) · [why](<c × d − b × e + a × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## c × e × g − b × f × g − c × d × h + a × f × h + b × d × i − a × e × i
+
+- [source](<c × e × g − b × f × g − c × d × h + a × f × h + b × d × i − a × e × i.source.txt>) · [why](<c × e × g − b × f × g − c × d × h + a × f × h + b × d × i − a × e × i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## c × e × g − b × f × g − c × d × h − e × f × h − c × g × i − 2 × f × h × i − i³
+
+- [source](<c × e × g − b × f × g − c × d × h − e × f × h − c × g × i − 2 × f × h × i − i³.source.txt>) · [why](<c × e × g − b × f × g − c × d × h − e × f × h − c × g × i − 2 × f × h × i − i³.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## c − d
 
 - [source](<c − d.source.txt>) · [why](<c − d.why.txt>)
@@ -271,6 +643,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<c.source.txt>) · [why](<c.why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## c² + e² + f²
+
+- [source](<c² + e² + f².source.txt>) · [why](<c² + e² + f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## c²
 
@@ -290,6 +668,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## d × e
+
+- [source](<d × e.source.txt>) · [why](<d × e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## d × f
+
+- [source](<d × f.source.txt>) · [why](<d × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## d − x × y¹⁰
 
 - [source](<d − x × y¹⁰.source.txt>) · [why](<d − x × y¹⁰.why.txt>)
@@ -308,17 +698,89 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## d² × e + e³ + e × f²
+
+- [source](<d² × e + e³ + e × f².source.txt>) · [why](<d² × e + e³ + e × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## d² × f + e² × f + f³
+
+- [source](<d² × f + e² × f + f³.source.txt>) · [why](<d² × f + e² × f + f³.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## d² × n⁶ × q²
 
 - [source](<d² × n⁶ × q².source.txt>) · [why](<d² × n⁶ × q².why.txt>)
 
 **SURFER unavailable:** the normal form lives in a quotient with variables p,n,d,q (and sometimes y); there is no canonical three-dimensional SURFER realization
 
+## d²
+
+- [source](<d².source.txt>) · [why](<d².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## d³ + d × e² + d × f²
+
+- [source](<d³ + d × e² + d × f².source.txt>) · [why](<d³ + d × e² + d × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## d⁴ − n³ × q
 
 - [source](<d⁴ − n³ × q.source.txt>) · [why](<d⁴ − n³ × q.why.txt>)
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## e × f
+
+- [source](<e × f.source.txt>) · [why](<e × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## e
+
+- [source](<e.source.txt>) · [why](<e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## e²
+
+- [source](<e².source.txt>) · [why](<e².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## f
+
+- [source](<f.source.txt>) · [why](<f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## f²
+
+- [source](<f².source.txt>) · [why](<f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## g
+
+- [source](<g.source.txt>) · [why](<g.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## h
+
+- [source](<h.source.txt>) · [why](<h.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## i
+
+- [source](<i.source.txt>) · [why](<i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## n − x × y⁵
 
@@ -440,11 +902,137 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
 
+## t × A² + t × B² + t × C² + D²
+
+- [source](<t × A² + t × B² + t × C² + D².source.txt>) · [why](<t × A² + t × B² + t × C² + D².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × E² + t × F² + t × G² + H²
+
+- [source](<t × E² + t × F² + t × G² + H².source.txt>) · [why](<t × E² + t × F² + t × G² + H².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × a × b + e × f
+
+- [source](<t × a × b + e × f.source.txt>) · [why](<t × a × b + e × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × a × c − d × f
+
+- [source](<t × a × c − d × f.source.txt>) · [why](<t × a × c − d × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × a × d − t × c × f
+
+- [source](<t × a × d − t × c × f.source.txt>) · [why](<t × a × d − t × c × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × a × e + t × b × f
+
+- [source](<t × a × e + t × b × f.source.txt>) · [why](<t × a × e + t × b × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × a² + 1 ÷ 2 × d² + 1 ÷ 2 × e² − 1 ÷ 2 × f²
+
+- [source](<t × a² + 1 ÷ 2 × d² + 1 ÷ 2 × e² − 1 ÷ 2 × f².source.txt>) · [why](<t × a² + 1 ÷ 2 × d² + 1 ÷ 2 × e² − 1 ÷ 2 × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × b × c + d × e
+
+- [source](<t × b × c + d × e.source.txt>) · [why](<t × b × c + d × e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × b × d + t × c × e
+
+- [source](<t × b × d + t × c × e.source.txt>) · [why](<t × b × d + t × c × e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × b² + 1 ÷ 2 × d² − 1 ÷ 2 × e² + 1 ÷ 2 × f²
+
+- [source](<t × b² + 1 ÷ 2 × d² − 1 ÷ 2 × e² + 1 ÷ 2 × f².source.txt>) · [why](<t × b² + 1 ÷ 2 × d² − 1 ÷ 2 × e² + 1 ÷ 2 × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × c² − 1 ÷ 2 × d² + 1 ÷ 2 × e² + 1 ÷ 2 × f²
+
+- [source](<t × c² − 1 ÷ 2 × d² + 1 ÷ 2 × e² + 1 ÷ 2 × f².source.txt>) · [why](<t × c² − 1 ÷ 2 × d² + 1 ÷ 2 × e² + 1 ÷ 2 × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × d² + t × e² + t × f²
+
+- [source](<t × d² + t × e² + t × f².source.txt>) · [why](<t × d² + t × e² + t × f².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × u² × A² + t × u² × B² + t × u² × C² + 2 × t × u × v × A × E + t × v² × E² + 2 × t × u × v × B × F + t × v² × F² + 2 × t × u × v × C × G + t × v² × G² + u² × D² + 2 × u × v × D × H + v² × H²
+
+- [source](<t × u² × A² + t × u² × B² + t × u² × C² + 2 × t × u × v × A × E + t × v² × E² + 2 × t × u × v × B × F + t × v² × F² + 2 × t × u × v × C × G + t × v² × G² + u² × D² + 2 × u × v × D × H + v² × H².source.txt>) · [why](<t × u² × A² + t × u² × B² + t × u² × C² + 2 × t × u × v × A × E + t × v² × E² + 2 × t × u × v × B × F + t × v² × F² + 2 × t × u × v × C × G + t × v² × G² + u² × D² + 2 × u × v × D × H + v² × H².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × x × w + y × z
+
+- [source](<t × x × w + y × z.source.txt>) · [why](<t × x × w + y × z.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × x × z − x²
+
+- [source](<t × x × z − x².source.txt>) · [why](<t × x × z − x².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## t × x² + t × y² + t × z² + w²
 
 - [source](<t × x² + t × y² + t × z² + w².source.txt>) · [why](<t × x² + t × y² + t × z² + w².why.txt>)
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## t × y × z − x × y
+
+- [source](<t × y × z − x × y.source.txt>) · [why](<t × y × z − x × y.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t × y_2 × y_4 × y_6 − t × y_1 × y_5 × y_6 − t × y_2 × y_3 × y_7 + t × y_0 × y_5 × y_7 + t × y_1 × y_3 × y_8 − t × y_0 × y_4 × y_8 + 1
+
+- [source](<t × y_2 × y_4 × y_6 − t × y_1 × y_5 × y_6 − t × y_2 × y_3 × y_7 + t × y_0 × y_5 × y_7 + t × y_1 × y_3 × y_8 − t × y_0 × y_4 × y_8 + 1.source.txt>) · [why](<t × y_2 × y_4 × y_6 − t × y_1 × y_5 × y_6 − t × y_2 × y_3 × y_7 + t × y_0 × y_5 × y_7 + t × y_1 × y_3 × y_8 − t × y_0 × y_4 × y_8 + 1.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t
+
+- [source](<t.source.txt>) · [why](<t.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t² × w + y
+
+- [source](<t² × w + y.source.txt>) · [why](<t² × w + y.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t² × x × w + x × y
+
+- [source](<t² × x × w + x × y.source.txt>) · [why](<t² × x × w + x × y.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## t² × y × w + y²
+
+- [source](<t² × y × w + y².source.txt>) · [why](<t² × y × w + y².why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## t³
 
@@ -512,6 +1100,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ![x + y + z](<x + y + z.png>)
 
+## x × b² − a × c
+
+- [source](<x × b² − a × c.source.txt>) · [why](<x × b² − a × c.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## x × d − n²
 
 - [source](<x × d − n².source.txt>) · [why](<x × d − n².why.txt>)
@@ -553,6 +1147,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x × y × z.source.txt>) · [why](<x × y × z.why.txt>)
 
 ![x × y × z](<x × y × z.png>)
+
+## x × y − 1
+
+- [source](<x × y − 1.source.txt>) · [why](<x × y − 1.why.txt>)
+
+![x × y − 1](<x × y − 1.png>)
 
 ## x × y
 
@@ -614,17 +1214,47 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## x − y
+
+- [source](<x − y.source.txt>) · [why](<x − y.why.txt>)
+
+![x − y](<x − y.png>)
+
 ## x
 
 - [source](<x.source.txt>) · [why](<x.why.txt>)
 
 ![x](<x.png>)
 
+## x² + y² + x + y + 1
+
+- [source](<x² + y² + x + y + 1.source.txt>) · [why](<x² + y² + x + y + 1.why.txt>)
+
+![x² + y² + x + y + 1](<x² + y² + x + y + 1.png>)
+
 ## x² + y² + z²
 
 - [source](<x² + y² + z².source.txt>) · [why](<x² + y² + z².why.txt>)
 
 **SURFER unavailable:** its real zero locus is the isolated origin, not a surface that SURFER's surface renderer can faithfully display
+
+## x² × b + 2 × x × y × d + 3 × y² × g + x × z × e + 2 × y × z × h + z² × i
+
+- [source](<x² × b + 2 × x × y × d + 3 × y² × g + x × z × e + 2 × y × z × h + z² × i.source.txt>) · [why](<x² × b + 2 × x × y × d + 3 × y² × g + x × z × e + 2 × y × z × h + z² × i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## x² × b − y × a
+
+- [source](<x² × b − y × a.source.txt>) · [why](<x² × b − y × a.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## x² × c + x × y × e + y² × h + 2 × x × z × f + 2 × y × z × i + 3 × z² × j
+
+- [source](<x² × c + x × y × e + y² × h + 2 × x × z × f + 2 × y × z × i + 3 × z² × j.source.txt>) · [why](<x² × c + x × y × e + y² × h + 2 × x × z × f + 2 × y × z × i + 3 × z² × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## x² × y⁴ × z⁵
 
@@ -637,6 +1267,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x² × y⁹.source.txt>) · [why](<x² × y⁹.why.txt>)
 
 **SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x² − 2
+
+- [source](<x² − 2.source.txt>) · [why](<x² − 2.why.txt>)
+
+![x² − 2](<x² − 2.png>)
+
+## x² − 3 ÷ 2 × y²
+
+- [source](<x² − 3 ÷ 2 × y².source.txt>) · [why](<x² − 3 ÷ 2 × y².why.txt>)
+
+![x² − 3 ÷ 2 × y²](<x² − 3 ÷ 2 × y².png>)
 
 ## x²
 
@@ -673,6 +1315,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x³ + y⁵ + z³.source.txt>) · [why](<x³ + y⁵ + z³.why.txt>)
 
 ![x³ + y⁵ + z³](<x³ + y⁵ + z³.png>)
+
+## x³ × a + x² × y × b + x × y² × d + y³ × g + x² × z × c + x × y × z × e + y² × z × h + x × z² × f + y × z² × i + z³ × j
+
+- [source](<x³ × a + x² × y × b + x × y² × d + y³ × g + x² × z × c + x × y × z × e + y² × z × h + x × z² × f + y × z² × i + z³ × j.source.txt>) · [why](<x³ × a + x² × y × b + x × y² × d + y³ × g + x² × z × c + x × y × z × e + y² × z × h + x × z² × f + y × z² × i + z³ × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## x³ × c − y² × a
+
+- [source](<x³ × c − y² × a.source.txt>) · [why](<x³ × c − y² × a.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## x³ × y⁶
 
@@ -775,6 +1429,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x⁴ × y² − x³.source.txt>) · [why](<x⁴ × y² − x³.why.txt>)
 
 ![x⁴ × y² − x³](<x⁴ × y² − x³.png>)
+
+## x⁴ − 3 × x² × y² + 9 ÷ 4 × y⁴ − x² − 3 ÷ 2 × y² + 1 ÷ 4
+
+- [source](<x⁴ − 3 × x² × y² + 9 ÷ 4 × y⁴ − x² − 3 ÷ 2 × y² + 1 ÷ 4.source.txt>) · [why](<x⁴ − 3 × x² × y² + 9 ÷ 4 × y⁴ − x² − 3 ÷ 2 × y² + 1 ÷ 4.why.txt>)
+
+![x⁴ − 3 × x² × y² + 9 ÷ 4 × y⁴ − x² − 3 ÷ 2 × y² + 1 ÷ 4](<x⁴ − 3 × x² × y² + 9 ÷ 4 × y⁴ − x² − 3 ÷ 2 × y² + 1 ÷ 4.png>)
 
 ## x⁴ − y⁵
 
@@ -1172,6 +1832,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## y × b − x × c
+
+- [source](<y × b − x × c.source.txt>) · [why](<y × b − x × c.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## y × d³ − p × n × q
 
 - [source](<y × d³ − p × n × q.source.txt>) · [why](<y × d³ − p × n × q.why.txt>)
@@ -1189,6 +1855,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<y × p⁴ × q − d × n⁴.source.txt>) · [why](<y × p⁴ × q − d × n⁴.why.txt>)
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y × u − x × v
+
+- [source](<y × u − x × v.source.txt>) · [why](<y × u − x × v.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## y × u
 
@@ -1244,6 +1916,78 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ![y](<y.png>)
 
+## y_0
+
+- [source](<y_0.source.txt>) · [why](<y_0.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_1
+
+- [source](<y_1.source.txt>) · [why](<y_1.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_2 × y_3 × y_4 − y_0 × y_4 × y_5 − y_1 × y_2 × y_6 + y_0 × y_1 × y_8
+
+- [source](<y_2 × y_3 × y_4 − y_0 × y_4 × y_5 − y_1 × y_2 × y_6 + y_0 × y_1 × y_8.source.txt>) · [why](<y_2 × y_3 × y_4 − y_0 × y_4 × y_5 − y_1 × y_2 × y_6 + y_0 × y_1 × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_2 × y_3 × y_5 − y_0 × y_5² − y_2² × y_6 + y_0 × y_2 × y_8
+
+- [source](<y_2 × y_3 × y_5 − y_0 × y_5² − y_2² × y_6 + y_0 × y_2 × y_8.source.txt>) · [why](<y_2 × y_3 × y_5 − y_0 × y_5² − y_2² × y_6 + y_0 × y_2 × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_2 × y_3² − y_0 × y_3 × y_5 − y_0 × y_2 × y_6 + y_0² × y_8
+
+- [source](<y_2 × y_3² − y_0 × y_3 × y_5 − y_0 × y_2 × y_6 + y_0² × y_8.source.txt>) · [why](<y_2 × y_3² − y_0 × y_3 × y_5 − y_0 × y_2 × y_6 + y_0² × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_2
+
+- [source](<y_2.source.txt>) · [why](<y_2.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_3
+
+- [source](<y_3.source.txt>) · [why](<y_3.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_4
+
+- [source](<y_4.source.txt>) · [why](<y_4.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_5
+
+- [source](<y_5.source.txt>) · [why](<y_5.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_6
+
+- [source](<y_6.source.txt>) · [why](<y_6.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_7
+
+- [source](<y_7.source.txt>) · [why](<y_7.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## y_8
+
+- [source](<y_8.source.txt>) · [why](<y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## y² × d² × n − p² × q
 
 - [source](<y² × d² × n − p² × q.source.txt>) · [why](<y² × d² × n − p² × q.why.txt>)
@@ -1262,6 +2006,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
 
+## y² − 2
+
+- [source](<y² − 2.source.txt>) · [why](<y² − 2.why.txt>)
+
+![y² − 2](<y² − 2.png>)
+
+## y² − 3
+
+- [source](<y² − 3.source.txt>) · [why](<y² − 3.why.txt>)
+
+![y² − 3](<y² − 3.png>)
+
 ## y²
 
 - [source](<y².source.txt>) · [why](<y².why.txt>)
@@ -1279,6 +2035,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<y³ + 28 × x² − 27 × x × y + 46 × y² − 27 × x + y − 28.source.txt>) · [why](<y³ + 28 × x² − 27 × x × y + 46 × y² − 27 × x + y − 28.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## y³ + y² + x + y + 1
+
+- [source](<y³ + y² + x + y + 1.source.txt>) · [why](<y³ + y² + x + y + 1.why.txt>)
+
+![y³ + y² + x + y + 1](<y³ + y² + x + y + 1.png>)
 
 ## y³ × d × p² − n³
 
@@ -1321,6 +2083,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<y⁴ × p − n.source.txt>) · [why](<y⁴ × p − n.why.txt>)
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y⁵ + x³ + z³
+
+- [source](<y⁵ + x³ + z³.source.txt>) · [why](<y⁵ + x³ + z³.why.txt>)
+
+![y⁵ + x³ + z³](<y⁵ + x³ + z³.png>)
 
 ## y⁵ × n − d
 
@@ -1424,6 +2192,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## z⁵ + x³ + y³
+
+- [source](<z⁵ + x³ + y³.source.txt>) · [why](<z⁵ + x³ + y³.why.txt>)
+
+![z⁵ + x³ + y³](<z⁵ + x³ + y³.png>)
+
 ## z⁵ + x⁵ + x⁴ − 1
 
 - [source](<z⁵ + x⁵ + x⁴ − 1.source.txt>) · [why](<z⁵ + x⁵ + x⁴ − 1.why.txt>)
@@ -1460,6 +2234,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## − 18 × e² × g + 24 × d × e × h − 24 × b × h² − 24 × d² × i + 72 × b × g × i
+
+- [source](<− 18 × e² × g + 24 × d × e × h − 24 × b × h² − 24 × d² × i + 72 × b × g × i.source.txt>) · [why](<− 18 × e² × g + 24 × d × e × h − 24 × b × h² − 24 × d² × i + 72 × b × g × i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## − 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44
 
 - [source](<− 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44.source.txt>) · [why](<− 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44.why.txt>)
@@ -1471,6 +2251,30 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<− 22 × x² + 19 × x × y + z² − 11 × x − 40 × y + 22 × z − 40.source.txt>) · [why](<− 22 × x² + 19 × x × y + z² − 11 × x − 40 × y + 22 × z − 40.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 24 × c² × d + 24 × b × c × e − 18 × a × e² − 24 × b² × f + 72 × a × d × f
+
+- [source](<− 24 × c² × d + 24 × b × c × e − 18 × a × e² − 24 × b² × f + 72 × a × d × f.source.txt>) · [why](<− 24 × c² × d + 24 × b × c × e − 18 × a × e² − 24 × b² × f + 72 × a × d × f.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − 24 × e × f × g + 2 × e² × h + 16 × d × f × h − 8 × c × h² + 24 × c × g × i − 8 × b × h × i − 24 × d² × j + 72 × b × g × j
+
+- [source](<− 24 × e × f × g + 2 × e² × h + 16 × d × f × h − 8 × c × h² + 24 × c × g × i − 8 × b × h × i − 24 × d² × j + 72 × b × g × j.source.txt>) · [why](<− 24 × e × f × g + 2 × e² × h + 16 × d × f × h − 8 × c × h² + 24 × c × g × i − 8 × b × h × i − 24 × d² × j + 72 × b × g × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − 24 × f² × g + 2 × e² × i + 16 × d × f × i − 8 × c × h × i − 8 × b × i² − 24 × d × e × j + 72 × c × g × j + 24 × b × h × j
+
+- [source](<− 24 × f² × g + 2 × e² × i + 16 × d × f × i − 8 × c × h × i − 8 × b × i² − 24 × d × e × j + 72 × c × g × j + 24 × b × h × j.source.txt>) · [why](<− 24 × f² × g + 2 × e² × i + 16 × d × f × i − 8 × c × h × i − 8 × b × i² − 24 × d × e × j + 72 × c × g × j + 24 × b × h × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − 24 × f² × h + 24 × e × f × i − 24 × c × i² − 18 × e² × j + 72 × c × h × j
+
+- [source](<− 24 × f² × h + 24 × e × f × i − 24 × c × i² − 18 × e² × j + 72 × c × h × j.source.txt>) · [why](<− 24 × f² × h + 24 × e × f × i − 24 × c × i² − 18 × e² × j + 72 × c × h × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## − 24 × x² − 5 × x × y + 14 × y² − 34 × x × z + y × z + 5 × x − 31 × y + 26 × z − 16
 
@@ -1520,6 +2324,144 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## − 48 × e × f × g + 4 × e² × h + 32 × d × f × h − 16 × c × h² + 48 × c × g × i − 16 × b × h × i − 48 × d² × j + 144 × b × g × j
+
+- [source](<− 48 × e × f × g + 4 × e² × h + 32 × d × f × h − 16 × c × h² + 48 × c × g × i − 16 × b × h × i − 48 × d² × j + 144 × b × g × j.source.txt>) · [why](<− 48 × e × f × g + 4 × e² × h + 32 × d × f × h − 16 × c × h² + 48 × c × g × i − 16 × b × h × i − 48 × d² × j + 144 × b × g × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − 48 × f² × g + 4 × e² × i + 32 × d × f × i − 16 × c × h × i − 16 × b × i² − 48 × d × e × j + 144 × c × g × j + 48 × b × h × j
+
+- [source](<− 48 × f² × g + 4 × e² × i + 32 × d × f × i − 16 × c × h × i − 16 × b × i² − 48 × d × e × j + 144 × c × g × j + 48 × b × h × j.source.txt>) · [why](<− 48 × f² × g + 4 × e² × i + 32 × d × f × i − 16 × c × h × i − 16 × b × i² − 48 × d × e × j + 144 × c × g × j + 48 × b × h × j.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − B × E + A × F
+
+- [source](<− B × E + A × F.source.txt>) · [why](<− B × E + A × F.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − C × E + A × G
+
+- [source](<− C × E + A × G.source.txt>) · [why](<− C × E + A × G.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − C × F + B × G
+
+- [source](<− C × F + B × G.source.txt>) · [why](<− C × F + B × G.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − D × E + A × H
+
+- [source](<− D × E + A × H.source.txt>) · [why](<− D × E + A × H.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − D × F + B × H
+
+- [source](<− D × F + B × H.source.txt>) · [why](<− D × F + B × H.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − D × G + C × H
+
+- [source](<− D × G + C × H.source.txt>) · [why](<− D × G + C × H.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − a + x
+
+- [source](<− a + x.source.txt>) · [why](<− a + x.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − a + y
+
+- [source](<− a + y.source.txt>) · [why](<− a + y.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − a − e − i
+
+- [source](<− a − e − i.source.txt>) · [why](<− a − e − i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − a⁴ + y
+
+- [source](<− a⁴ + y.source.txt>) · [why](<− a⁴ + y.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − b + y
+
+- [source](<− b + y.source.txt>) · [why](<− b + y.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − b × c + a × d
+
+- [source](<− b × c + a × d.source.txt>) · [why](<− b × c + a × d.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − b × d + a × e − c × g − f × h + a × i + e × i
+
+- [source](<− b × d + a × e − c × g − f × h + a × i + e × i.source.txt>) · [why](<− b × d + a × e − c × g − f × h + a × i + e × i.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − b × d + a × e
+
+- [source](<− b × d + a × e.source.txt>) · [why](<− b × d + a × e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − d² + c × e
+
+- [source](<− d² + c × e.source.txt>) · [why](<− d² + c × e.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − r × s + C
+
+- [source](<− r × s + C.source.txt>) · [why](<− r × s + C.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − r × t + D
+
+- [source](<− r × t + D.source.txt>) · [why](<− r × t + D.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − r² + A
+
+- [source](<− r² + A.source.txt>) · [why](<− r² + A.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − s × t + E
+
+- [source](<− s × t + E.source.txt>) · [why](<− s × t + E.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − s² + B
+
+- [source](<− s² + B.source.txt>) · [why](<− s² + B.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − t × z + x
+
+- [source](<− t × z + x.source.txt>) · [why](<− t × z + x.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
 ## − x₁³ × x₂ + x₀³ × x₃
 
 - [source](<− x₁³ × x₂ + x₀³ × x₃.source.txt>) · [why](<− x₁³ × x₂ + x₀³ × x₃.why.txt>)
@@ -1543,6 +2485,102 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<− x₃².source.txt>) · [why](<− x₃².why.txt>)
 
 **SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## − y_1 × y_3 × y_4 + y_0 × y_4² + y_1² × y_6 − y_0 × y_1 × y_7
+
+- [source](<− y_1 × y_3 × y_4 + y_0 × y_4² + y_1² × y_6 − y_0 × y_1 × y_7.source.txt>) · [why](<− y_1 × y_3 × y_4 + y_0 × y_4² + y_1² × y_6 − y_0 × y_1 × y_7.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_1 × y_3 × y_5 + y_0 × y_4 × y_5 + y_1 × y_2 × y_6 − y_0 × y_2 × y_7
+
+- [source](<− y_1 × y_3 × y_5 + y_0 × y_4 × y_5 + y_1 × y_2 × y_6 − y_0 × y_2 × y_7.source.txt>) · [why](<− y_1 × y_3 × y_5 + y_0 × y_4 × y_5 + y_1 × y_2 × y_6 − y_0 × y_2 × y_7.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_1 × y_3² + y_0 × y_3 × y_4 + y_0 × y_1 × y_6 − y_0² × y_7
+
+- [source](<− y_1 × y_3² + y_0 × y_3 × y_4 + y_0 × y_1 × y_6 − y_0² × y_7.source.txt>) · [why](<− y_1 × y_3² + y_0 × y_3 × y_4 + y_0 × y_1 × y_6 − y_0² × y_7.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_3 × y_4 + y_1 × y_3 × y_5 + y_0 × y_2 × y_7 − y_0 × y_1 × y_8
+
+- [source](<− y_2 × y_3 × y_4 + y_1 × y_3 × y_5 + y_0 × y_2 × y_7 − y_0 × y_1 × y_8.source.txt>) · [why](<− y_2 × y_3 × y_4 + y_1 × y_3 × y_5 + y_0 × y_2 × y_7 − y_0 × y_1 × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_5 + y_1 × y_5² + y_2² × y_7 − y_1 × y_2 × y_8
+
+- [source](<− y_2 × y_4 × y_5 + y_1 × y_5² + y_2² × y_7 − y_1 × y_2 × y_8.source.txt>) · [why](<− y_2 × y_4 × y_5 + y_1 × y_5² + y_2² × y_7 − y_1 × y_2 × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 + y_1 × y_5 × y_6 + y_2 × y_3 × y_7 − y_0 × y_5 × y_7 − y_1 × y_3 × y_8 + y_0 × y_4 × y_8
+
+- [source](<− y_2 × y_4 × y_6 + y_1 × y_5 × y_6 + y_2 × y_3 × y_7 − y_0 × y_5 × y_7 − y_1 × y_3 × y_8 + y_0 × y_4 × y_8.source.txt>) · [why](<− y_2 × y_4 × y_6 + y_1 × y_5 × y_6 + y_2 × y_3 × y_7 − y_0 × y_5 × y_7 − y_1 × y_3 × y_8 + y_0 × y_4 × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 × a + y_1 × y_5 × y_6 × a + y_2 × y_3 × y_7 × a − y_0 × y_5 × y_7 × a − y_1 × y_3 × y_8 × a + y_0 × y_4 × y_8 × a + y_2 × y_3 × y_4 − y_1 × y_3 × y_5 − y_0 × y_2 × y_7 + y_0 × y_1 × y_8
+
+- [source](<− y_2 × y_4 × y_6 × a + y_1 × y_5 × y_6 × a + y_2 × y_3 × y_7 × a − y_0 × y_5 × y_7 × a − y_1 × y_3 × y_8 × a + y_0 × y_4 × y_8 × a + y_2 × y_3 × y_4 − y_1 × y_3 × y_5 − y_0 × y_2 × y_7 + y_0 × y_1 × y_8.source.txt>) · [why](<− y_2 × y_4 × y_6 × a + y_1 × y_5 × y_6 × a + y_2 × y_3 × y_7 × a − y_0 × y_5 × y_7 × a − y_1 × y_3 × y_8 × a + y_0 × y_4 × y_8 × a + y_2 × y_3 × y_4 − y_1 × y_3 × y_5 − y_0 × y_2 × y_7 + y_0 × y_1 × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 × b + y_1 × y_5 × y_6 × b + y_2 × y_3 × y_7 × b − y_0 × y_5 × y_7 × b − y_1 × y_3 × y_8 × b + y_0 × y_4 × y_8 × b + y_2 × y_4² − y_1 × y_4 × y_5 − y_1 × y_2 × y_7 + y_1² × y_8
+
+- [source](<− y_2 × y_4 × y_6 × b + y_1 × y_5 × y_6 × b + y_2 × y_3 × y_7 × b − y_0 × y_5 × y_7 × b − y_1 × y_3 × y_8 × b + y_0 × y_4 × y_8 × b + y_2 × y_4² − y_1 × y_4 × y_5 − y_1 × y_2 × y_7 + y_1² × y_8.source.txt>) · [why](<− y_2 × y_4 × y_6 × b + y_1 × y_5 × y_6 × b + y_2 × y_3 × y_7 × b − y_0 × y_5 × y_7 × b − y_1 × y_3 × y_8 × b + y_0 × y_4 × y_8 × b + y_2 × y_4² − y_1 × y_4 × y_5 − y_1 × y_2 × y_7 + y_1² × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 × c + y_1 × y_5 × y_6 × c + y_2 × y_3 × y_7 × c − y_0 × y_5 × y_7 × c − y_1 × y_3 × y_8 × c + y_0 × y_4 × y_8 × c + y_2 × y_4 × y_5 − y_1 × y_5² − y_2² × y_7 + y_1 × y_2 × y_8
+
+- [source](<− y_2 × y_4 × y_6 × c + y_1 × y_5 × y_6 × c + y_2 × y_3 × y_7 × c − y_0 × y_5 × y_7 × c − y_1 × y_3 × y_8 × c + y_0 × y_4 × y_8 × c + y_2 × y_4 × y_5 − y_1 × y_5² − y_2² × y_7 + y_1 × y_2 × y_8.source.txt>) · [why](<− y_2 × y_4 × y_6 × c + y_1 × y_5 × y_6 × c + y_2 × y_3 × y_7 × c − y_0 × y_5 × y_7 × c − y_1 × y_3 × y_8 × c + y_0 × y_4 × y_8 × c + y_2 × y_4 × y_5 − y_1 × y_5² − y_2² × y_7 + y_1 × y_2 × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 × d + y_1 × y_5 × y_6 × d + y_2 × y_3 × y_7 × d − y_0 × y_5 × y_7 × d − y_1 × y_3 × y_8 × d + y_0 × y_4 × y_8 × d − y_2 × y_3² + y_0 × y_3 × y_5 + y_0 × y_2 × y_6 − y_0² × y_8
+
+- [source](<− y_2 × y_4 × y_6 × d + y_1 × y_5 × y_6 × d + y_2 × y_3 × y_7 × d − y_0 × y_5 × y_7 × d − y_1 × y_3 × y_8 × d + y_0 × y_4 × y_8 × d − y_2 × y_3² + y_0 × y_3 × y_5 + y_0 × y_2 × y_6 − y_0² × y_8.source.txt>) · [why](<− y_2 × y_4 × y_6 × d + y_1 × y_5 × y_6 × d + y_2 × y_3 × y_7 × d − y_0 × y_5 × y_7 × d − y_1 × y_3 × y_8 × d + y_0 × y_4 × y_8 × d − y_2 × y_3² + y_0 × y_3 × y_5 + y_0 × y_2 × y_6 − y_0² × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 × e + y_1 × y_5 × y_6 × e + y_2 × y_3 × y_7 × e − y_0 × y_5 × y_7 × e − y_1 × y_3 × y_8 × e + y_0 × y_4 × y_8 × e − y_2 × y_3 × y_4 + y_0 × y_4 × y_5 + y_1 × y_2 × y_6 − y_0 × y_1 × y_8
+
+- [source](<− y_2 × y_4 × y_6 × e + y_1 × y_5 × y_6 × e + y_2 × y_3 × y_7 × e − y_0 × y_5 × y_7 × e − y_1 × y_3 × y_8 × e + y_0 × y_4 × y_8 × e − y_2 × y_3 × y_4 + y_0 × y_4 × y_5 + y_1 × y_2 × y_6 − y_0 × y_1 × y_8.source.txt>) · [why](<− y_2 × y_4 × y_6 × e + y_1 × y_5 × y_6 × e + y_2 × y_3 × y_7 × e − y_0 × y_5 × y_7 × e − y_1 × y_3 × y_8 × e + y_0 × y_4 × y_8 × e − y_2 × y_3 × y_4 + y_0 × y_4 × y_5 + y_1 × y_2 × y_6 − y_0 × y_1 × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 × f + y_1 × y_5 × y_6 × f + y_2 × y_3 × y_7 × f − y_0 × y_5 × y_7 × f − y_1 × y_3 × y_8 × f + y_0 × y_4 × y_8 × f − y_2 × y_3 × y_5 + y_0 × y_5² + y_2² × y_6 − y_0 × y_2 × y_8
+
+- [source](<− y_2 × y_4 × y_6 × f + y_1 × y_5 × y_6 × f + y_2 × y_3 × y_7 × f − y_0 × y_5 × y_7 × f − y_1 × y_3 × y_8 × f + y_0 × y_4 × y_8 × f − y_2 × y_3 × y_5 + y_0 × y_5² + y_2² × y_6 − y_0 × y_2 × y_8.source.txt>) · [why](<− y_2 × y_4 × y_6 × f + y_1 × y_5 × y_6 × f + y_2 × y_3 × y_7 × f − y_0 × y_5 × y_7 × f − y_1 × y_3 × y_8 × f + y_0 × y_4 × y_8 × f − y_2 × y_3 × y_5 + y_0 × y_5² + y_2² × y_6 − y_0 × y_2 × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 × g + y_1 × y_5 × y_6 × g + y_2 × y_3 × y_7 × g − y_0 × y_5 × y_7 × g − y_1 × y_3 × y_8 × g + y_0 × y_4 × y_8 × g + y_1 × y_3² − y_0 × y_3 × y_4 − y_0 × y_1 × y_6 + y_0² × y_7
+
+- [source](<− y_2 × y_4 × y_6 × g + y_1 × y_5 × y_6 × g + y_2 × y_3 × y_7 × g − y_0 × y_5 × y_7 × g − y_1 × y_3 × y_8 × g + y_0 × y_4 × y_8 × g + y_1 × y_3² − y_0 × y_3 × y_4 − y_0 × y_1 × y_6 + y_0² × y_7.source.txt>) · [why](<− y_2 × y_4 × y_6 × g + y_1 × y_5 × y_6 × g + y_2 × y_3 × y_7 × g − y_0 × y_5 × y_7 × g − y_1 × y_3 × y_8 × g + y_0 × y_4 × y_8 × g + y_1 × y_3² − y_0 × y_3 × y_4 − y_0 × y_1 × y_6 + y_0² × y_7.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 × h + y_1 × y_5 × y_6 × h + y_2 × y_3 × y_7 × h − y_0 × y_5 × y_7 × h − y_1 × y_3 × y_8 × h + y_0 × y_4 × y_8 × h + y_1 × y_3 × y_4 − y_0 × y_4² − y_1² × y_6 + y_0 × y_1 × y_7
+
+- [source](<− y_2 × y_4 × y_6 × h + y_1 × y_5 × y_6 × h + y_2 × y_3 × y_7 × h − y_0 × y_5 × y_7 × h − y_1 × y_3 × y_8 × h + y_0 × y_4 × y_8 × h + y_1 × y_3 × y_4 − y_0 × y_4² − y_1² × y_6 + y_0 × y_1 × y_7.source.txt>) · [why](<− y_2 × y_4 × y_6 × h + y_1 × y_5 × y_6 × h + y_2 × y_3 × y_7 × h − y_0 × y_5 × y_7 × h − y_1 × y_3 × y_8 × h + y_0 × y_4 × y_8 × h + y_1 × y_3 × y_4 − y_0 × y_4² − y_1² × y_6 + y_0 × y_1 × y_7.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4 × y_6 × i + y_1 × y_5 × y_6 × i + y_2 × y_3 × y_7 × i − y_0 × y_5 × y_7 × i − y_1 × y_3 × y_8 × i + y_0 × y_4 × y_8 × i + y_1 × y_3 × y_5 − y_0 × y_4 × y_5 − y_1 × y_2 × y_6 + y_0 × y_2 × y_7
+
+- [source](<− y_2 × y_4 × y_6 × i + y_1 × y_5 × y_6 × i + y_2 × y_3 × y_7 × i − y_0 × y_5 × y_7 × i − y_1 × y_3 × y_8 × i + y_0 × y_4 × y_8 × i + y_1 × y_3 × y_5 − y_0 × y_4 × y_5 − y_1 × y_2 × y_6 + y_0 × y_2 × y_7.source.txt>) · [why](<− y_2 × y_4 × y_6 × i + y_1 × y_5 × y_6 × i + y_2 × y_3 × y_7 × i − y_0 × y_5 × y_7 × i − y_1 × y_3 × y_8 × i + y_0 × y_4 × y_8 × i + y_1 × y_3 × y_5 − y_0 × y_4 × y_5 − y_1 × y_2 × y_6 + y_0 × y_2 × y_7.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − y_2 × y_4² + y_1 × y_4 × y_5 + y_1 × y_2 × y_7 − y_1² × y_8
+
+- [source](<− y_2 × y_4² + y_1 × y_4 × y_5 + y_1 × y_2 × y_7 − y_1² × y_8.source.txt>) · [why](<− y_2 × y_4² + y_1 × y_4 × y_5 + y_1 × y_2 × y_7 − y_1² × y_8.why.txt>)
+
+**SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
 ## Composite varieties, schemes, ideals, and systems
 

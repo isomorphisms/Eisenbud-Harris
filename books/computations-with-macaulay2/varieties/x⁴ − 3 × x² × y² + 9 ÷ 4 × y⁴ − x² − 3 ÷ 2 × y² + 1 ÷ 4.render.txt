@@ -1,3 +1,0 @@
-status: pending actual SURFER render
-SURFER: x^4-3*x^2*y^2+9/4*y^4-x^2-3/2*y^2+1/4
-expected-primary: x⁴ − 3 × x² × y² + 9 ÷ 4 × y⁴ − x² − 3 ÷ 2 × y² + 1 ÷ 4.png

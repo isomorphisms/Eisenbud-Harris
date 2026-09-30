@@ -1,3 +1,0 @@
-status: pending actual SURFER render
-SURFER: 2*y^2+2*y*z+2*z^2
-expected-primary: 2 × y² + 2 × y × z + 2 × z².png
