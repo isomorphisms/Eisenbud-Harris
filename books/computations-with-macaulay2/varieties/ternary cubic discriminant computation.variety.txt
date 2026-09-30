@@ -1,0 +1,11 @@
+Kind: discriminant / elimination computation for a generic ternary cubic
+Input: generic cubic F in x,y,z with coefficients a,…,j
+Stages:
+- singularity ideal (F, ∂F/∂x, ∂F/∂y, ∂F/∂z)
+- homogeneous elimination generator before z=1
+- dehomogenized elimination discriminant Δ(a,…,j)
+- Hessian determinant and contraction matrix B
+- determinant/Hessian discriminant generator
+Verification: detDiscr == elimDiscr
+Source: schemes/chapter.m2/test.m2 lines 26–42; machine-readable formulas in schemes/test.oldvalues.
+Why: The chapter computes the same discriminant by elimination and by a determinant built from first and second derivative data, then checks that the principal ideals agree.

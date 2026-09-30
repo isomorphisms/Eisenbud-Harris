@@ -2,6 +2,7 @@ scope	status	note
 schemes/test.oldvalues ideals	ordinary-complete	all explicit ideal generators under 1000 display characters cataloged or matched to existing bundles
 schemes/test.oldvalues matrices	ordinary-complete	all explicit nonconstant matrix entries under 1000 display characters cataloged or matched to existing bundles
 D determinant	complete	generic 3×3 determinant cataloged
-Hessian/discriminants	giant-pending	Hessian plus homogenized eliminant, dehomogenized eliminant, and determinant-scaled discriminant isolated for separate exact-source commit
+Hessian/discriminants	complete	Hessian, homogenized eliminant, dehomogenized eliminant, and determinant/Hessian generator stored exactly with compact catalog labels
 existing exact components	27	already-cataloged polynomial bundles referenced by output systems; no duplicate bundle created
 fresh ordinary components	173	new polynomial bundles created in this pass
+schemes semantic output sweep	complete	all explicit Ideal/Matrix components plus D, Hessian and discriminant ring elements are either cataloged or matched to existing bundles

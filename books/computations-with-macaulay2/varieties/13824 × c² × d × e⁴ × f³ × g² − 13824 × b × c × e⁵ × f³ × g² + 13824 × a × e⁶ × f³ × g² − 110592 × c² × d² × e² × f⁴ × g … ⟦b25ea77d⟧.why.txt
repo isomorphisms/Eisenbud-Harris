@@ -1,0 +1,3 @@
+This is the generator produced by the determinant construction from the derivative-contraction matrix A and Hessian-contraction matrix B. The source verifies that its principal ideal equals the elimination discriminant ideal; the visible coefficient scaling is therefore algebraically inessential over QQ but the explicit polynomial is preserved.
+
+No SURFER image is attached: this is parameter-space/projective discriminant data with many independent coefficient variables, not a canonically specified real affine x,y,z surface.

@@ -4,7 +4,7 @@ upstream-m2	preface	pending	n/a	pending	chapter.m2 and test.m2
 upstream-m2	varieties	source-and-semantic-output-complete	n/a	pending	chapter.m2/test.m2 literal source complete; original/current computational outputs audited. Defining/generator polynomials expanded individually. Large 65/690 standard-monomial basis matrices retained as structured basis records, with singled-out degree-19 entries expanded.
 upstream-m2	geometry	source-and-semantic-output-complete	n/a	pending	chapter.m2/test.m2/mystery.m2 and test.oldvalues audited: defining ideals, map coordinates, resolution/Jacobian/cotangent matrices, canonical and plane models cataloged; numerical Betti/cohomology outputs introduce no additional polynomials
 upstream-m2	programming	pending	n/a	pending	chapter.m2 and test.m2
-upstream-m2	schemes	source-complete; ordinary-output-complete; giant-discriminants-pending	n/a	pending	literal source inventory complete; 173 fresh ordinary derived-output bundles added and 27 exact components reused; four >1000-character Hessian/discriminant forms isolated for exact-source pass
+upstream-m2	schemes	source-and-semantic-output-complete	n/a	pending	chapter.m2/test.m2 literals and test.oldvalues audited across ideals, matrices, eliminants, discriminants, blow-ups, surface constructions, and Fano fibres; exact giant Hessian/discriminant forms preserved with filesystem-safe names
 upstream-m2	monomialIdeals	pending	n/a	pending	chapter.m2 and test.m2
 upstream-m2	solving	pending	n/a	pending	chapter.m2, test.m2, realroots.m2
 upstream-m2	completeIntersections	pending	n/a	pending	chapter.m2, test.m2, simplify.m2

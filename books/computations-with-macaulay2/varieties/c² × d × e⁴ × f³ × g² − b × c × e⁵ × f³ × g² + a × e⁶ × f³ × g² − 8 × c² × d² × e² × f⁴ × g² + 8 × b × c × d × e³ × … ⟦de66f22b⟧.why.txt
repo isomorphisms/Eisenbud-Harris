@@ -1,0 +1,3 @@
+This is the dehomogenized elimination generator obtained after setting z=1 in the generic ternary-cubic singularity elimination ideal. It is the principal discriminant polynomial in the ten coefficients a,…,j.
+
+No SURFER image is attached: this is parameter-space/projective discriminant data with many independent coefficient variables, not a canonically specified real affine x,y,z surface.

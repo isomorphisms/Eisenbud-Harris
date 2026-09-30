@@ -1,0 +1,3 @@
+This is the elimination generator before dehomogenizing z=1. It records the homogeneous elimination stage of the same ternary-cubic discriminant computation.
+
+No SURFER image is attached: this is parameter-space/projective discriminant data with many independent coefficient variables, not a canonically specified real affine x,y,z surface.

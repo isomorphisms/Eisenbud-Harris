@@ -1,0 +1,3 @@
+This is the Hessian determinant of the generic ternary cubic F. Its derivatives are contracted against the quadratic monomial basis to form B; together A and B yield the determinant construction of the discriminant.
+
+No SURFER image is attached: this is parameter-space/projective discriminant data with many independent coefficient variables, not a canonically specified real affine x,y,z surface.
