@@ -1,0 +1,9 @@
+Display: a² × f³ + b² × f³ + c² × f³
+SURFER: unavailable
+Macaulay2: a^2*f^3+b^2*f^3+c^2*f^3
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- fanoOfFamily [ideal output]
+- o105 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

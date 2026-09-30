@@ -1,0 +1,3 @@
+This polynomial is emitted explicitly by the quadric-family/Fano-scheme degeneration.
+
+It is cataloged separately so an expanded ideal or matrix cannot hide its component equations. Its role is arithmetic, parameter-space, projective, matrix, or higher-variable data; no arbitrary three-dimensional specialization is substituted.

@@ -1,0 +1,9 @@
+Display: x² × b − y × a
+SURFER: unavailable
+Macaulay2: x^2*b-y*a
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- J [ideal output]
+- o70 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

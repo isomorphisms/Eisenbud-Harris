@@ -1,0 +1,9 @@
+Display: − D × E + A × H
+SURFER: unavailable
+Macaulay2: -D*E+A*H
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- psi [matrix output]
+- o103 [matrix output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

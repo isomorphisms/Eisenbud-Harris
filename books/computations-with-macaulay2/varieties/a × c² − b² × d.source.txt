@@ -1,0 +1,9 @@
+Display: a × c² − b² × d
+SURFER: unavailable
+Macaulay2: a*c^2-b^2*d
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- IX [ideal output]
+- o59 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

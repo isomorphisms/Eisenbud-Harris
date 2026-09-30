@@ -1,0 +1,13 @@
+Display: c × d − a × e
+SURFER: unavailable
+Macaulay2: c*d-a*e
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- surfaceA [ideal output]
+- o77 [ideal output]
+- surfaceB [ideal output]
+- o87 [ideal output]
+- surfaceC [ideal output]
+- o90 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

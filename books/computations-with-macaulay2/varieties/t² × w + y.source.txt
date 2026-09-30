@@ -1,0 +1,9 @@
+Display: t² × w + y
+SURFER: unavailable
+Macaulay2: t^2*w+y
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- M [ideal output]
+- o52 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

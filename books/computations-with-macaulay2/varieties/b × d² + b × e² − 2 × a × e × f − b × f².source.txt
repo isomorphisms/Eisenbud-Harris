@@ -1,0 +1,9 @@
+Display: b × d² + b × e² − 2 × a × e × f − b × f²
+SURFER: unavailable
+Macaulay2: b*d^2+b*e^2-2*a*e*f-b*f^2
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- fanoOfFamily [ideal output]
+- o105 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

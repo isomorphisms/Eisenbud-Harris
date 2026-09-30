@@ -1,0 +1,9 @@
+Display: t × u² × A² + t × u² × B² + t × u² × C² + 2 × t × u × v × A × E + t × v² × E² + 2 × t × u × v × B × F + t × v² × F² + 2 × t × u × v × C × G + t × v² × G² + u² × D² + 2 × u × v × D × H + v² × H²
+SURFER: unavailable
+Macaulay2: t*u^2*A^2+t*u^2*B^2+t*u^2*C^2+2*t*u*v*A*E+t*v^2*E^2+2*t*u*v*B*F+t*v^2*F^2+2*t*u*v*C*G+t*v^2*G^2+u^2*D^2+2*u*v*D*H+v^2*H^2
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- imageFamily [ideal output]
+- o98 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

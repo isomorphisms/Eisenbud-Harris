@@ -1,0 +1,12 @@
+Display: a × e + b × f
+SURFER: unavailable
+Macaulay2: a*e+b*f
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- zeroFibre [ideal output]
+- o106 [ideal output]
+- o107 [matrix output]
+- oneFibre [ideal output]
+- o108 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues
