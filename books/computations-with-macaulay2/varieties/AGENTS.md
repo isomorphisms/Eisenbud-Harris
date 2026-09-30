@@ -38,6 +38,8 @@ A polynomial source file records provenance, not interpretation. Include `Displa
 
 Machine syntax may use `*`; filenames and prose may use `×`.
 
+Division-sign exception: `/` is a path separator and cannot appear inside a filename. For a rational expression, use Unicode `÷` in the human-facing basename/display and preserve the exact Macaulay2 `/` spelling in `Macaulay2:`.
+
 ## Variety records
 
 A variety, scheme, ideal, union, intersection, saturation, projection, degeneration, or other composite object gets its own single `*.variety.txt` record. It does not replace component-polynomial records.
