@@ -50,6 +50,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this polynomial is projective map data over F₃₂₇₄₉; a faithful SURFER view requires a chart and base-field specialization
 
+## ternary cubic discriminant — determinant/Hessian generator
+
+- [source](<13824 × c² × d × e⁴ × f³ × g² − 13824 × b × c × e⁵ × f³ × g² + 13824 × a × e⁶ × f³ × g² − 110592 × c² × d² × e² × f⁴ × g … ⟦b25ea77d⟧.source.txt>) · [why](<13824 × c² × d × e⁴ × f³ × g² − 13824 × b × c × e⁵ × f³ × g² + 13824 × a × e⁶ × f³ × g² − 110592 × c² × d² × e² × f⁴ × g … ⟦b25ea77d⟧.why.txt>)
+
+**SURFER unavailable:** this is high-dimensional coefficient-space/Hessian data with no canonical x,y,z real-affine specialization
+
 ## 15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5
 
 - [source](<15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5.source.txt>) · [why](<15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5.why.txt>)
@@ -649,6 +655,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<c² + e² + f².source.txt>) · [why](<c² + e² + f².why.txt>)
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## ternary cubic discriminant Δ(a,…,j) — dehomogenized elimination generator
+
+- [source](<c² × d × e⁴ × f³ × g² − b × c × e⁵ × f³ × g² + a × e⁶ × f³ × g² − 8 × c² × d² × e² × f⁴ × g² + 8 × b × c × d × e³ × … ⟦de66f22b⟧.source.txt>) · [why](<c² × d × e⁴ × f³ × g² − b × c × e⁵ × f³ × g² + a × e⁶ × f³ × g² − 8 × c² × d² × e² × f⁴ × g² + 8 × b × c × d × e³ × … ⟦de66f22b⟧.why.txt>)
+
+**SURFER unavailable:** this is high-dimensional coefficient-space/Hessian data with no canonical x,y,z real-affine specialization
 
 ## c²
 
@@ -2186,6 +2198,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
 
+## ternary cubic discriminant — homogenized elimination generator before z=1
+
+- [source](<z⁴ × c² × d × e⁴ × f³ × g² − z⁴ × b × c × e⁵ × f³ × g² + z⁴ × a × e⁶ × f³ × g² − 8 × z⁴ × c² × d² × e² × f⁴ × g … ⟦47913517⟧.source.txt>) · [why](<z⁴ × c² × d × e⁴ × f³ × g² − z⁴ × b × c × e⁵ × f³ × g² + z⁴ × a × e⁶ × f³ × g² − 8 × z⁴ × c² × d² × e² × f⁴ × g … ⟦47913517⟧.why.txt>)
+
+**SURFER unavailable:** this is high-dimensional coefficient-space/Hessian data with no canonical x,y,z real-affine specialization
+
 ## z⁵ + 46 × x² − 46 × x × y + 8 × y² − 48 × x − 19 × y − 29
 
 - [source](<z⁵ + 46 × x² − 46 × x × y + 8 × y² − 48 × x − 19 × y − 29.source.txt>) · [why](<z⁵ + 46 × x² − 46 × x × y + 8 × y² − 48 × x − 19 × y − 29.why.txt>)
@@ -2335,6 +2353,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<− 48 × f² × g + 4 × e² × i + 32 × d × f × i − 16 × c × h × i − 16 × b × i² − 48 × d × e × j + 144 × c × g × j + 48 × b × h × j.source.txt>) · [why](<− 48 × f² × g + 4 × e² × i + 32 × d × f × i − 16 × c × h × i − 16 × b × i² − 48 × d × e × j + 144 × c × g × j + 48 × b × h × j.why.txt>)
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## Hessian determinant of the generic ternary cubic
+
+- [source](<− 8 × x³ × c² × d + 8 × x³ × b × c × e − 6 × x³ × a × e² + 2 × x² × y × b × e² + 2 × x × y² × d × e² − 8 × x³ × b² × f + 24 … ⟦0d924ace⟧.source.txt>) · [why](<− 8 × x³ × c² × d + 8 × x³ × b × c × e − 6 × x³ × a × e² + 2 × x² × y × b × e² + 2 × x × y² × d × e² − 8 × x³ × b² × f + 24 … ⟦0d924ace⟧.why.txt>)
+
+**SURFER unavailable:** this is high-dimensional coefficient-space/Hessian data with no canonical x,y,z real-affine specialization
 
 ## − B × E + A × F
 
@@ -2644,6 +2668,7 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [reconstructed idealC = mystery idealX](<reconstructed idealC = mystery idealX.variety.txt>)
 - [staircase = LT(ourpoints)](<staircase = LT(ourpoints).variety.txt>)
 - [surfaceA parametrization ideal](<surfaceA parametrization ideal.variety.txt>)
+- [ternary cubic discriminant computation](<ternary cubic discriminant computation.variety.txt>)
 - [toric quotient normal forms](<toric quotient normal forms.variety.txt>)
 - [twisted cubic determinantal matrix M](<twisted cubic determinantal matrix M.variety.txt>)
 - [twisted cubic ideal](<twisted cubic ideal.variety.txt>)
