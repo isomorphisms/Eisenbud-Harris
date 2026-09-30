@@ -1,0 +1,8 @@
+Display: x⁴ − 3 × x² × y² + 9 ÷ 4 × y⁴ − x² − 3 ÷ 2 × y² + 1 ÷ 4
+SURFER: x^4-3*x^2*y^2+9/4*y^4-x^2-3/2*y^2+1/4
+Macaulay2: x^4-3*x^2*y^2+9/4*y^4-x^2-3/2*y^2+1/4
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- o44 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

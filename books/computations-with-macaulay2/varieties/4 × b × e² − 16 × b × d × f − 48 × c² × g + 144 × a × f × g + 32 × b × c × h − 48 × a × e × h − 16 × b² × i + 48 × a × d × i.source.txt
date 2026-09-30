@@ -1,0 +1,9 @@
+Display: 4 × b × e² − 16 × b × d × f − 48 × c² × g + 144 × a × f × g + 32 × b × c × h − 48 × a × e × h − 16 × b² × i + 48 × a × d × i
+SURFER: unavailable
+Macaulay2: 4*b*e^2-16*b*d*f-48*c^2*g+144*a*f*g+32*b*c*h-48*a*e*h-16*b^2*i+48*a*d*i
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- B [matrix output]
+- o27 [matrix output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

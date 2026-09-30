@@ -1,0 +1,8 @@
+Display: y³ + y² + x + y + 1
+SURFER: y^3+y^2+x+y+1
+Macaulay2: y^3+y^2+x+y+1
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- o40 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

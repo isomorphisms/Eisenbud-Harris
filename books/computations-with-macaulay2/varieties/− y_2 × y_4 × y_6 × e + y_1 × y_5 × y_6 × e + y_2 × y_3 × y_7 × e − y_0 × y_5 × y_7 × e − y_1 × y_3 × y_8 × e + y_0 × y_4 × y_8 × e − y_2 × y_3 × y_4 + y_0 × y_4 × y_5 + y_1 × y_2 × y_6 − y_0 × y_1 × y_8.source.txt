@@ -1,0 +1,9 @@
+Display: − y_2 × y_4 × y_6 × e + y_1 × y_5 × y_6 × e + y_2 × y_3 × y_7 × e − y_0 × y_5 × y_7 × e − y_1 × y_3 × y_8 × e + y_0 × y_4 × y_8 × e − y_2 × y_3 × y_4 + y_0 × y_4 × y_5 + y_1 × y_2 × y_6 − y_0 × y_1 × y_8
+SURFER: unavailable
+Macaulay2: -y_2*y_4*y_6*e+y_1*y_5*y_6*e+y_2*y_3*y_7*e-y_0*y_5*y_7*e-y_1*y_3*y_8*e+y_0*y_4*y_8*e-y_2*y_3*y_4+y_0*y_4*y_5+y_1*y_2*y_6-y_0*y_1*y_8
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- elimIdeal [ideal output]
+- o14 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

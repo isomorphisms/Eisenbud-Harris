@@ -1,0 +1,3 @@
+status: pending actual SURFER render
+SURFER: x^2+y^2+x+y+1
+expected-primary: x² + y² + x + y + 1.png

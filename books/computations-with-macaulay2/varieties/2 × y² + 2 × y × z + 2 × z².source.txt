@@ -1,0 +1,8 @@
+Display: 2 × y² + 2 × y × z + 2 × z²
+SURFER: 2*y^2+2*y*z+2*z^2
+Macaulay2: 2*y^2+2*y*z+2*z^2
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- o5 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

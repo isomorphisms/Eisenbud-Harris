@@ -1,0 +1,9 @@
+Display: c × e × g − b × f × g − c × d × h + a × f × h + b × d × i − a × e × i
+SURFER: unavailable
+Macaulay2: c*e*g-b*f*g-c*d*h+a*f*h+b*d*i-a*e*i
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- X [ideal output]
+- o16 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

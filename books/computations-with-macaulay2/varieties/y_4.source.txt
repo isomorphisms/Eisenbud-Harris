@@ -1,0 +1,9 @@
+Display: y_4
+SURFER: unavailable
+Macaulay2: y_4
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- G [matrix output]
+- o9 [matrix output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

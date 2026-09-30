@@ -1,0 +1,9 @@
+Display: b × d + e² + c × g + f × h + e × i + i²
+SURFER: unavailable
+Macaulay2: b*d+e^2+c*g+f*h+e*i+i^2
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- closureOfOrbit [ideal output]
+- o15 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

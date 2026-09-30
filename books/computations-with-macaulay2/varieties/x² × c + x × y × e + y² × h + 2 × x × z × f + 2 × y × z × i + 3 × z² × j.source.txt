@@ -1,0 +1,11 @@
+Display: x² × c + x × y × e + y² × h + 2 × x × z × f + 2 × y × z × i + 3 × z² × j
+SURFER: unavailable
+Macaulay2: x^2*c+x*y*e+y^2*h+2*x*z*f+2*y*z*i+3*z^2*j
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- partials [matrix output]
+- o21 [matrix output]
+- singularities [ideal output]
+- o22 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

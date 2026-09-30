@@ -1,0 +1,9 @@
+Display: − b + y
+SURFER: unavailable
+Macaulay2: -b+y
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- I2 [ideal output]
+- o37 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

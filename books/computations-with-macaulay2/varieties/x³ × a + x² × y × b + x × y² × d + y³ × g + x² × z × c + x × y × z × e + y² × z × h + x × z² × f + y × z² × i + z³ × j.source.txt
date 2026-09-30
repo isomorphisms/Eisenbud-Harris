@@ -1,0 +1,9 @@
+Display: x³ × a + x² × y × b + x × y² × d + y³ × g + x² × z × c + x × y × z × e + y² × z × h + x × z² × f + y × z² × i + z³ × j
+SURFER: unavailable
+Macaulay2: x^3*a+x^2*y*b+x*y^2*d+y^3*g+x^2*z*c+x*y*z*e+y^2*z*h+x*z^2*f+y*z^2*i+z^3*j
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- singularities [ideal output]
+- o22 [ideal output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

@@ -1,0 +1,9 @@
+Display: − y_1 × y_3² + y_0 × y_3 × y_4 + y_0 × y_1 × y_6 − y_0² × y_7
+SURFER: unavailable
+Macaulay2: -y_1*y_3^2+y_0*y_3*y_4+y_0*y_1*y_6-y_0^2*y_7
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Derived occurrences:
+- num [matrix output]
+- o11 [matrix output]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.oldvalues

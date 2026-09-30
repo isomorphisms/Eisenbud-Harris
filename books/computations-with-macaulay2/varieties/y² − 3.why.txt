@@ -1,0 +1,3 @@
+This polynomial is emitted explicitly by one of the algebraic-parameter elimination examples.
+
+It is cataloged separately so an expanded ideal or matrix cannot hide its component equations. Its variables are exactly in the real affine x,y,z renderer vocabulary, so an actual SURFER still is appropriate.
