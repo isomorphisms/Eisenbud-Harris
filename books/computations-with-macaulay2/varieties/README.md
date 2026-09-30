@@ -206,6 +206,30 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
 
+## s × t²
+
+- [source](<s × t².source.txt>) · [why](<s × t².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## s² × t
+
+- [source](<s² × t.source.txt>) · [why](<s² × t.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## s³
+
+- [source](<s³.source.txt>) · [why](<s³.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## t³
+
+- [source](<t³.source.txt>) · [why](<t³.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
 ## x × d − n²
 
 - [source](<x × d − n².source.txt>) · [why](<x × d − n².why.txt>)
@@ -482,6 +506,282 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the monomial is a quotient-basis element with repeated coordinate factors; a surface picture would discard the quotient and exponent information
 
+## x₀ + x₁
+
+- [source](<x₀ + x₁.source.txt>) · [why](<x₀ + x₁.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀ × x₁ − 301 × x₀ × x₃ − 855 × x₂ × x₃ − 14291 × x₁ × x₄ − 10440 × x₃ × x₄
+
+- [source](<x₀ × x₁ − 301 × x₀ × x₃ − 855 × x₂ × x₃ − 14291 × x₁ × x₄ − 10440 × x₃ × x₄.source.txt>) · [why](<x₀ × x₁ − 301 × x₀ × x₃ − 855 × x₂ × x₃ − 14291 × x₁ × x₄ − 10440 × x₃ × x₄.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀ × x₁² × x₂² + 11909 × x₀⁴ × x₃ + 5954 × x₀³ × x₂ × x₃ + 2977 × x₀² × x₂² × x₃ + 11910 × x₀ × x₂³ × x₃ − 2978 × x₁³ × x₃² + 14887 × x₀ × x₁ × x₃³ + 11910 × x₁ × x₂ × x₃³
+
+- [source](<x₀ × x₁² × x₂² + 11909 × x₀⁴ × x₃ + 5954 × x₀³ × x₂ × x₃ + 2977 × x₀² × x₂² × x₃ + 11910 × x₀ × x₂³ × x₃ − 297 … ⟦8456ea68⟧.source.txt>) · [why](<x₀ × x₁² × x₂² + 11909 × x₀⁴ × x₃ + 5954 × x₀³ × x₂ × x₃ + 2977 × x₀² × x₂² × x₃ + 11910 × x₀ × x₂³ × x₃ − 297 … ⟦8456ea68⟧.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀ × x₁³ × x₂ − 13099 × x₁³ × x₂² − 6550 × x₀³ × x₁ × x₃ − 13100 × x₀² × x₁ × x₂ × x₃ − 6550 × x₀ × x₁ × x₂² × x₃ + 13099 × x₁ × x₂³ × x₃ + 13100 × x₁² × x₃³ + 13099 × x₀ × x₃⁴
+
+- [source](<x₀ × x₁³ × x₂ − 13099 × x₁³ × x₂² − 6550 × x₀³ × x₁ × x₃ − 13100 × x₀² × x₁ × x₂ × x₃ − 6550 × x₀ × x₁ × x … ⟦627be4a7⟧.source.txt>) · [why](<x₀ × x₁³ × x₂ − 13099 × x₁³ × x₂² − 6550 × x₀³ × x₁ × x₃ − 13100 × x₀² × x₁ × x₂ × x₃ − 6550 × x₀ × x₁ × x … ⟦627be4a7⟧.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀ × x₂ × x₃ + 4615 × x₂² × x₃ − 16374 × x₀ × x₃ × x₄ + 4763 × x₂ × x₃ × x₄ + 930 × x₁ × x₄² + 9601 × x₃ × x₄² + 744 × x₅³
+
+- [source](<x₀ × x₂ × x₃ + 4615 × x₂² × x₃ − 16374 × x₀ × x₃ × x₄ + 4763 × x₂ × x₃ × x₄ + 930 × x₁ × x₄² + 9601 × x₃ × x₄² + 744 × x₅³.source.txt>) · [why](<x₀ × x₂ × x₃ + 4615 × x₂² × x₃ − 16374 × x₀ × x₃ × x₄ + 4763 × x₂ × x₃ × x₄ + 930 × x₁ × x₄² + 9601 × x₃ × x₄² + 744 × x₅³.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀ × x₂² + 10074 × x₀ × x₂ × x₄ − 7307 × x₂² × x₄ − 7056 × x₀ × x₄² + 5190 × x₂ × x₄² − 9976 × x₄³ − 8189 × x₁ × x₅² + 5953 × x₃ × x₅²
+
+- [source](<x₀ × x₂² + 10074 × x₀ × x₂ × x₄ − 7307 × x₂² × x₄ − 7056 × x₀ × x₄² + 5190 × x₂ × x₄² − 9976 × x₄³ − 8189 × x₁ × x₅² + 5953 × x₃ × x₅².source.txt>) · [why](<x₀ × x₂² + 10074 × x₀ × x₂ × x₄ − 7307 × x₂² × x₄ − 7056 × x₀ × x₄² + 5190 × x₂ × x₄² − 9976 × x₄³ − 8189 × x₁ × x₅² + 5953 × x₃ × x₅².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀
+
+- [source](<x₀.source.txt>) · [why](<x₀.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀² + 7742 × x₀ × x₂ − 14401 × x₂² + 2679 × x₀ × x₄ + 1764 × x₂ × x₄ − 11925 × x₄²
+
+- [source](<x₀² + 7742 × x₀ × x₂ − 14401 × x₂² + 2679 × x₀ × x₄ + 1764 × x₂ × x₄ − 11925 × x₄².source.txt>) · [why](<x₀² + 7742 × x₀ × x₂ − 14401 × x₂² + 2679 × x₀ × x₄ + 1764 × x₂ × x₄ − 11925 × x₄².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀² × x₁ + x₃³ + x₄ × x₅²
+
+- [source](<x₀² × x₁ + x₃³ + x₄ × x₅².source.txt>) · [why](<x₀² × x₁ + x₃³ + x₄ × x₅².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀² × x₁² − 10915 × x₀ × x₁² × x₂ − 10917 × x₀³ × x₃ + 10916 × x₀² × x₂ × x₃ − 10916 × x₀ × x₂² × x₃ − 10916 × x₁ × x₃³
+
+- [source](<x₀² × x₁² − 10915 × x₀ × x₁² × x₂ − 10917 × x₀³ × x₃ + 10916 × x₀² × x₂ × x₃ − 10916 × x₀ × x₂² × x₃ − 10916 × x₁ × x₃³.source.txt>) · [why](<x₀² × x₁² − 10915 × x₀ × x₁² × x₂ − 10917 × x₀³ × x₃ + 10916 × x₀² × x₂ × x₃ − 10916 × x₀ × x₂² × x₃ − 10916 × x₁ × x₃³.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀² × x₂ + x₃² × x₄ + x₅³
+
+- [source](<x₀² × x₂ + x₃² × x₄ + x₅³.source.txt>) · [why](<x₀² × x₂ + x₃² × x₄ + x₅³.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀³ + x₁ × x₃² + x₂ × x₅²
+
+- [source](<x₀³ + x₁ × x₃² + x₂ × x₅².source.txt>) · [why](<x₀³ + x₁ × x₃² + x₂ × x₅².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀³
+
+- [source](<x₀³.source.txt>) · [why](<x₀³.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀⁵ + 13394 × x₀⁴ × x₁ − 13014 × x₀³ × x₁² + 9232 × x₀² × x₁³ + 12418 × x₀ × x₁⁴ − 2746 × x₁⁵ + 2107 × x₂⁵
+
+- [source](<x₀⁵ + 13394 × x₀⁴ × x₁ − 13014 × x₀³ × x₁² + 9232 × x₀² × x₁³ + 12418 × x₀ × x₁⁴ − 2746 × x₁⁵ + 2107 × x₂⁵.source.txt>) · [why](<x₀⁵ + 13394 × x₀⁴ × x₁ − 13014 × x₀³ × x₁² + 9232 × x₀² × x₁³ + 12418 × x₀ × x₁⁴ − 2746 × x₁⁵ + 2107 × x₂⁵.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀⁵ + 5 × x₀² × x₂³ + 5 × x₀ × x₂⁴ − 3 × x₀ × x₁³ × x₃ − 4 × x₁³ × x₂ × x₃ + 4 × x₀² × x₁ × x₃² + 10 × x₀ × x₁ × x₂ × x₃² + 5 × x₁ × x₂² × x₃²
+
+- [source](<x₀⁵ + 5 × x₀² × x₂³ + 5 × x₀ × x₂⁴ − 3 × x₀ × x₁³ × x₃ − 4 × x₁³ × x₂ × x₃ + 4 × x₀² × x₁ × x₃² + 10 × x₀ × x₁ × x₂ × x₃² + 5 × x₁ × x₂² × x₃².source.txt>) · [why](<x₀⁵ + 5 × x₀² × x₂³ + 5 × x₀ × x₂⁴ − 3 × x₀ × x₁³ × x₃ − 4 × x₁³ × x₂ × x₃ + 4 × x₀² × x₁ × x₃² + 10 × x₀ × x₁ × x₂ × x₃² + 5 × x₁ × x₂² × x₃².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₀⁵ + x₁⁵ + x₂⁵
+
+- [source](<x₀⁵ + x₁⁵ + x₂⁵.source.txt>) · [why](<x₀⁵ + x₁⁵ + x₂⁵.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁ + x₃
+
+- [source](<x₁ + x₃.source.txt>) · [why](<x₁ + x₃.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁ × x₂ − 4032 × x₀ × x₃ − 6248 × x₂ × x₃ − 10379 × x₃ × x₄
+
+- [source](<x₁ × x₂ − 4032 × x₀ × x₃ − 6248 × x₂ × x₃ − 10379 × x₃ × x₄.source.txt>) · [why](<x₁ × x₂ − 4032 × x₀ × x₃ − 6248 × x₂ × x₃ − 10379 × x₃ × x₄.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁ × x₂ − x₀ × x₃
+
+- [source](<x₁ × x₂ − x₀ × x₃.source.txt>) · [why](<x₁ × x₂ − x₀ × x₃.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁ × x₂ − x₀ × x₄
+
+- [source](<x₁ × x₂ − x₀ × x₄.source.txt>) · [why](<x₁ × x₂ − x₀ × x₄.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁ × x₃ − 6048 × x₀ × x₅ − 15922 × x₂ × x₅ + 7357 × x₄ × x₅
+
+- [source](<x₁ × x₃ − 6048 × x₀ × x₅ − 15922 × x₂ × x₅ + 7357 × x₄ × x₅.source.txt>) · [why](<x₁ × x₃ − 6048 × x₀ × x₅ − 15922 × x₂ × x₅ + 7357 × x₄ × x₅.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁ × x₃
+
+- [source](<x₁ × x₃.source.txt>) · [why](<x₁ × x₃.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁ × x₄
+
+- [source](<x₁ × x₄.source.txt>) · [why](<x₁ × x₄.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁
+
+- [source](<x₁.source.txt>) · [why](<x₁.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁² + 4032 × x₀ × x₅ + 14108 × x₂ × x₅ − 4032 × x₄ × x₅
+
+- [source](<x₁² + 4032 × x₀ × x₅ + 14108 × x₂ × x₅ − 4032 × x₄ × x₅.source.txt>) · [why](<x₁² + 4032 × x₀ × x₅ + 14108 × x₂ × x₅ − 4032 × x₄ × x₅.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁² × x₂⁴ − 8932 × x₀⁴ × x₂ × x₃ + 11909 × x₀³ × x₂² × x₃ + 5954 × x₀² × x₂³ × x₃ − 8934 × x₀ × x₂⁴ × x₃ − x₂⁵ × x₃ + 2 × x₀ × x₁³ × x₃² − 5952 × x₁³ × x₂ × x₃² − x₀² × x₁ × x₃³ − 2979 × x₀ × x₁ × x₂ × x₃³ − 8934 × x₁ × x₂² × x₃³ + x₃⁶
+
+- [source](<x₁² × x₂⁴ − 8932 × x₀⁴ × x₂ × x₃ + 11909 × x₀³ × x₂² × x₃ + 5954 × x₀² × x₂³ × x₃ − 8934 × x₀ × x₂⁴ × x₃ … ⟦42351713⟧.source.txt>) · [why](<x₁² × x₂⁴ − 8932 × x₀⁴ × x₂ × x₃ + 11909 × x₀³ × x₂² × x₃ + 5954 × x₀² × x₂³ × x₃ − 8934 × x₀ × x₂⁴ × x₃ … ⟦42351713⟧.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁² − x₀ × x₂
+
+- [source](<x₁² − x₀ × x₂.source.txt>) · [why](<x₁² − x₀ × x₂.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁² − x₀ × x₃
+
+- [source](<x₁² − x₀ × x₃.source.txt>) · [why](<x₁² − x₀ × x₃.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁²
+
+- [source](<x₁².source.txt>) · [why](<x₁².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁³
+
+- [source](<x₁³.source.txt>) · [why](<x₁³.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₁⁴ − 2 × x₀ × x₁² × x₃ − x₁² × x₂ × x₃ + x₀² × x₃²
+
+- [source](<x₁⁴ − 2 × x₀ × x₁² × x₃ − x₁² × x₂ × x₃ + x₀² × x₃².source.txt>) · [why](<x₁⁴ − 2 × x₀ × x₁² × x₃ − x₁² × x₂ × x₃ + x₀² × x₃².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂ + x₄
+
+- [source](<x₂ + x₄.source.txt>) · [why](<x₂ + x₄.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂ × x₃ − x₁ × x₄
+
+- [source](<x₂ × x₃ − x₁ × x₄.source.txt>) · [why](<x₂ × x₃ − x₁ × x₄.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂ × x₃
+
+- [source](<x₂ × x₃.source.txt>) · [why](<x₂ × x₃.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂ × x₄ − x₁ × x₅
+
+- [source](<x₂ × x₄ − x₁ × x₅.source.txt>) · [why](<x₂ × x₄ − x₁ × x₅.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂ × x₄
+
+- [source](<x₂ × x₄.source.txt>) · [why](<x₂ × x₄.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂
+
+- [source](<x₂.source.txt>) · [why](<x₂.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂² − x₀ × x₅
+
+- [source](<x₂² − x₀ × x₅.source.txt>) · [why](<x₂² − x₀ × x₅.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂² − x₁ × x₃
+
+- [source](<x₂² − x₁ × x₃.source.txt>) · [why](<x₂² − x₁ × x₃.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂²
+
+- [source](<x₂².source.txt>) · [why](<x₂².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₂³ − 7549 × x₀ × x₂ × x₄ − 10074 × x₂² × x₄ + 15120 × x₀ × x₄² + 14608 × x₂ × x₄² − 2015 × x₄³ + 8191 × x₁ × x₅² − 16372 × x₃ × x₅²
+
+- [source](<x₂³ − 7549 × x₀ × x₂ × x₄ − 10074 × x₂² × x₄ + 15120 × x₀ × x₄² + 14608 × x₂ × x₄² − 2015 × x₄³ + 8191 × x₁ × x₅² − 16372 × x₃ × x₅².source.txt>) · [why](<x₂³ − 7549 × x₀ × x₂ × x₄ − 10074 × x₂² × x₄ + 15120 × x₀ × x₄² + 14608 × x₂ × x₄² − 2015 × x₄³ + 8191 × x₁ × x₅² − 16372 × x₃ × x₅².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₃
+
+- [source](<x₃.source.txt>) · [why](<x₃.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₃² + 5040 × x₀ × x₅ − 8565 × x₂ × x₅ − 11589 × x₄ × x₅
+
+- [source](<x₃² + 5040 × x₀ × x₅ − 8565 × x₂ × x₅ − 11589 × x₄ × x₅.source.txt>) · [why](<x₃² + 5040 × x₀ × x₅ − 8565 × x₂ × x₅ − 11589 × x₄ × x₅.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₄
+
+- [source](<x₄.source.txt>) · [why](<x₄.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₄² − x₃ × x₅
+
+- [source](<x₄² − x₃ × x₅.source.txt>) · [why](<x₄² − x₃ × x₅.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## x₅
+
+- [source](<x₅.source.txt>) · [why](<x₅.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
 ## y × d³ − p × n × q
 
 - [source](<y × d³ − p × n × q.source.txt>) · [why](<y × d³ − p × n × q.why.txt>)
@@ -680,6 +980,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the zero set is the plane z=0; the exponent 5, not the support, is the information used downstream
 
+## − (x₁³ × x₃)
+
+- [source](<− (x₁³ × x₃).source.txt>) · [why](<− (x₁³ × x₃).why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## − (x₂² × x₃)
+
+- [source](<− (x₂² × x₃).source.txt>) · [why](<− (x₂² × x₃).why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
 ## − 10 × x² − 5 × x × y + x × z − 5 × x − 40 × y − 30 × z − 17
 
 - [source](<− 10 × x² − 5 × x × y + x × z − 5 × x − 40 × y − 30 × z − 17.source.txt>) · [why](<− 10 × x² − 5 × x × y + x × z − 5 × x − 40 × y − 30 × z − 17.why.txt>)
@@ -752,10 +1064,35 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## − x₁³ × x₂ + x₀³ × x₃
+
+- [source](<− x₁³ × x₂ + x₀³ × x₃.source.txt>) · [why](<− x₁³ × x₂ + x₀³ × x₃.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## − x₁⁵ + x₀³ × x₂²
+
+- [source](<− x₁⁵ + x₀³ × x₂².source.txt>) · [why](<− x₁⁵ + x₀³ × x₂².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## − x₂³ + x₁² × x₃
+
+- [source](<− x₂³ + x₁² × x₃.source.txt>) · [why](<− x₂³ + x₁² × x₃.why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## − x₃²
+
+- [source](<− x₃².source.txt>) · [why](<− x₃².why.txt>)
+
+**SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
 ## Composite varieties, schemes, ideals, and systems
 
 - [C.dd₂ syzygy matrix](<C.dd₂ syzygy matrix.variety.txt>)
 - [C.dd₃ syzygy matrix](<C.dd₃ syzygy matrix.variety.txt>)
+- [Fermat quintic idealC2](<Fermat quintic idealC2.variety.txt>)
 - [F₁₀₁ decomposition component 01](<F₁₀₁ decomposition component 01.variety.txt>)
 - [F₁₀₁ decomposition component 02](<F₁₀₁ decomposition component 02.variety.txt>)
 - [F₁₀₁ decomposition component 03](<F₁₀₁ decomposition component 03.variety.txt>)
@@ -779,10 +1116,26 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [basis(R∕staircase), 65 standard monomials](<basis(R∕staircase), 65 standard monomials.variety.txt>)
 - [basis(R∕staircase³), 690 standard monomials](<basis(R∕staircase³), 690 standard monomials.variety.txt>)
 - [basis({25,219}, multigraded R)](<basis({25,219}, multigraded R).variety.txt>)
+- [canonical idealXcan](<canonical idealXcan.variety.txt>)
 - [curve₁ = saturate(curve, (x))](<curve₁ = saturate(curve, (x)).variety.txt>)
 - [curve₂ = saturate(curve, curve₁)](<curve₂ = saturate(curve, curve₁).variety.txt>)
 - [decompose(ourpoints over F₁₀₁)](<decompose(ourpoints over F₁₀₁).variety.txt>)
+- [determinantal ideal I=minors(2,m)](<determinantal ideal I=minors(2,m).variety.txt>)
+- [determinantal matrix m](<determinantal matrix m.variety.txt>)
 - [elimination GB(ourpoints″)](<elimination GB(ourpoints″).variety.txt>)
+- [idealL₁](<idealL₁.variety.txt>)
+- [idealL₂](<idealL₂.variety.txt>)
+- [idealY = L₁ ∪ L₂](<idealY = L₁ ∪ L₂.variety.txt>)
+- [linear idealX in P⁴](<linear idealX in P⁴.variety.txt>)
+- [mystery curve idealX](<mystery curve idealX.variety.txt>)
+- [plane model idealXplane](<plane model idealXplane.variety.txt>)
+- [quadratic embedding idealC5](<quadratic embedding idealC5.variety.txt>)
+- [quadratic subideal idealS](<quadratic subideal idealS.variety.txt>)
+- [reconstructed idealC = mystery idealX](<reconstructed idealC = mystery idealX.variety.txt>)
 - [staircase = LT(ourpoints)](<staircase = LT(ourpoints).variety.txt>)
 - [toric quotient normal forms](<toric quotient normal forms.variety.txt>)
+- [twisted cubic determinantal matrix M](<twisted cubic determinantal matrix M.variety.txt>)
+- [twisted cubic ideal](<twisted cubic ideal.variety.txt>)
+- [twisted cubic parametrization](<twisted cubic parametrization.variety.txt>)
+- [union idealY=intersect(idealL1,idealL2)](<union idealY=intersect(idealL1,idealL2).variety.txt>)
 
