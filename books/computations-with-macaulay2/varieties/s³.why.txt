@@ -1,0 +1,3 @@
+The degree-3 monomial is the first homogeneous coordinate in the parametrization of the twisted cubic.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

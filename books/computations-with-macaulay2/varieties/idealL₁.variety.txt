@@ -1,0 +1,7 @@
+Kind: ideal / linear projective subspace
+Coefficient ring: ZZ/32749
+Components:
+- x₁
+- x₂
+Source: chapter.m2/test.m2 line 41
+Why: first coordinate linear subspace.

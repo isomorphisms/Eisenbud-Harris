@@ -1,0 +1,10 @@
+Kind: ideal / projective scheme data
+Macaulay2 object: idealY
+Coefficient ring: ZZ/32749
+Components:
+- x₂ × x₄
+- x₁ × x₄
+- x₂ × x₃
+- x₁ × x₃
+Source: geometry/test.oldvalues idealY; constructed in geometry/chapter.m2 and maintained test.m2.
+Why: union of two linear subspaces in the Tor example. The defining/generator polynomials are cataloged individually with finite-field/projective provenance.

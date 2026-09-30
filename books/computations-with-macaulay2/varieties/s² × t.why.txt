@@ -1,0 +1,3 @@
+This is the second homogeneous coordinate of the twisted-cubic parametrization.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

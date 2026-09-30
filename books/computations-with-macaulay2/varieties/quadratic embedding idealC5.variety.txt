@@ -1,0 +1,15 @@
+Kind: ideal / projective scheme data
+Macaulay2 object: idealC5
+Coefficient ring: ZZ/32749
+Components:
+- x₄² − x₃ × x₅
+- x₂ × x₄ − x₁ × x₅
+- x₂ × x₃ − x₁ × x₄
+- x₂² − x₀ × x₅
+- x₁ × x₂ − x₀ × x₄
+- x₁² − x₀ × x₃
+- x₀² × x₂ + x₃² × x₄ + x₅³
+- x₀² × x₁ + x₃³ + x₄ × x₅²
+- x₀³ + x₁ × x₃² + x₂ × x₅²
+Source: geometry/test.oldvalues idealC5; constructed in geometry/chapter.m2 and maintained test.m2.
+Why: image of the Fermat quintic under the quadratic Veronese-type map. The defining/generator polynomials are cataloged individually with finite-field/projective provenance.

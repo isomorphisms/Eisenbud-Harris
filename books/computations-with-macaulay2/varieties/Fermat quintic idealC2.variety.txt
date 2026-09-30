@@ -1,0 +1,7 @@
+Kind: ideal / projective scheme data
+Macaulay2 object: idealC2
+Coefficient ring: ZZ/32749
+Components:
+- x₀⁵ + x₁⁵ + x₂⁵
+Source: geometry/test.oldvalues idealC2; constructed in geometry/chapter.m2 and maintained test.m2.
+Why: source plane quintic. The defining/generator polynomials are cataloged individually with finite-field/projective provenance.

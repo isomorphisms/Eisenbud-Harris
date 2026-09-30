@@ -1,0 +1,13 @@
+Display: x₀⁵ + 5 × x₀² × x₂³ + 5 × x₀ × x₂⁴ − 3 × x₀ × x₁³ × x₃ − 4 × x₁³ × x₂ × x₃ + 4 × x₀² × x₁ × x₃² + 10 × x₀ × x₁ × x₂ × x₃² + 5 × x₁ × x₂² × x₃²
+SURFER: unavailable
+Macaulay2: x_0^5+5*x_0^2*x_2^3+5*x_0*x_2^4-3*x_0*x_1^3*x_3-4*x_1^3*x_2*x_3+4*x_0^2*x_1*x_3^2+10*x_0*x_1*x_2*x_3^2+5*x_1*x_2^2*x_3^2
+Coefficient ring: ZZ/32749 unless the occurrence explicitly changes rings
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Projective Geometry and Homological Algebra computations (geometry directory)
+Occurrences:
+- test.oldvalues idealX: generator 5 of mystery curve idealX
+Upstream sources:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/mystery.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.oldvalues

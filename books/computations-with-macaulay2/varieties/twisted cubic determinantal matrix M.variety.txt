@@ -1,0 +1,7 @@
+Kind: 2×3 polynomial matrix
+Matrix:
+[ x₀  x₁  x₂ ]
+[ x₁  x₂  x₃ ]
+Construction: idealCubic3 = minors(2,M)
+Source: geometry/chapter.m2/test.m2 lines 7–14.
+Why: The 2×2 minors give the same twisted-cubic ideal as the kernel of the parametrization, providing a determinantal presentation.

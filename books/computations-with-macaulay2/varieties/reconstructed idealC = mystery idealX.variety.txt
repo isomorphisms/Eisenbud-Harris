@@ -1,0 +1,5 @@
+Kind: reconstruction check
+Construction: map the quadratic embedding ringC5 to P³ using (x₀+x₁, x₂, x₃, x₅), take the kernel, and trim
+Result: idealC == idealX
+Source: geometry/chapter.m2/test.m2 lines 94–104; mystery.m2 lines 4–13.
+Why: The final computation closes the loop: the mystery curve is reconstructed from the Fermat quintic through its quadratic embedding and projection data.

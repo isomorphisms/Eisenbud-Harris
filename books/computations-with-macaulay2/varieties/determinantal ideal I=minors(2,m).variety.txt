@@ -1,0 +1,12 @@
+Kind: ideal / projective scheme data
+Macaulay2 object: I
+Coefficient ring: ZZ/32749
+Components:
+- − x₁⁵ + x₀³ × x₂²
+- − x₁³ × x₂ + x₀³ × x₃
+- − x₂³ + x₁² × x₃
+- − (x₁³ × x₃)
+- − (x₂² × x₃)
+- − x₃²
+Source: geometry/test.oldvalues I; constructed in geometry/chapter.m2 and maintained test.m2.
+Why: second determinantal-resolution example. The defining/generator polynomials are cataloged individually with finite-field/projective provenance.

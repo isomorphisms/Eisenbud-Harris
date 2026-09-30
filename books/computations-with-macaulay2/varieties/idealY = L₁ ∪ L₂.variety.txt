@@ -1,0 +1,12 @@
+Kind: union of projective linear subspaces
+Construction: idealY = intersect(idealL1,idealL2)
+Geometric components:
+- idealL₁ = (x₁,x₂)
+- idealL₂ = (x₃,x₄)
+Displayed ideal generators:
+- x₂ × x₄
+- x₁ × x₄
+- x₂ × x₃
+- x₁ × x₃
+Source: geometry/chapter.m2/test.m2 lines 41–48; geometry/test.oldvalues idealY.
+Why: The example computes degree and Tor groups for the intersection of a third linear space X with the union Y, illustrating excess/nontransverse intersection homologically.

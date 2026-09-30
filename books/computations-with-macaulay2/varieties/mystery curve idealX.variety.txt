@@ -1,0 +1,12 @@
+Kind: ideal / projective scheme data
+Macaulay2 object: idealX
+Coefficient ring: ZZ/32749
+Components:
+- x₁⁴ − 2 × x₀ × x₁² × x₃ − x₁² × x₂ × x₃ + x₀² × x₃²
+- x₀² × x₁² − 10915 × x₀ × x₁² × x₂ − 10917 × x₀³ × x₃ + 10916 × x₀² × x₂ × x₃ − 10916 × x₀ × x₂² × x₃ − 10916 × x₁ × x₃³
+- x₀ × x₁² × x₂² + 11909 × x₀⁴ × x₃ + 5954 × x₀³ × x₂ × x₃ + 2977 × x₀² × x₂² × x₃ + 11910 × x₀ × x₂³ × x₃ − 2978 × x₁³ × x₃² + 14887 × x₀ × x₁ × x₃³ + 11910 × x₁ × x₂ × x₃³
+- x₀ × x₁³ × x₂ − 13099 × x₁³ × x₂² − 6550 × x₀³ × x₁ × x₃ − 13100 × x₀² × x₁ × x₂ × x₃ − 6550 × x₀ × x₁ × x₂² × x₃ + 13099 × x₁ × x₂³ × x₃ + 13100 × x₁² × x₃³ + 13099 × x₀ × x₃⁴
+- x₀⁵ + 5 × x₀² × x₂³ + 5 × x₀ × x₂⁴ − 3 × x₀ × x₁³ × x₃ − 4 × x₁³ × x₂ × x₃ + 4 × x₀² × x₁ × x₃² + 10 × x₀ × x₁ × x₂ × x₃² + 5 × x₁ × x₂² × x₃²
+- x₁² × x₂⁴ − 8932 × x₀⁴ × x₂ × x₃ + 11909 × x₀³ × x₂² × x₃ + 5954 × x₀² × x₂³ × x₃ − 8934 × x₀ × x₂⁴ × x₃ − x₂⁵ × x₃ + 2 × x₀ × x₁³ × x₃² − 5952 × x₁³ × x₂ × x₃² − x₀² × x₁ × x₃³ − 2979 × x₀ × x₁ × x₂ × x₃³ − 8934 × x₁ × x₂² × x₃³ + x₃⁶
+Source: geometry/test.oldvalues idealX; constructed in geometry/chapter.m2 and maintained test.m2.
+Why: six-generator mystery curve over F₃₂₇₄₉. The defining/generator polynomials are cataloged individually with finite-field/projective provenance.

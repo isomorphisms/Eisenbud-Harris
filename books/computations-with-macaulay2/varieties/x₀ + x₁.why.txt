@@ -1,0 +1,3 @@
+This linear form is one coordinate of the map that reconstructs the mystery ideal from the quadratic embedding.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

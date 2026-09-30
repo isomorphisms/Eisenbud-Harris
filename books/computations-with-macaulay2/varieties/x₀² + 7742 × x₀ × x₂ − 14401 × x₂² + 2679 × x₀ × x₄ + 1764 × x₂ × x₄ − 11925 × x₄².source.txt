@@ -1,0 +1,14 @@
+Display: x₀² + 7742 × x₀ × x₂ − 14401 × x₂² + 2679 × x₀ × x₄ + 1764 × x₂ × x₄ − 11925 × x₄²
+SURFER: unavailable
+Macaulay2: x_0^2+7742*x_0*x_2-14401*x_2^2+2679*x_0*x_4+1764*x_2*x_4-11925*x_4^2
+Coefficient ring: ZZ/32749 unless the occurrence explicitly changes rings
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Projective Geometry and Homological Algebra computations (geometry directory)
+Occurrences:
+- test.oldvalues idealXcan: generator 6 of canonical idealXcan
+- test.oldvalues idealS: generator 6 of quadratic subideal idealS
+Upstream sources:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/mystery.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.oldvalues

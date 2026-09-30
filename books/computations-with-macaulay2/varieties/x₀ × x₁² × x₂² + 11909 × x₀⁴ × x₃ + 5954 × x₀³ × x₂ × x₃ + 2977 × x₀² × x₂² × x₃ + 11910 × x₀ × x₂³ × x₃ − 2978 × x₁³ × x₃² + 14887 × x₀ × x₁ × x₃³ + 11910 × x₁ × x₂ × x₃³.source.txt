@@ -1,0 +1,13 @@
+Display: x₀ × x₁² × x₂² + 11909 × x₀⁴ × x₃ + 5954 × x₀³ × x₂ × x₃ + 2977 × x₀² × x₂² × x₃ + 11910 × x₀ × x₂³ × x₃ − 2978 × x₁³ × x₃² + 14887 × x₀ × x₁ × x₃³ + 11910 × x₁ × x₂ × x₃³
+SURFER: unavailable
+Macaulay2: x_0*x_1^2*x_2^2+11909*x_0^4*x_3+5954*x_0^3*x_2*x_3+2977*x_0^2*x_2^2*x_3+11910*x_0*x_2^3*x_3-2978*x_1^3*x_3^2+14887*x_0*x_1*x_3^3+11910*x_1*x_2*x_3^3
+Coefficient ring: ZZ/32749 unless the occurrence explicitly changes rings
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Projective Geometry and Homological Algebra computations (geometry directory)
+Occurrences:
+- test.oldvalues idealX: generator 3 of mystery curve idealX
+Upstream sources:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/mystery.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.oldvalues

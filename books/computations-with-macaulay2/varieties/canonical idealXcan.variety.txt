@@ -1,0 +1,15 @@
+Kind: ideal / projective scheme data
+Macaulay2 object: idealXcan
+Coefficient ring: ZZ/32749
+Components:
+- x₃² + 5040 × x₀ × x₅ − 8565 × x₂ × x₅ − 11589 × x₄ × x₅
+- x₁ × x₃ − 6048 × x₀ × x₅ − 15922 × x₂ × x₅ + 7357 × x₄ × x₅
+- x₁ × x₂ − 4032 × x₀ × x₃ − 6248 × x₂ × x₃ − 10379 × x₃ × x₄
+- x₁² + 4032 × x₀ × x₅ + 14108 × x₂ × x₅ − 4032 × x₄ × x₅
+- x₀ × x₁ − 301 × x₀ × x₃ − 855 × x₂ × x₃ − 14291 × x₁ × x₄ − 10440 × x₃ × x₄
+- x₀² + 7742 × x₀ × x₂ − 14401 × x₂² + 2679 × x₀ × x₄ + 1764 × x₂ × x₄ − 11925 × x₄²
+- x₀ × x₂ × x₃ + 4615 × x₂² × x₃ − 16374 × x₀ × x₃ × x₄ + 4763 × x₂ × x₃ × x₄ + 930 × x₁ × x₄² + 9601 × x₃ × x₄² + 744 × x₅³
+- x₂³ − 7549 × x₀ × x₂ × x₄ − 10074 × x₂² × x₄ + 15120 × x₀ × x₄² + 14608 × x₂ × x₄² − 2015 × x₄³ + 8191 × x₁ × x₅² − 16372 × x₃ × x₅²
+- x₀ × x₂² + 10074 × x₀ × x₂ × x₄ − 7307 × x₂² × x₄ − 7056 × x₀ × x₄² + 5190 × x₂ × x₄² − 9976 × x₄³ − 8189 × x₁ × x₅² + 5953 × x₃ × x₅²
+Source: geometry/test.oldvalues idealXcan; constructed in geometry/chapter.m2 and maintained test.m2.
+Why: canonical model in P⁵. The defining/generator polynomials are cataloged individually with finite-field/projective provenance.

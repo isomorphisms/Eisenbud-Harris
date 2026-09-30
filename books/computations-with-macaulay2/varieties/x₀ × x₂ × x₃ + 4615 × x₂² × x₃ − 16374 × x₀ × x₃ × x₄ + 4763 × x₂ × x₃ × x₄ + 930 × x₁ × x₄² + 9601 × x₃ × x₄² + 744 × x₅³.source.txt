@@ -1,0 +1,13 @@
+Display: x₀ × x₂ × x₃ + 4615 × x₂² × x₃ − 16374 × x₀ × x₃ × x₄ + 4763 × x₂ × x₃ × x₄ + 930 × x₁ × x₄² + 9601 × x₃ × x₄² + 744 × x₅³
+SURFER: unavailable
+Macaulay2: x_0*x_2*x_3+4615*x_2^2*x_3-16374*x_0*x_3*x_4+4763*x_2*x_3*x_4+930*x_1*x_4^2+9601*x_3*x_4^2+744*x_5^3
+Coefficient ring: ZZ/32749 unless the occurrence explicitly changes rings
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Projective Geometry and Homological Algebra computations (geometry directory)
+Occurrences:
+- test.oldvalues idealXcan: generator 7 of canonical idealXcan
+Upstream sources:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/mystery.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.oldvalues

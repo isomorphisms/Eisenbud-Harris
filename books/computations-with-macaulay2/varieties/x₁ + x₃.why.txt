@@ -1,0 +1,3 @@
+The first linear equation cuts out X in P⁴ and is used in the Tor/intersection calculation.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

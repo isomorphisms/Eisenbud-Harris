@@ -1,0 +1,5 @@
+This Fermat quintic is the plane curve from which the later mystery/canonical constructions are built.
+
+This polynomial is a displayed generator of Fermat quintic idealC2. source plane quintic.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

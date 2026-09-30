@@ -1,0 +1,13 @@
+Display: x₀⁵ + 13394 × x₀⁴ × x₁ − 13014 × x₀³ × x₁² + 9232 × x₀² × x₁³ + 12418 × x₀ × x₁⁴ − 2746 × x₁⁵ + 2107 × x₂⁵
+SURFER: unavailable
+Macaulay2: x_0^5+13394*x_0^4*x_1-13014*x_0^3*x_1^2+9232*x_0^2*x_1^3+12418*x_0*x_1^4-2746*x_1^5+2107*x_2^5
+Coefficient ring: ZZ/32749 unless the occurrence explicitly changes rings
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Projective Geometry and Homological Algebra computations (geometry directory)
+Occurrences:
+- test.oldvalues idealXplane: generator 1 of plane model idealXplane
+Upstream sources:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/mystery.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.oldvalues

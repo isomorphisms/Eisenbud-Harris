@@ -1,0 +1,12 @@
+Kind: ideal / projective scheme data
+Macaulay2 object: idealS
+Coefficient ring: ZZ/32749
+Components:
+- x₃² + 5040 × x₀ × x₅ − 8565 × x₂ × x₅ − 11589 × x₄ × x₅
+- x₁ × x₃ − 6048 × x₀ × x₅ − 15922 × x₂ × x₅ + 7357 × x₄ × x₅
+- x₁ × x₂ − 4032 × x₀ × x₃ − 6248 × x₂ × x₃ − 10379 × x₃ × x₄
+- x₁² + 4032 × x₀ × x₅ + 14108 × x₂ × x₅ − 4032 × x₄ × x₅
+- x₀ × x₁ − 301 × x₀ × x₃ − 855 × x₂ × x₃ − 14291 × x₁ × x₄ − 10440 × x₃ × x₄
+- x₀² + 7742 × x₀ × x₂ − 14401 × x₂² + 2679 × x₀ × x₄ + 1764 × x₂ × x₄ − 11925 × x₄²
+Source: geometry/test.oldvalues idealS; constructed in geometry/chapter.m2 and maintained test.m2.
+Why: degree-2 part of idealXcan. The defining/generator polynomials are cataloged individually with finite-field/projective provenance.

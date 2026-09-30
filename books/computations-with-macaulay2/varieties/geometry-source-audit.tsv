@@ -1,0 +1,10 @@
+source	lines	object	status	note
+chapter.m2/test.m2	4	twisted cubic parametrization coordinates	cataloged	s³,s²t,st²,t³
+chapter.m2/test.m2	5-8	twisted cubic ideal constructions	cataloged	kernel, monomialCurveIdeal, and 2×2 minors cross-checked
+chapter.m2/test.m2	7	matrix M entries	cataloged	x₀,x₁,x₂,x₃ plus determinantal matrix record
+chapter.m2/test.m2	26-30	matrix m and ideal I	cataloged	matrix entries and six displayed minor generators
+chapter.m2/test.m2	40-48	linear X, L₁, L₂, Y	cataloged	linear generators and four union-ideal products
+chapter.m2/test.m2	50-72	mystery idealX	cataloged	six displayed finite-field generators from test.oldvalues
+chapter.m2/test.m2	73-89	canonical idealXcan and quadratic idealS	cataloged	nine canonical generators; idealS reuses first six quadrics
+chapter.m2/test.m2	91-104	plane model, Fermat quintic, idealC5, reconstruction	cataloged	plane quintic, Fermat polynomial, nine embedding generators, final equality
+mystery.m2	1-13	Fermat/quadratic embedding reconstruction	cataloged	literal Fermat polynomial and map component provenance merged with chapter occurrences

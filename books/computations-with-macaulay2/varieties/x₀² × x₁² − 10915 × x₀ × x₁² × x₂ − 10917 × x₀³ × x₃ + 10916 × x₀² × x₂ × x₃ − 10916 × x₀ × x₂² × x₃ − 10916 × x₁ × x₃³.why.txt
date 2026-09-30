@@ -1,0 +1,3 @@
+This polynomial is a displayed generator of mystery curve idealX. six-generator mystery curve over F₃₂₇₄₉.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

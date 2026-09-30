@@ -1,0 +1,7 @@
+Kind: ideal / projective scheme data
+Macaulay2 object: idealXplane
+Coefficient ring: ZZ/32749
+Components:
+- x₀⁵ + 13394 × x₀⁴ × x₁ − 13014 × x₀³ × x₁² + 9232 × x₀² × x₁³ + 12418 × x₀ × x₁⁴ − 2746 × x₁⁵ + 2107 × x₂⁵
+Source: geometry/test.oldvalues idealXplane; constructed in geometry/chapter.m2 and maintained test.m2.
+Why: plane quintic recovered from the canonical model. The defining/generator polynomials are cataloged individually with finite-field/projective provenance.

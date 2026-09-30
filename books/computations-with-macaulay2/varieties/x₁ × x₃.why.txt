@@ -1,0 +1,3 @@
+This polynomial is a displayed generator of union idealY=intersect(idealL1,idealL2). union of two linear subspaces in the Tor example.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

@@ -1,0 +1,3 @@
+The second linear equation completes the codimension-2 linear space used in the Tor example.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

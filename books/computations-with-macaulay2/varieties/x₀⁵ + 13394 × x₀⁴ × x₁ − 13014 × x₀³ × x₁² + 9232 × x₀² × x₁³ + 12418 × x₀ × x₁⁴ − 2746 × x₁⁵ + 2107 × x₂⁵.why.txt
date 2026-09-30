@@ -1,0 +1,3 @@
+This polynomial is a displayed generator of plane model idealXplane. plane quintic recovered from the canonical model.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

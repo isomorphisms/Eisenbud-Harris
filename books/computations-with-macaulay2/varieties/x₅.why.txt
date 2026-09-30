@@ -1,0 +1,3 @@
+This coordinate is one component of the map from the quadratic embedding back to P³.
+
+The source geometry is projective and normally over F₃₂₇₄₉. A real affine SURFER zero set would therefore require an explicit base-field and chart choice rather than being silently substituted.

@@ -1,0 +1,9 @@
+Kind: projective parametrization P¹ → P³
+Coefficient ring: ZZ/32749
+Coordinate polynomials:
+- s³
+- s² × t
+- s × t²
+- t³
+Source: geometry/chapter.m2/test.m2 line 4.
+Why: The kernel of this map is computed as idealCubic and independently recovered from monomialCurveIdeal and the 2×2 minors of M.

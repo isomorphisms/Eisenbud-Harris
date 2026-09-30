@@ -1,0 +1,9 @@
+Kind: ideal / projective scheme data
+Macaulay2 object: idealCubic
+Coefficient ring: ZZ/32749
+Components:
+- x₂² − x₁ × x₃
+- x₁ × x₂ − x₀ × x₃
+- x₁² − x₀ × x₂
+Source: geometry/test.oldvalues idealCubic; constructed in geometry/chapter.m2 and maintained test.m2.
+Why: kernel/minors description of the twisted cubic. The defining/generator polynomials are cataloged individually with finite-field/projective provenance.

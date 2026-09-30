@@ -1,0 +1,14 @@
+Display: x₀⁵ + x₁⁵ + x₂⁵
+SURFER: unavailable
+Macaulay2: x_0^5+x_1^5+x_2^5
+Coefficient ring: ZZ/32749 unless the occurrence explicitly changes rings
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Projective Geometry and Homological Algebra computations (geometry directory)
+Occurrences:
+- chapter.m2/test.m2 line 95 and mystery.m2 line 5: Fermat quintic
+- test.oldvalues idealC2: generator 1 of Fermat quintic idealC2
+Upstream sources:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/mystery.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.oldvalues
