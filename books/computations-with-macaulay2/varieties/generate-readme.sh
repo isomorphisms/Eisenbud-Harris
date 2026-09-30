@@ -20,14 +20,16 @@ tmp="$here/README.md.tmp"
         name=${base##*/}
         display=$(sed -n 's/^Display: //p' "$source" | head -n 1)
         [ -n "$display" ] || display="$name"
+        label=$(sed -n 's/^Catalog label: //p' "$source" | head -n 1)
+        [ -n "$label" ] || label="$display"
 
-        printf '## %s\n\n' "$display"
+        printf '## %s\n\n' "$label"
         printf -- '- [source](<%s.source.txt>) · [why](<%s.why.txt>)\n\n' "$name" "$name"
 
         if [ -f "$base.png" ]; then
-            printf '![%s](<%s.png>)\n\n' "$display" "$name"
+            printf '![%s](<%s.png>)\n\n' "$label" "$name"
         elif [ -f "$base.gif" ]; then
-            printf '![%s](<%s.gif>)\n\n' "$display" "$name"
+            printf '![%s](<%s.gif>)\n\n' "$label" "$name"
         elif [ -f "$base.mp4" ]; then
             printf '[SURFER rotation](<%s.mp4>)\n\n' "$name"
         elif grep -q '^status: unavailable$' "$base.render.txt"; then
