@@ -1,0 +1,7 @@
+Display: x¹⁴ × y × z⁴
+SURFER: unavailable
+Macaulay2: x^14*y*z^4
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: basis element of degree 19 in S=R/staircase³
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L261-L264

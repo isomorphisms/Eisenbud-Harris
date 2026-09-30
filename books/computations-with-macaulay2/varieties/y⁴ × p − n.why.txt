@@ -1,0 +1,1 @@
+This binomial is one of the explicit Gröbner relations produced from I=(p−xy, n−xy⁵, d−xy¹⁰, q−xy²⁵). The basis drives the quotient normal forms and exposes semigroup relations among p,n,d,q,x,y.

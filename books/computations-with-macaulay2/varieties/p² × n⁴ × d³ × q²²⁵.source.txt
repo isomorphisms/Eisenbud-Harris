@@ -1,0 +1,7 @@
+Display: p² × n⁴ × d³ × q²²⁵
+SURFER: unavailable
+Macaulay2: p^2*n^4*d^3*q^225
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: normal form of x^234*y^5677 in the weighted quotient T
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L464-L469

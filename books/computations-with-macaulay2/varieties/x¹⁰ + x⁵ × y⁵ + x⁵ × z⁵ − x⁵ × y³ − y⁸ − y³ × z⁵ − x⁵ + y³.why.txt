@@ -1,0 +1,1 @@
+The transcript expands the product/intersection ideal into this explicit generator. It is a component polynomial of the ideal defining the union, so it must remain separate from the composite union record.

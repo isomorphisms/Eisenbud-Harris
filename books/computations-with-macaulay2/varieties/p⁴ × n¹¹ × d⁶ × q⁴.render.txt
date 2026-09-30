@@ -1,0 +1,3 @@
+status: unavailable
+reason: the polynomial uses four independent variables p,n,d,q and belongs to a multigraded counting example rather than a canonical x/y/z surface
+SURFER: unavailable

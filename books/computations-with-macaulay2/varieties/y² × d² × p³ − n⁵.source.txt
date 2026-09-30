@@ -1,0 +1,7 @@
+Display: y² × d² × p³ − n⁵
+SURFER: unavailable
+Macaulay2: y^2*d^2*p^3-n^5
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: binomial in the 18-element lex Gröbner basis of the toric parametrization ideal I
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L397-L419

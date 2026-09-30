@@ -1,10 +1,14 @@
 Kind: variety
 Construction: union of the opening curve and surface, represented by intersection/product of their ideals
-Components:
-- V(x⁴ − y⁵, x³ − y⁷)
+Geometric components:
+- V(x⁴ − y⁵, x³ − y⁷), after the chapter replaces curve by the saturated curve₁
 - V(x⁵ + y⁵ + z⁵ − 1)
+Displayed ideal generators:
+- x⁶ × y² + x × y⁷ + x × y² × z⁵ − x⁵ − y⁵ − z⁵ − x × y² + 1
+- x⁵ × y⁵ + y¹⁰ + y⁵ × z⁵ − x⁹ − x⁴ × y⁵ − x⁴ × z⁵ − y⁵ + x⁴
+- x¹⁰ + x⁵ × y⁵ + x⁵ × z⁵ − x⁵ × y³ − y⁸ − y³ × z⁵ − x⁵ + y³
 Macaulay2:
 theirunion = intersect(curve,surface)
 curve*surface == theirunion
-Source: Computations in Algebraic Geometry with Macaulay 2; Ideals, Varieties, and Macaulay 2; §2; upstream varieties/chapter.m2 lines 14–15.
-Why: This forces the algebra/geometry reversal into view: intersection of ideals corresponds to union of zero sets. It is why a geometric intersection must never be faked by multiplying defining polynomials.
+Source: chapter.m2 lines 14–15; chapter.out.expected lines 58–64.
+Why: This example forces the algebra/geometry reversal into view: intersection/product of ideals corresponds here to union of zero sets. The three expanded product generators are now cataloged individually rather than disappearing inside the composite record.

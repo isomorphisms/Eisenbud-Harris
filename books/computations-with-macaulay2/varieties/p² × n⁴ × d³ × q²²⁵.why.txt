@@ -1,0 +1,1 @@
+The final enormous input reduces to this compact monomial in p,n,d,q, demonstrating the weighted representation at large exponents.

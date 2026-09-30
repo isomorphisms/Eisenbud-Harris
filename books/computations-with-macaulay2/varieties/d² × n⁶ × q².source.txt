@@ -1,0 +1,7 @@
+Display: d² × n⁶ × q²
+SURFER: unavailable
+Macaulay2: d^2*n^6*q^2
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: normal form of x^10*y^100 in S/I
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L425-L430

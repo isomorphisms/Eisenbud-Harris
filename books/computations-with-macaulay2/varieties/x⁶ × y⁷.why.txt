@@ -1,0 +1,1 @@
+This monomial is one of the 20 displayed generators obtained by cubing the staircase ideal. It is one of the four generators later exposed as redundant by comparing gens M with the first differential of the minimal resolution.

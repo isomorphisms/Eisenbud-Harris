@@ -1,0 +1,1 @@
+This monomial is one of the nine basis elements returned for the specified bidegree. The nine-element list makes the multigraded counting example concrete.

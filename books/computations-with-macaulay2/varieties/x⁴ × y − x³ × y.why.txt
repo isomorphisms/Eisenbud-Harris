@@ -1,0 +1,1 @@
+This is the nonzero remainder produced by reducing the first test polynomial modulo the curve/surface intersection ideal. The following near-neighbor input reduces to zero, so this remainder is the concrete contrast the example is constructing.

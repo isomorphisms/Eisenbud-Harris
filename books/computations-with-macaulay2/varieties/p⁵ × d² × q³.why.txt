@@ -1,0 +1,1 @@
+The same input as the first lex example reduces differently after changing the monomial/weight structure, making the comparison explicit.

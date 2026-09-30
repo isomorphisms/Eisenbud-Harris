@@ -1,0 +1,1 @@
+The second, much larger monomial reduces to this two-factor normal form, showing the semigroup presentation scales to large exponents.

@@ -1,0 +1,23 @@
+Kind: Gröbner basis
+Construction: lex Gröbner basis of I=(p−x×y, n−x×y⁵, d−x×y¹⁰, q−x×y²⁵)
+Components:
+- p⁵ × q − n⁶
+- d⁴ − n³ × q
+- y × n² − d × p
+- y × p⁴ × q − d × n⁴
+- y × d³ − p × n × q
+- y² × p³ × q − d² × n²
+- y² × d² × n − p² × q
+- y² × d² × p³ − n⁵
+- y³ × p² × q − d³
+- y³ × d × p² − n³
+- y⁴ × p − n
+- y⁵ × n − d
+- y⁶ × d² − p × q
+- y¹⁵ × d − q
+- x × q − y⁵ × d²
+- x × n − y³ × p²
+- x × d − n²
+- p − x × y  [upstream Gröbner output uses the unit multiple x×y − p]
+Source: chapter.m2 lines 60–64; chapter.out.expected lines 391–419.
+Why: The 18 binomials expose the semigroup relations used to reduce large monomials in the quotient. Each displayed binomial is cataloged separately except x×y−p, which is recorded as a unit multiple occurrence of p−x×y.

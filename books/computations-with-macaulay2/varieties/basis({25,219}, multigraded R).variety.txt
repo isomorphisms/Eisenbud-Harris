@@ -1,0 +1,14 @@
+Kind: multigraded basis
+Construction: basis({25,219}, QQ[p,n,d,q] with degree matrix {{1,1,1,1},{1,5,10,25}})
+Components:
+- p¹⁴ × n² × d² × q⁷
+- p⁹ × n⁸ × d² × q⁶
+- p⁹ × n⁵ × d⁶ × q⁵
+- p⁹ × n² × d¹⁰ × q⁴
+- p⁴ × n¹⁴ × d² × q⁵
+- p⁴ × n¹¹ × d⁶ × q⁴
+- p⁴ × n⁸ × d¹⁰ × q³
+- p⁴ × n⁵ × d¹⁴ × q²
+- p⁴ × n² × d¹⁸ × q
+Source: chapter.m2 lines 51–59; chapter.out.expected lines 350–384.
+Why: This nine-element basis is the concrete count behind rank source h = 9 and illustrates the bidegree chosen by the preceding monomial-degree computation.

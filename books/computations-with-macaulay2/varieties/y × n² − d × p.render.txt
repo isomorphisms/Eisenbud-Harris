@@ -1,0 +1,3 @@
+status: unavailable
+reason: the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+SURFER: unavailable

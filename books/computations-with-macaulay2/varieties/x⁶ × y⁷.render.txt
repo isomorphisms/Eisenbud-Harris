@@ -1,0 +1,3 @@
+status: unavailable
+reason: this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+SURFER: unavailable

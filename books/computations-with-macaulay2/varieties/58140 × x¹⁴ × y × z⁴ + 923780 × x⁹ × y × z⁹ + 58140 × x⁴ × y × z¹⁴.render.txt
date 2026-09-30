@@ -1,0 +1,3 @@
+status: unavailable
+reason: this degree-19 quotient normal form is being used as algebra in R/staircase³; a raw zero-set render would not show that quotient relation
+SURFER: unavailable

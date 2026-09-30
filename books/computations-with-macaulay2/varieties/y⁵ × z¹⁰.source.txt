@@ -1,0 +1,7 @@
+Display: y⁵ × z¹⁰
+SURFER: unavailable
+Macaulay2: y^5*z^10
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: displayed generator of M = staircase³
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L189-L223

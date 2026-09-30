@@ -1,0 +1,1 @@
+The three-term polynomial is the quotient-ring reduction of (x+y+z)¹⁹. Its support lands exactly in the three-dimensional degree-19 basis displayed immediately before it.

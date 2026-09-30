@@ -1,0 +1,3 @@
+status: unavailable
+reason: the monomial is a quotient-basis element with repeated coordinate factors; a surface picture would discard the quotient and exponent information
+SURFER: unavailable

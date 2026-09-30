@@ -1,0 +1,1 @@
+The first large monomial reduces to this compact p,n,d,q expression in the ordinary lex quotient.

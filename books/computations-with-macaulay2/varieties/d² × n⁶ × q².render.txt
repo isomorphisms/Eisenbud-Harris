@@ -1,0 +1,3 @@
+status: unavailable
+reason: the normal form lives in a quotient with variables p,n,d,q (and sometimes y); there is no canonical three-dimensional SURFER realization
+SURFER: unavailable

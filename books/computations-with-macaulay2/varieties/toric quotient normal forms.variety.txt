@@ -1,0 +1,11 @@
+Kind: quotient normal-form comparison
+Construction: reduce large x,y monomials first in S/I and then in the weighted quotient T
+Components:
+- d² × n⁶ × q²
+- n⁷⁵ × q²⁵
+- y²⁵ × q³⁹
+- p⁵ × d² × q³
+- p⁶⁰ × n³ × q³⁷
+- p² × n⁴ × d³ × q²²⁵
+Source: chapter.m2 lines 63–75; chapter.out.expected lines 425–469.
+Why: The outputs compare two quotient/monomial-order presentations of the same semigroup-style relations and show how very large exponents compress to p,n,d,q normal forms.

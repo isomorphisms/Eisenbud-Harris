@@ -1,0 +1,1 @@
+This is one of the three monomials returned by basis(19,S). The point is the surviving quotient basis in degree 19, not the reduced zero set of the monomial.

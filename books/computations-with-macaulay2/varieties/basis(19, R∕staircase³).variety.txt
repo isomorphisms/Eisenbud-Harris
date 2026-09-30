@@ -1,0 +1,10 @@
+Kind: quotient-vector-space basis
+Construction: degree-19 basis of S=R/staircase³
+Components:
+- x¹⁴ × y × z⁴
+- x⁹ × y × z⁹
+- x⁴ × y × z¹⁴
+Derived normal form:
+- 58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴
+Source: chapter.m2 lines 41–45; chapter.out.expected lines 261–271.
+Why: The quotient has only three surviving degree-19 monomials, so the expansion of (x+y+z)¹⁹ reduces to a linear combination of exactly these basis elements.

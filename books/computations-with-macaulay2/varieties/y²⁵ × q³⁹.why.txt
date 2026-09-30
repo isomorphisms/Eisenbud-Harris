@@ -1,0 +1,1 @@
+This example retains a y-power in the normal form and shows how the quotient does not eliminate every x,y exponent in the same way.

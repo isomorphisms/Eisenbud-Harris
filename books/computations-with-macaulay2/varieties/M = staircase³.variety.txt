@@ -1,0 +1,25 @@
+Kind: monomial ideal
+Construction: M = staircase³, where staircase=(x×y², z⁵, y⁵, x⁵)
+Components:
+- x³ × y⁶
+- x² × y⁴ × z⁵
+- x² × y⁹
+- x⁷ × y⁴
+- x × y² × z¹⁰
+- x × y⁷ × z⁵
+- x⁶ × y² × z⁵
+- x × y¹²
+- x⁶ × y⁷
+- x¹¹ × y²
+- z¹⁵
+- y⁵ × z¹⁰
+- x⁵ × z¹⁰
+- y¹⁰ × z⁵
+- x⁵ × y⁵ × z⁵
+- x¹⁰ × z⁵
+- y¹⁵
+- x⁵ × y¹⁰
+- x¹⁰ × y⁵
+- x¹⁵
+Source: chapter.m2 lines 37–40; chapter.out.expected lines 189–223.
+Why: The cube has 20 displayed generators but its minimal resolution begins with only 16. Comparing gens M with C.dd_1 exposes four redundant generators and leads into the syzygy/resolution example.

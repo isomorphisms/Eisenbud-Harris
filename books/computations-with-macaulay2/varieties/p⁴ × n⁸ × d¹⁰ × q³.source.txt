@@ -6,3 +6,4 @@ Chapter: Ideals, Varieties, and Macaulay 2
 Role: multigraded degree example
 Upstream source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.m2#L56
 Maintained source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/test.m2#L56
+Derived occurrence: one of the nine monomials in basis({25,219},R), chapter.out.expected line 375.

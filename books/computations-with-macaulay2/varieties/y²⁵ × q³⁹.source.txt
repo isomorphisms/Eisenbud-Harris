@@ -1,0 +1,7 @@
+Display: y²⁵ × q³⁹
+SURFER: unavailable
+Macaulay2: y^25*q^39
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: normal form of x^39*y^1000 in S/I
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L437-L442

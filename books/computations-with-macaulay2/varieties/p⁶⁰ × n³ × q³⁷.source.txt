@@ -1,0 +1,7 @@
+Display: p⁶⁰ × n³ × q³⁷
+SURFER: unavailable
+Macaulay2: p^60*n^3*q^37
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: normal form of x^100*y^1000 in the weighted quotient T
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L458-L463

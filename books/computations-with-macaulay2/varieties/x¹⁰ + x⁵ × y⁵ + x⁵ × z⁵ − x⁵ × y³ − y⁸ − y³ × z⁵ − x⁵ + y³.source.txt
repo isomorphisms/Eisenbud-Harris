@@ -1,0 +1,7 @@
+Display: x¹⁰ + x⁵ × y⁵ + x⁵ × z⁵ − x⁵ × y³ − y⁸ − y³ × z⁵ − x⁵ + y³
+SURFER: x^10+x^5*y^5+x^5*z^5-x^5*y^3-y^8-y^3*z^5-x^5+y^3
+Macaulay2: x^10+x^5*y^5+x^5*z^5-x^5*y^3-y^8-y^3*z^5-x^5+y^3
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Ideals, Varieties, and Macaulay 2
+Role: displayed generator 3 of theirunion = intersect(curve,surface) = curve*surface
+Derived output: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.out.expected#L58-L62
