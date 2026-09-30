@@ -7,7 +7,7 @@ upstream-m2	programming	pending	n/a	pending	chapter.m2 and test.m2
 upstream-m2	schemes	source-and-semantic-output-complete	n/a	pending	chapter.m2/test.m2 literals and test.oldvalues audited across ideals, matrices, eliminants, discriminants, blow-ups, surface constructions, and Fano fibres; exact giant Hessian/discriminant forms preserved with filesystem-safe names
 upstream-m2	monomialIdeals	pending	n/a	pending	chapter.m2 and test.m2
 upstream-m2	solving	pending	n/a	pending	chapter.m2, test.m2, realroots.m2
-upstream-m2	completeIntersections	pending	n/a	pending	chapter.m2, test.m2, simplify.m2
+upstream-m2	completeIntersections	source-literals-complete; output-pending	n/a	pending	chapter.m2/test.m2/simplify.m2 literal polynomial and source-level module/hypersurface inventory complete; test.oldvalues matrix-factorization, Ext and support-variety output sweep remains
 upstream-m2	toricHilbertScheme	pending	n/a	pending	chapter.m2 plus auxiliary .m2 files
 upstream-m2	exterior-algebra	pending	n/a	pending	chapter.m2 and test.m2
 upstream-m2	d-modules	pending	n/a	pending	chapter.m2 and test.m2

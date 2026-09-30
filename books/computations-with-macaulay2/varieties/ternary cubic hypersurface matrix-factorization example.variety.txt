@@ -1,0 +1,7 @@
+Kind: hypersurface / matrix-factorization example
+Hypersurface:
+- x³ + 3×y³ − 2×y×z² + 5×z³
+Maximal ideal: (x,y,z)
+Modules: B/m² and B/m³ over B=QQ[x,y,z]/(f)
+Source: completeIntersections/chapter.m2 lines 10–53.
+Why: The chapter extracts periodic resolutions and explicit matrix factorizations over a nontrivial cubic hypersurface.

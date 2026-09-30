@@ -1,0 +1,3 @@
+hypersurface equation or maximal-ideal generator for the ternary-cubic matrix-factorization example
+
+This polynomial is kept independently of the hypersurface, quotient ring, module, or matrix in which it occurs. Here the source uses a canonical real affine x,y,z equation, so an actual SURFER still is appropriate.

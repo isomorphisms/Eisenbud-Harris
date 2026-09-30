@@ -1,0 +1,12 @@
+Display: X₂
+SURFER: unavailable
+Macaulay2: X_2
+Coefficient ring(s): ZZ/103[X_1,X_2,X_3]
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Occurrences:
+- 97-100: support/Ext coordinate variable after change of grading ring (ZZ/103[X_1,X_2,X_3])
+Upstream:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/simplify.m2

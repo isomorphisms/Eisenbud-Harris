@@ -1,0 +1,3 @@
+entry or determinant polynomial in the initial 2×2 matrix-factorization example
+
+This polynomial is kept independently of the hypersurface, quotient ring, module, or matrix in which it occurs. The coefficient field, extra variables, or multiplicity is essential to this occurrence; no real x,y,z reinterpretation is substituted.

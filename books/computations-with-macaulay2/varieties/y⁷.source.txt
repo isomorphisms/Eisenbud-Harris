@@ -1,0 +1,12 @@
+Display: y⁷
+SURFER: unavailable
+Macaulay2: y^7
+Coefficient ring(s): ZZ/7[x,y,z]
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Occurrences:
+- 185-188: generator of J''=(x⁷,y⁷,z⁷) in the random support-variety scan (ZZ/7[x,y,z])
+Upstream:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/simplify.m2

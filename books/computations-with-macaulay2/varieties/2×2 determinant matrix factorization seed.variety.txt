@@ -1,0 +1,8 @@
+Kind: matrix / hypersurface seed
+Matrix U:
+[ w  x ]
+[ y  z ]
+Hypersurface polynomial: f = x×y − w×z = −det(U)
+Nullhomotopy produces V with U×V = V×U = −f.
+Source: completeIntersections/chapter.m2 lines 1–9; test.m2 lines 2–10.
+Why: This is the basic matrix-factorization example: the cokernel of U is annihilated by the determinant hypersurface, and the adjugate-like partner V realizes the factorization.

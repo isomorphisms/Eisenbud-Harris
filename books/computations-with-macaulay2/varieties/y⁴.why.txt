@@ -1,0 +1,3 @@
+finite-field complete-intersection generator or residue-field generator in the three-variable Ext example
+
+This polynomial is kept independently of the hypersurface, quotient ring, module, or matrix in which it occurs. The coefficient field, extra variables, or multiplicity is essential to this occurrence; no real x,y,z reinterpretation is substituted.

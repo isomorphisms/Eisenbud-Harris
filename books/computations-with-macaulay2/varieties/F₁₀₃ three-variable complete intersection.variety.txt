@@ -1,0 +1,6 @@
+Kind: finite-field complete intersection / Ext example
+Ring: B=F₁₀₃[x,y,z]/(x³,y⁴,z⁵)
+Residue field: B/(x,y,z)
+Support-coordinate ring later uses X₁,X₂,X₃.
+Source: completeIntersections/chapter.m2 lines 87–143.
+Why: A random module over this codimension-3 complete intersection is used to compute Ext, even/odd pieces, Poincare series, complexity, and support data.

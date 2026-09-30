@@ -1,0 +1,5 @@
+Kind: finite-field complete intersection
+Ring: B=F₁₀₃[x,y]/(x³,y²)
+Module presentation: coker[x², x×y]
+Source: completeIntersections/chapter.m2 lines 64–86.
+Why: Ext(N,N) is computed and split into even/odd parts, introducing the graded support machinery used later.

@@ -1,0 +1,5 @@
+Kind: pair of quotient modules over the F₁₀₃ complete intersection
+N = B/(x²+z², y³)
+N′ = B/(x²+z², y³−2z³)
+Source: completeIntersections/chapter.m2 lines 214–245.
+Why: The pair isolates how a small change in the second relation changes Ext series, complexity, and support-variety pair ideals.

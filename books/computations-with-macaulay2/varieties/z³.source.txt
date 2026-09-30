@@ -1,0 +1,12 @@
+Display: z³
+SURFER: unavailable
+Macaulay2: z^3
+Coefficient ring(s): ZZ/103[x,y,z]
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Occurrences:
+- 145-148: generator of B'=A'/(x²,y²,z³) in the Poincare-series example (ZZ/103[x,y,z])
+Upstream:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/simplify.m2

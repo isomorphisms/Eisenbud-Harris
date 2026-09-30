@@ -1,0 +1,5 @@
+Kind: finite-field complete intersection
+Ring: B′=F₁₀₃[x,y,z]/(x²,y²,z³)
+Module: coker transpose of the fifth differential in a finite resolution of the residue field
+Source: completeIntersections/chapter.m2 lines 145–179.
+Why: This supplies a second module for Poincare-series and critical-degree comparisons.

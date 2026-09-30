@@ -9,3 +9,8 @@ Occurrences:
 Upstream sources:
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/chapter.m2
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.m2
+Complete-intersections occurrences:
+- 2-6: entry or determinant polynomial in the initial 2×2 matrix-factorization example (QQ[w,x,y,z])
+- 11-14: hypersurface equation or maximal-ideal generator for the ternary-cubic matrix-factorization example (QQ[x,y,z])
+- 88-94: finite-field complete-intersection generator or residue-field generator in the three-variable Ext example (ZZ/103[x,y,z])
+- 145-148: generator of B'=A'/(x²,y²,z³) in the Poincare-series example (ZZ/103[x,y,z])

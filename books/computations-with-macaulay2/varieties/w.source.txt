@@ -1,0 +1,12 @@
+Display: w
+SURFER: unavailable
+Macaulay2: w
+Coefficient ring(s): QQ[w,x,y,z]
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Occurrences:
+- 2-6: entry or determinant polynomial in the initial 2×2 matrix-factorization example (QQ[w,x,y,z])
+Upstream:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/simplify.m2

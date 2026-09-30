@@ -10,3 +10,5 @@ Occurrences:
 Upstream sources:
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/chapter.m2
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.m2
+Complete-intersections occurrences:
+- 65-68: finite-field complete-intersection or presentation polynomial in Ext(N,N) (ZZ/103[x,y])

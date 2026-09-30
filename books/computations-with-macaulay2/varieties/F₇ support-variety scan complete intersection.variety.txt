@@ -1,0 +1,5 @@
+Kind: finite-field complete intersection
+Ring: B″=F₇[x,y,z]/(x⁷,y⁷,z⁷)
+Experiment: random modules of ranks/degrees 1..3, each sent to supportVarietyIdeal.
+Source: completeIntersections/chapter.m2 lines 185–195.
+Why: The scan demonstrates support-variety ideals across random modules in positive characteristic.

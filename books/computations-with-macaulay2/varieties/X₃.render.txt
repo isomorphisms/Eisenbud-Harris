@@ -1,0 +1,3 @@
+status: unavailable
+reason: the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
+SURFER: unavailable

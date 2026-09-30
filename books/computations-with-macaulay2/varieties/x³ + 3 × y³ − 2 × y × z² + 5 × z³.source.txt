@@ -1,0 +1,12 @@
+Display: x³ + 3 × y³ − 2 × y × z² + 5 × z³
+SURFER: x^3+3*y^3-2*y*z^2+5*z^3
+Macaulay2: x^3+3*y^3-2*y*z^2+5*z^3
+Coefficient ring(s): QQ[x,y,z]
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Occurrences:
+- 11-14: hypersurface equation or maximal-ideal generator for the ternary-cubic matrix-factorization example (QQ[x,y,z])
+Upstream:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/simplify.m2

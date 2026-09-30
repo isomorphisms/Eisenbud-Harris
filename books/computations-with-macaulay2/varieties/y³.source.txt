@@ -5,3 +5,6 @@ Book: Computations in Algebraic Geometry with Macaulay 2
 Chapter: Ideals, Varieties, and Macaulay 2
 Role: nonzero coefficient appearing in the C.dd_2/C.dd_3 syzygy matrices of the minimal resolution of M=staircase³
 Derived output: chapter.out.expected lines 293–346; machine-readable matrices o49/o50 in test.oldvalues.
+Complete-intersections occurrences:
+- 217: generator of N in the Ext-pair/support-variety comparison (ZZ/103[x,y,z])
+- simplify.m2 76-93: auxiliary simplify.m2 TEST quotient generator (ZZ/103[x,y])

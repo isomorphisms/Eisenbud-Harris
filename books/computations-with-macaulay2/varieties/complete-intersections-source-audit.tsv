@@ -1,0 +1,10 @@
+source	lines	object	status	note
+chapter.m2/test.m2	1-9	2×2 determinant matrix factorization	cataloged	U entries and f=x×y−w×z recorded
+chapter.m2/test.m2	10-53	ternary cubic matrix-factorization example	cataloged	cubic f and maximal-ideal generators recorded; matrix outputs deferred to semantic pass
+chapter.m2/test.m2	54-63	F103 one-variable complete intersection	cataloged	x³,x²,x with field provenance
+chapter.m2/test.m2	64-86	F103 two-variable complete intersection	cataloged	J=(x³,y²) and module presentation (x²,xy)
+chapter.m2/test.m2	87-143	F103 three-variable Ext/support setup	cataloged	J=(x³,y⁴,z⁵), residue-field generators and support variables
+chapter.m2/test.m2	145-179	B′=(x²,y²,z³) Poincare comparison	cataloged	complete-intersection generators recorded
+chapter.m2/test.m2	185-195	F7 support-variety scan	cataloged	J″=(x⁷,y⁷,z⁷) recorded with finite-field provenance
+chapter.m2/test.m2	214-245	Ext-pair modules N,N′	cataloged	x²+z²,y³,y³−2z³ recorded
+simplify.m2	76-93	auxiliary simplification TEST	cataloged	x²,y³ occurrences merged

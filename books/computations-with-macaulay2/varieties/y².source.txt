@@ -9,3 +9,6 @@ Schemes chapter occurrences:
 - chapter.m2/test.m2 line 33,36: quadratic monomial basis used to contract derivatives of F and its Hessian
 - chapter.m2/test.m2 line 65: generator in the two ideals whose intersection describes the special fibre Xzero
 - chapter.m2/test.m2 line 93: generator of I=(x³,xy,y²), the nonreduced center used in the blow-up example
+Complete-intersections occurrences:
+- 65-68: finite-field complete-intersection or presentation polynomial in Ext(N,N) (ZZ/103[x,y])
+- 145-148: generator of B'=A'/(x²,y²,z³) in the Poincare-series example (ZZ/103[x,y,z])

@@ -10,3 +10,9 @@ Resolution occurrence: nonzero coefficient in C.dd_2 and/or C.dd_3; chapter.out.
 Schemes chapter occurrences:
 - chapter.m2/test.m2 line 61: generator of the fixed line L in the degenerating two-line family
 - chapter.m2/test.m2 line 65: generator in the two ideals whose intersection describes the special fibre Xzero
+Complete-intersections occurrences:
+- 2-6: entry or determinant polynomial in the initial 2×2 matrix-factorization example (QQ[w,x,y,z])
+- 11-14: hypersurface equation or maximal-ideal generator for the ternary-cubic matrix-factorization example (QQ[x,y,z])
+- 55-59: finite-field hypersurface/module relation in the one-variable Ext example (ZZ/103[x])
+- 88-94: finite-field complete-intersection generator or residue-field generator in the three-variable Ext example (ZZ/103[x,y,z])
+- 145-148: generator of B'=A'/(x²,y²,z³) in the Poincare-series example (ZZ/103[x,y,z])

@@ -1,0 +1,12 @@
+Display: y³ − 2 × z³
+SURFER: unavailable
+Macaulay2: y^3-2*z^3
+Coefficient ring(s): ZZ/103[x,y,z]
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Occurrences:
+- 221: generator of N' in the Ext-pair/support-variety comparison (ZZ/103[x,y,z])
+Upstream:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/simplify.m2

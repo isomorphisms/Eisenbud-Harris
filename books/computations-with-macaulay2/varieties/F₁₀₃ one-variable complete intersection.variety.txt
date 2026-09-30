@@ -1,0 +1,7 @@
+Kind: finite-field hypersurface/module example
+Ring: B=(F₁₀₃[x])/(x³)
+Modules:
+- M=B/(x²)
+- N=B/(x)
+Source: completeIntersections/chapter.m2 lines 54–63.
+Why: The example begins the Ext algebra calculations in the smallest complete-intersection setting.
