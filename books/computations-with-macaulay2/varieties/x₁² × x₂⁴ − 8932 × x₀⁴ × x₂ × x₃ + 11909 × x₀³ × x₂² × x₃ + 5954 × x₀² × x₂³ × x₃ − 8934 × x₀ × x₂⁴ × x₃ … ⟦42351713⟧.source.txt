@@ -11,3 +11,5 @@ Upstream sources:
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.m2
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/mystery.m2
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.oldvalues
+Physical basename: x₁² × x₂⁴ − 8932 × x₀⁴ × x₂ × x₃ + 11909 × x₀³ × x₂² × x₃ + 5954 × x₀² × x₂³ × x₃ − 8934 × x₀ × x₂⁴ × x₃ … ⟦42351713⟧
+Filename shortening: exact display exceeded the 255-byte filesystem component limit; suffix checksum is FNV-1a of the exact Macaulay2 spelling.

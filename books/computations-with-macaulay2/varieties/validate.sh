@@ -18,6 +18,17 @@ if find "$here" -maxdepth 2 -type f \( -name 'why.md' -o -name 'WHY.md' \) | gre
     fail "Markdown why files are forbidden; use P.why.txt"
 fi
 
+find "$here" -maxdepth 1 -type f -print |
+while IFS= read -r file
+do
+    leaf=${file##*/}
+    byte_count=$(printf '%s' "$leaf" | wc -c | tr -d ' ')
+    if [ "$byte_count" -gt 255 ]; then
+        printf 'catalog: filename exceeds 255 UTF-8 bytes: %s\n' "$leaf" >&2
+        exit 1
+    fi
+done || failed=1
+
 for source in "$here"/*.source.txt
 do
     [ -e "$source" ] || continue

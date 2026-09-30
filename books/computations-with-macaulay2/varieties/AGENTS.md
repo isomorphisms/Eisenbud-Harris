@@ -18,6 +18,8 @@ A polynomial is not a variety.
 
 For every relevant polynomial P, put exactly three sibling files directly in this `varieties/` directory. Use the polynomial itself as the basename; do not use p0001-style IDs or per-entry directories.
 
+Filesystem exception: a POSIX filename component cannot exceed 255 bytes. If the literal Unicode polynomial plus suffix would exceed that ceiling, use a readable prefix of the polynomial followed by ` … ⟦hhhhhhhh⟧`, where the eight hexadecimal digits are the deterministic FNV-1a checksum of the exact Macaulay2 spelling. The full polynomial remains authoritative in `Display:` and `Macaulay2:`. This exception is only for the physical filename limit; never shorten merely for aesthetics.
+
 Unicode mathematical notation is intentional. Prefer readable basenames such as `x⁴ − y⁵` and `y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁵`.
 
 The three siblings are:
