@@ -1,0 +1,13 @@
+output_area	machine_source	status	note
+twisted cubic ideal generators	idealCubic/o12	complete	three quadrics cataloged; sign/order variants deduplicated
+Euler resolution of ΩP³	o17,o19,o21,o22	complete	matrix structure recorded; nonzero entries are coordinate variables and unit negatives
+Jacobian/cotangent maps	delta1,delta2,delta,o38	complete	Jacobian and sheaf presentation recorded; scalar constants not treated as separate polynomials
+determinantal ideal I	I/o27	complete	six minor generators cataloged
+Tor/intersection example	idealX source, idealL1, idealL2, idealY	complete	linear equations and union products cataloged; Tor outputs are numerical degrees
+mystery curve	idealX/o51/idealXtop	complete	six finite-field generators cataloged
+canonical map	f,o70,canGens,o71	complete	all distinct nonconstant map-coordinate polynomials cataloged
+canonical ideal and quadratic subideal	idealXcan,idealS	complete	nine canonical-ideal generators cataloged; first six reused by idealS
+plane map	g,toP2,o86,o87	complete	two new linear forms cataloged; x₂ occurrence merged
+plane/Fermat/quadratic embedding	idealXplane,idealC2,idealC5	complete	all defining generators cataloged
+reconstruction	idealC/o98	complete	reuses mystery ideal generators; final equality recorded
+Betti/cohomology/dimension/degree outputs	various Net/List/ZZ outputs	complete-no-new-polynomial	numerical/module invariants retained upstream; no additional explicit polynomial components

@@ -1,0 +1,8 @@
+Kind: projective map / homomorphism matrix
+Coefficient ring: ZZ/32749
+Entries:
+- x₀³ × x₂² + 10915 × x₀² × x₂³ + 807 × x₀ × x₂⁴ + 4043 × x₂⁵ + 7655 × x₀ × x₁ × x₂ × x₃² − 15561 × x₁ × x₂² × x₃² − 14150 × x₃⁵
+- 10105 × x₀ × x₁ × x₂³ + 6063 × x₁ × x₂⁴ + 11820 × x₀ × x₁² × x₃² + 1305 × x₁² × x₂ × x₃² − 2394 × x₀² × x₃³ − 1037 × x₀ × x₂ × x₃³ + 4042 × x₂² × x₃³
+- 10105 × x₀² × x₂² − 11322 × x₀ × x₂³ + 11322 × x₂⁴ + 8396 × x₁³ × x₃ + 788 × x₀ × x₁ × x₃² + 6891 × x₁ × x₂ × x₃²
+Source: geometry/test.oldvalues f and o70; constructed at test.m2 line 70.
+Why: These three forms are the chosen minimal generators of the dual module used to produce canonical sections.

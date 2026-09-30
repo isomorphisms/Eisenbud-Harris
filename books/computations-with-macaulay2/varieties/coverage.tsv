@@ -2,7 +2,7 @@ source	chapter_or_area	code_pass	prose_pass	second_pass	notes
 official-book	all chapters	pending	pending	pending	Read front to back; equation labels beat page numbers when available.
 upstream-m2	preface	pending	n/a	pending	chapter.m2 and test.m2
 upstream-m2	varieties	source-and-semantic-output-complete	n/a	pending	chapter.m2/test.m2 literal source complete; original/current computational outputs audited. Defining/generator polynomials expanded individually. Large 65/690 standard-monomial basis matrices retained as structured basis records, with singled-out degree-19 entries expanded.
-upstream-m2	geometry	source-and-named-ideals-complete; output-in-progress	n/a	pending	chapter.m2/test.m2/mystery.m2 literals and major named ideals cataloged from test.oldvalues; module/sheaf matrices, Betti data, and remaining unnamed outputs still need semantic audit
+upstream-m2	geometry	source-and-semantic-output-complete	n/a	pending	chapter.m2/test.m2/mystery.m2 and test.oldvalues audited: defining ideals, map coordinates, resolution/Jacobian/cotangent matrices, canonical and plane models cataloged; numerical Betti/cohomology outputs introduce no additional polynomials
 upstream-m2	programming	pending	n/a	pending	chapter.m2 and test.m2
 upstream-m2	schemes	pending	n/a	pending	chapter.m2 and test.m2
 upstream-m2	monomialIdeals	pending	n/a	pending	chapter.m2 and test.m2

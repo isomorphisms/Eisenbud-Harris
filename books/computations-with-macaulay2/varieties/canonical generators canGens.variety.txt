@@ -1,0 +1,11 @@
+Kind: projective map coordinates
+Coefficient ring: ZZ/32749
+Entries:
+- x₀³ × x₂² + 10915 × x₀² × x₂³ + 807 × x₀ × x₂⁴ + 4043 × x₂⁵ + 7655 × x₀ × x₁ × x₂ × x₃² − 15561 × x₁ × x₂² × x₃² − 14150 × x₃⁵
+- 10105 × x₀ × x₁ × x₂³ + 6063 × x₁ × x₂⁴ + 11820 × x₀ × x₁² × x₃² + 1305 × x₁² × x₂ × x₃² − 2394 × x₀² × x₃³ − 1037 × x₀ × x₂ × x₃³ + 4042 × x₂² × x₃³
+- 10105 × x₀³ × x₂² − 11322 × x₀² × x₂³ + 11322 × x₀ × x₂⁴ + 8396 × x₀ × x₁³ × x₃ + 788 × x₀² × x₁ × x₃² + 6891 × x₀ × x₁ × x₂ × x₃²
+- 10105 × x₀² × x₁ × x₂² − 11322 × x₀ × x₁ × x₂³ + 11322 × x₁ × x₂⁴ − 15169 × x₀ × x₁² × x₃² + 15287 × x₁² × x₂ × x₃² − 8396 × x₀² × x₃³
+- 10105 × x₀² × x₂³ − 11322 × x₀ × x₂⁴ + 11322 × x₂⁵ + 8396 × x₁³ × x₂ × x₃ + 788 × x₀ × x₁ × x₂ × x₃² + 6891 × x₁ × x₂² × x₃²
+- 10105 × x₀² × x₂² × x₃ − 11322 × x₀ × x₂³ × x₃ + 11322 × x₂⁴ × x₃ + 8396 × x₁³ × x₃² + 788 × x₀ × x₁ × x₃³ + 6891 × x₁ × x₂ × x₃³
+Source: geometry/test.oldvalues canGens/o71; constructed at test.m2 line 71.
+Why: These six explicit forms define the canonical map whose kernel is idealXcan in P⁵.

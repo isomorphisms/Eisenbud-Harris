@@ -1,0 +1,5 @@
+Kind: free-resolution matrices
+Coefficient ring: ZZ/32749
+Distinct nonzero polynomial entries: x₀, x₁, x₂, x₃ and their unit negatives.
+Sources: geometry/test.oldvalues o17, o19, o21, o22; chapter.m2/test.m2 lines 15–25.
+Why: The matrices resolve coker(vars P³) and present ΩP³. No new component polynomial beyond the coordinate variables is introduced by the displayed differentials.

@@ -1,0 +1,10 @@
+Display: x₀³ × x₂² + 10915 × x₀² × x₂³ + 807 × x₀ × x₂⁴ + 4043 × x₂⁵ + 7655 × x₀ × x₁ × x₂ × x₃² − 15561 × x₁ × x₂² × x₃² − 14150 × x₃⁵
+SURFER: unavailable
+Macaulay2: x_0^3*x_2^2+10915*x_0^2*x_2^3+807*x_0*x_2^4+4043*x_2^5+7655*x_0*x_1*x_2*x_3^2-15561*x_1*x_2^2*x_3^2-14150*x_3^5
+Coefficient ring: ZZ/32749
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: Projective Geometry and Homological Algebra computations (geometry directory)
+Occurrences:
+- entry of the homomorphism matrix f used to construct canonical generators
+- entry of canGens, the six canonical-section generators
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.oldvalues

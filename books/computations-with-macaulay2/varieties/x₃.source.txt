@@ -11,3 +11,4 @@ Upstream sources:
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.m2
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/mystery.m2
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/geometry/test.oldvalues
+Derived matrix occurrences: Euler-resolution/cotangent/Jacobian matrices in geometry/test.oldvalues o17, o19, o21, o22, delta1, and o38 as applicable.

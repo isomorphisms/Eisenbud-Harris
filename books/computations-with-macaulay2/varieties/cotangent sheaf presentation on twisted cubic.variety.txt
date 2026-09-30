@@ -1,0 +1,6 @@
+Kind: coherent-sheaf presentation matrix
+Matrix:
+[ x₂  x₁  x₀ ]
+[ −x₃ −x₂ −x₁ ]
+Source: geometry/test.oldvalues o38; chapter.m2/test.m2 lines 31–38.
+Why: This presents the cotangent sheaf on the twisted cubic after passing from the ambient cotangent module through the Jacobian map.

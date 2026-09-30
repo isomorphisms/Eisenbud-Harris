@@ -1,0 +1,3 @@
+This polynomial is an explicit coordinate/section in the canonical-model reconstruction of the mystery curve.
+
+Its role is map data: the collection of such forms defines the canonical map or the subsequent map toward a plane model. The source works projectively over F₃₂₇₄₉, so a real affine surface render would require extra choices and is not substituted.

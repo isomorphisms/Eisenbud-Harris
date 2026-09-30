@@ -1,0 +1,8 @@
+Kind: projective map coordinates
+Coefficient ring: ZZ/32749
+Entries:
+- x₀ + 7742 × x₂ − 15779 × x₄
+- x₂
+- x₁ + 6551 × x₃
+Source: geometry/test.oldvalues g/toP2/o86/o87; constructed at test.m2 lines 88–93.
+Why: These three forms define the map from the canonical model to the plane model idealXplane.
