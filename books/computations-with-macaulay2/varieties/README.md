@@ -14,6 +14,30 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the exact polynomial is a 19-fold plane; a point-set surface would erase the multiplicity the example is testing
 
+## 1 ÷ 2 × y
+
+- [source](<1 ÷ 2 × y.source.txt>) · [why](<1 ÷ 2 × y.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 1 ÷ 3 × x
+
+- [source](<1 ÷ 3 × x.source.txt>) · [why](<1 ÷ 3 × x.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 1 ÷ 3 × z
+
+- [source](<1 ÷ 3 × z.source.txt>) · [why](<1 ÷ 3 × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 10 × y × z
+
+- [source](<10 × y × z.source.txt>) · [why](<10 × y × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## 10105 × x₀ × x₁ × x₂³ + 6063 × x₁ × x₂⁴ + 11820 × x₀ × x₁² × x₃² + 1305 × x₁² × x₂ × x₃² − 2394 × x₀² × x₃³ − 1037 × x₀ × x₂ × x₃³ + 4042 × x₂² × x₃³
 
 - [source](<10105 × x₀ × x₁ × x₂³ + 6063 × x₁ × x₂⁴ + 11820 × x₀ × x₁² × x₃² + 1305 × x₁² × x₂ × x₃² − 2394 × x₀² × x₃³ − 1037 × x₀ × x₂ × x₃³ + 4042 × x₂² × x₃³.source.txt>) · [why](<10105 × x₀ × x₁ × x₂³ + 6063 × x₁ × x₂⁴ + 11820 × x₀ × x₁² × x₃² + 1305 × x₁² × x₂ × x₃² − 2394 × x₀² × x₃³ − 1037 × x₀ × x₂ × x₃³ + 4042 × x₂² × x₃³.why.txt>)
@@ -56,11 +80,23 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this is high-dimensional coefficient-space/Hessian data with no canonical x,y,z real-affine specialization
 
+## 15 × x × y
+
+- [source](<15 × x × y.source.txt>) · [why](<15 × x × y.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## 15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5
 
 - [source](<15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5.source.txt>) · [why](<15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 15 × y²
+
+- [source](<15 × y².source.txt>) · [why](<15 × y².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## 16 × x² + 22 × x × y − 24 × y² + 3 × x × z + y × z + 16 × x + 17 × y + 45 × z − 11
 
@@ -152,11 +188,59 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
+## 2 × x × y
+
+- [source](<2 × x × y.source.txt>) · [why](<2 × x × y.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 2 × x²
+
+- [source](<2 × x².source.txt>) · [why](<2 × x².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 2 × y × z − 5 × z²
+
+- [source](<2 × y × z − 5 × z².source.txt>) · [why](<2 × y × z − 5 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 2 × y
+
+- [source](<2 × y.source.txt>) · [why](<2 × y.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## 2 × y² + 2 × y × z + 2 × z²
 
 - [source](<2 × y² + 2 × y × z + 2 × z².source.txt>) · [why](<2 × y² + 2 × y × z + 2 × z².why.txt>)
 
 ![2 × y² + 2 × y × z + 2 × z²](<2 × y² + 2 × y × z + 2 × z².png>)
+
+## 2 × y²
+
+- [source](<2 × y².source.txt>) · [why](<2 × y².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 2 × z
+
+- [source](<2 × z.source.txt>) · [why](<2 × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 21 × x² − 30 × x × y + 32 × y² − 47 × x × z + 7 × y × z − 50 × z²
+
+- [source](<21 × x² − 30 × x × y + 32 × y² − 47 × x × z + 7 × y × z − 50 × z².source.txt>) · [why](<21 × x² − 30 × x × y + 32 × y² − 47 × x × z + 7 × y × z − 50 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 27 × x² + 49 × x × y − 14 × y² − 23 × x × z − 6 × y × z − 19 × z²
+
+- [source](<27 × x² + 49 × x × y − 14 × y² − 23 × x × z − 6 × y × z − 19 × z².source.txt>) · [why](<27 × x² + 49 × x × y − 14 × y² − 23 × x × z − 6 × y × z − 19 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## 29 × x² + 42 × x × y − 44 × y² + 24 × x × z + y × z + 39 × x + 23 × y + 48 × z + 44
 
@@ -182,17 +266,47 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
+## 3 × x × y
+
+- [source](<3 × x × y.source.txt>) · [why](<3 × x × y.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 3 × x × z
+
+- [source](<3 × x × z.source.txt>) · [why](<3 × x × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## 3 × x² × a + 2 × x × y × b + y² × d + 2 × x × z × c + y × z × e + z² × f
 
 - [source](<3 × x² × a + 2 × x × y × b + y² × d + 2 × x × z × c + y × z × e + z² × f.source.txt>) · [why](<3 × x² × a + 2 × x × y × b + y² × d + 2 × x × z × c + y × z × e + z² × f.why.txt>)
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
+## 3 × x²
+
+- [source](<3 × x².source.txt>) · [why](<3 × x².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## 3 × y × z
 
 - [source](<3 × y × z.source.txt>) · [why](<3 × y × z.why.txt>)
 
 ![3 × y × z](<3 × y × z.png>)
+
+## 3 × y
+
+- [source](<3 × y.source.txt>) · [why](<3 × y.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 3 × y²
+
+- [source](<3 × y².source.txt>) · [why](<3 × y².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## 31 × x² − 13 × x × y + z² − 35 × x + 38 × y − 5 × z + 38
 
@@ -211,6 +325,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<33 × x² − 20 × x × y − 13 × y² + 5 × x × z + y × z + 30 × x − 31 × y + 45 × z + 12.source.txt>) · [why](<33 × x² − 20 × x × y − 13 × y² + 5 × x × z + y × z + 30 × x − 31 × y + 45 × z + 12.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 38 × x² × y − 34 × x × y² + 4 × y³ + x² × z + 16 × x × y × z − y² × z − 5 × x × z² − 6 × y × z² + 47 × z³
+
+- [source](<38 × x² × y − 34 × x × y² + 4 × y³ + x² × z + 16 × x × y × z − y² × z − 5 × x × z² − 6 × y × z² + 47 × z³.source.txt>) · [why](<38 × x² × y − 34 × x × y² + 4 × y³ + x² × z + 16 × x × y × z − y² × z − 5 × x × z² − 6 × y × z² + 47 × z³.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## 39 × x² − 31 × x × y + x × z − 31 × x − 46 × y − 30 × z + 36
 
@@ -242,6 +362,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
+## 4 × x × y
+
+- [source](<4 × x × y.source.txt>) · [why](<4 × x × y.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 4 ÷ 3 × z
+
+- [source](<4 ÷ 3 × z.source.txt>) · [why](<4 ÷ 3 × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## 44 × x² + 22 × x × y + x × z + 22 × x − 26 × y − 30 × z − 6
 
 - [source](<44 × x² + 22 × x × y + x × z + 22 × x − 26 × y − 30 × z − 6.source.txt>) · [why](<44 × x² + 22 × x × y + x × z + 22 × x − 26 × y − 30 × z − 6.why.txt>)
@@ -254,11 +386,29 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## 5 × y²
+
+- [source](<5 × y².source.txt>) · [why](<5 × y².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## 58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴
 
 - [source](<58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴.source.txt>) · [why](<58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴.why.txt>)
 
 **SURFER unavailable:** this degree-19 quotient normal form is being used as algebra in R/staircase³; a raw zero-set render would not show that quotient relation
+
+## 6 × y × z − 15 × z²
+
+- [source](<6 × y × z − 15 × z².source.txt>) · [why](<6 × y × z − 15 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## 6 × y² − 15 × y × z
+
+- [source](<6 × y² − 15 × y × z.source.txt>) · [why](<6 × y² − 15 × y × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## 6
 
@@ -1934,6 +2084,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
+## y × z − 5 ÷ 2 × z²
+
+- [source](<y × z − 5 ÷ 2 × z².source.txt>) · [why](<y × z − 5 ÷ 2 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## y × z
 
 - [source](<y × z.source.txt>) · [why](<y × z.why.txt>)
@@ -2077,6 +2233,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<y² − 3.source.txt>) · [why](<y² − 3.why.txt>)
 
 ![y² − 3](<y² − 3.png>)
+
+## y² − 5 ÷ 2 × y × z
+
+- [source](<y² − 5 ÷ 2 × y × z.source.txt>) · [why](<y² − 5 ÷ 2 × y × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## y²
 
@@ -2306,6 +2468,144 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the source occurrence is finite-field, higher-dimensional, or multiplicity-sensitive and has no canonical faithful real x,y,z SURFER realization
 
+## − (1 ÷ 2 × x)
+
+- [source](<− (1 ÷ 2 × x).source.txt>) · [why](<− (1 ÷ 2 × x).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (1 ÷ 3 × x)
+
+- [source](<− (1 ÷ 3 × x).source.txt>) · [why](<− (1 ÷ 3 × x).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (1 ÷ 3 × z)
+
+- [source](<− (1 ÷ 3 × z).source.txt>) · [why](<− (1 ÷ 3 × z).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (15 × x × y)
+
+- [source](<− (15 × x × y).source.txt>) · [why](<− (15 × x × y).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (15 × x × z)
+
+- [source](<− (15 × x × z).source.txt>) · [why](<− (15 × x × z).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (15 × y × z)
+
+- [source](<− (15 × y × z).source.txt>) · [why](<− (15 × y × z).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (2 × x)
+
+- [source](<− (2 × x).source.txt>) · [why](<− (2 × x).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (2 × y)
+
+- [source](<− (2 × y).source.txt>) · [why](<− (2 × y).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (2 × z)
+
+- [source](<− (2 × z).source.txt>) · [why](<− (2 × z).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (2 ÷ 3 × x)
+
+- [source](<− (2 ÷ 3 × x).source.txt>) · [why](<− (2 ÷ 3 × x).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (2 ÷ 3 × x²)
+
+- [source](<− (2 ÷ 3 × x²).source.txt>) · [why](<− (2 ÷ 3 × x²).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (3 × x × y)
+
+- [source](<− (3 × x × y).source.txt>) · [why](<− (3 × x × y).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (3 × x²)
+
+- [source](<− (3 × x²).source.txt>) · [why](<− (3 × x²).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (3 × y × z)
+
+- [source](<− (3 × y × z).source.txt>) · [why](<− (3 × y × z).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (3 × y)
+
+- [source](<− (3 × y).source.txt>) · [why](<− (3 × y).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (3 × y²)
+
+- [source](<− (3 × y²).source.txt>) · [why](<− (3 × y²).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (3 ÷ 2 × y)
+
+- [source](<− (3 ÷ 2 × y).source.txt>) · [why](<− (3 ÷ 2 × y).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (5 ÷ 2 × y × z)
+
+- [source](<− (5 ÷ 2 × y × z).source.txt>) · [why](<− (5 ÷ 2 × y × z).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (5 ÷ 2 × y)
+
+- [source](<− (5 ÷ 2 × y).source.txt>) · [why](<− (5 ÷ 2 × y).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (6 × x × y)
+
+- [source](<− (6 × x × y).source.txt>) · [why](<− (6 × x × y).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (6 × y²)
+
+- [source](<− (6 × y²).source.txt>) · [why](<− (6 × y²).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (x × y)
+
+- [source](<− (x × y).source.txt>) · [why](<− (x × y).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − (x × z)
+
+- [source](<− (x × z).source.txt>) · [why](<− (x × z).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## − (x₁³ × x₃)
 
 - [source](<− (x₁³ × x₃).source.txt>) · [why](<− (x₁³ × x₃).why.txt>)
@@ -2318,11 +2618,23 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
 
+## − (y × z)
+
+- [source](<− (y × z).source.txt>) · [why](<− (y × z).why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## − 10 × x² − 5 × x × y + x × z − 5 × x − 40 × y − 30 × z − 17
 
 - [source](<− 10 × x² − 5 × x × y + x × z − 5 × x − 40 × y − 30 × z − 17.source.txt>) · [why](<− 10 × x² − 5 × x × y + x × z − 5 × x − 40 × y − 30 × z − 17.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 15 × y² − 4 × y × z + 10 × z²
+
+- [source](<− 15 × y² − 4 × y × z + 10 × z².source.txt>) · [why](<− 15 × y² − 4 × y × z + 10 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## − 16 × x³ + x² × y + x² − 15 × x × y + 16 × x − 15 × y + 17
 
@@ -2341,6 +2653,24 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<− 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44.source.txt>) · [why](<− 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 2 × y + 5 × z
+
+- [source](<− 2 × y + 5 × z.source.txt>) · [why](<− 2 × y + 5 × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − 2 × y × z + 5 × z²
+
+- [source](<− 2 × y × z + 5 × z².source.txt>) · [why](<− 2 × y × z + 5 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − 2 × y² + 5 × y × z
+
+- [source](<− 2 × y² + 5 × y × z.source.txt>) · [why](<− 2 × y² + 5 × y × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## − 22 × x² + 19 × x × y + z² − 11 × x − 40 × y + 22 × z − 40
 
@@ -2402,6 +2732,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## − 37 × x² × y + 51 × x × y² − 36 × y³ + 26 × x² × z − 38 × x × y × z − 17 × y² × z + 17 × x × z² − 11 × y × z² + 8 × z³
+
+- [source](<− 37 × x² × y + 51 × x × y² − 36 × y³ + 26 × x² × z − 38 × x × y × z − 17 × y² × z + 17 × x × z² − 11 × y × z² + 8 × z³.source.txt>) · [why](<− 37 × x² × y + 51 × x × y² − 36 × y³ + 26 × x² × z − 38 × x × y × z − 17 × y² × z + 17 × x × z² − 11 × y × z² + 8 × z³.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − 4 × y × z + 10 × z²
+
+- [source](<− 4 × y × z + 10 × z².source.txt>) · [why](<− 4 × y × z + 10 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## − 41 × x² + 30 × x × y + x × z + 30 × x + 38 × y − 30 × z + 1
 
 - [source](<− 41 × x² + 30 × x × y + x × z + 30 × x + 38 × y − 30 × z + 1.source.txt>) · [why](<− 41 × x² + 30 × x × y + x × z + 30 × x + 38 × y − 30 × z + 1.why.txt>)
@@ -2431,6 +2773,42 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<− 48 × f² × g + 4 × e² × i + 32 × d × f × i − 16 × c × h × i − 16 × b × i² − 48 × d × e × j + 144 × c × g × j + 48 × b × h × j.source.txt>) · [why](<− 48 × f² × g + 4 × e² × i + 32 × d × f × i − 16 × c × h × i − 16 × b × i² − 48 × d × e × j + 144 × c × g × j + 48 × b × h × j.why.txt>)
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
+
+## − 5 × x² + 44 × x × y + 38 × y² + 40 × x × z + 15 × y × z + 4 × z²
+
+- [source](<− 5 × x² + 44 × x × y + 38 × y² + 40 × x × z + 15 × y × z + 4 × z².source.txt>) · [why](<− 5 × x² + 44 × x × y + 38 × y² + 40 × x × z + 15 × y × z + 4 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − 5 ÷ 2 × y² + 2 ÷ 3 × y × z − 5 ÷ 3 × z²
+
+- [source](<− 5 ÷ 2 × y² + 2 ÷ 3 × y × z − 5 ÷ 3 × z².source.txt>) · [why](<− 5 ÷ 2 × y² + 2 ÷ 3 × y × z − 5 ÷ 3 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − 6 × x × y + 15 × x × z
+
+- [source](<− 6 × x × y + 15 × x × z.source.txt>) · [why](<− 6 × x × y + 15 × x × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − 6 × x² × y − 14 × x × y² − 26 × y³ − 7 × x² × z + 41 × x × y × z + 50 × y² × z + 26 × x × z² + 46 × y × z² − 44 × z³
+
+- [source](<− 6 × x² × y − 14 × x × y² − 26 × y³ − 7 × x² × z + 41 × x × y × z + 50 × y² × z + 26 × x × z² + 46 × y × z² − 44 × z³.source.txt>) · [why](<− 6 × x² × y − 14 × x × y² − 26 × y³ − 7 × x² × z + 41 × x × y × z + 50 × y² × z + 26 × x × z² + 46 × y × z² − 44 × z³.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − 6 × y × z + 15 × z²
+
+- [source](<− 6 × y × z + 15 × z².source.txt>) · [why](<− 6 × y × z + 15 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − 6 × y² + 15 × y × z
+
+- [source](<− 6 × y² + 15 × y × z.source.txt>) · [why](<− 6 × y² + 15 × y × z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## Hessian determinant of the generic ternary cubic
 
@@ -2564,6 +2942,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
+## − x
+
+- [source](<− x.source.txt>) · [why](<− x.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − x²
+
+- [source](<− x².source.txt>) · [why](<− x².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## − x₁³ × x₂ + x₀³ × x₃
 
 - [source](<− x₁³ × x₂ + x₀³ × x₃.source.txt>) · [why](<− x₁³ × x₂ + x₀³ × x₃.why.txt>)
@@ -2587,6 +2977,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<− x₃².source.txt>) · [why](<− x₃².why.txt>)
 
 **SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## − y × z + 5 ÷ 2 × z²
+
+- [source](<− y × z + 5 ÷ 2 × z².source.txt>) · [why](<− y × z + 5 ÷ 2 × z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − y
+
+- [source](<− y.source.txt>) · [why](<− y.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
 
 ## − y_1 × y_3 × y_4 + y_0 × y_4² + y_1² × y_6 − y_0 × y_1 × y_7
 
@@ -2684,6 +3086,24 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** no canonical faithful x,y,z real-affine SURFER realization is determined by this occurrence
 
+## − y²
+
+- [source](<− y².source.txt>) · [why](<− y².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − z
+
+- [source](<− z.source.txt>) · [why](<− z.why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
+## − z²
+
+- [source](<− z².source.txt>) · [why](<− z².why.txt>)
+
+**SURFER unavailable:** this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+
 ## Composite varieties, schemes, ideals, and systems
 
 - [2×2 determinant matrix factorization seed](<2×2 determinant matrix factorization seed.variety.txt>)
@@ -2727,6 +3147,10 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [canonical homomorphism f](<canonical homomorphism f.variety.txt>)
 - [canonical idealXcan](<canonical idealXcan.variety.txt>)
 - [cotangent sheaf presentation on twisted cubic](<cotangent sheaf presentation on twisted cubic.variety.txt>)
+- [cubic B∕m² matrix-factorization U](<cubic B∕m² matrix-factorization U.variety.txt>)
+- [cubic B∕m² nullhomotopy and V](<cubic B∕m² nullhomotopy and V.variety.txt>)
+- [cubic B∕m³ matrix-factorization U](<cubic B∕m³ matrix-factorization U.variety.txt>)
+- [cubic B∕m³ matrix-factorization V](<cubic B∕m³ matrix-factorization V.variety.txt>)
 - [curve₁ = saturate(curve, (x))](<curve₁ = saturate(curve, (x)).variety.txt>)
 - [curve₂ = saturate(curve, curve₁)](<curve₂ = saturate(curve, curve₁).variety.txt>)
 - [decompose(ourpoints over F₁₀₁)](<decompose(ourpoints over F₁₀₁).variety.txt>)
@@ -2736,10 +3160,14 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [elementaryBasis](<elementaryBasis.variety.txt>)
 - [elimination GB(ourpoints″)](<elimination GB(ourpoints″).variety.txt>)
 - [elimination examples I₁–I₅](<elimination examples I₁–I₅.variety.txt>)
+- [fixed random F₁₀₃ column f₁](<fixed random F₁₀₃ column f₁.variety.txt>)
+- [fixed random F₁₀₃ module presentation f](<fixed random F₁₀₃ module presentation f.variety.txt>)
 - [generic ternary cubic F](<generic ternary cubic F.variety.txt>)
 - [idealL₁](<idealL₁.variety.txt>)
 - [idealL₂](<idealL₂.variety.txt>)
 - [idealY = L₁ ∪ L₂](<idealY = L₁ ∪ L₂.variety.txt>)
+- [initial 2×2 factorization U](<initial 2×2 factorization U.variety.txt>)
+- [initial 2×2 factorization V](<initial 2×2 factorization V.variety.txt>)
 - [linear idealX in P⁴](<linear idealX in P⁴.variety.txt>)
 - [multiplicity ideal I](<multiplicity ideal I.variety.txt>)
 - [mystery curve idealX](<mystery curve idealX.variety.txt>)
@@ -2752,6 +3180,8 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [quadric family Q and Fano lines](<quadric family Q and Fano lines.variety.txt>)
 - [reconstructed idealC = mystery idealX](<reconstructed idealC = mystery idealX.variety.txt>)
 - [staircase = LT(ourpoints)](<staircase = LT(ourpoints).variety.txt>)
+- [support variety pair ideal for (M,N)](<support variety pair ideal for (M,N).variety.txt>)
+- [support variety pair ideal for (M,N′)](<support variety pair ideal for (M,N′).variety.txt>)
 - [surfaceA parametrization ideal](<surfaceA parametrization ideal.variety.txt>)
 - [ternary cubic discriminant computation](<ternary cubic discriminant computation.variety.txt>)
 - [ternary cubic hypersurface matrix-factorization example](<ternary cubic hypersurface matrix-factorization example.variety.txt>)
