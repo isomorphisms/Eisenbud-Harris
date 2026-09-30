@@ -7,3 +7,6 @@ Role: polynomial defining ideal(x), used as the saturation divisor
 Upstream source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/chapter.m2#L7
 Maintained source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/varieties/test.m2#L7
 Resolution occurrence: nonzero coefficient in C.dd_2 and/or C.dd_3; chapter.out.expected lines 293–346.
+Schemes chapter occurrences:
+- chapter.m2/test.m2 line 61: generator of the fixed line L in the degenerating two-line family
+- chapter.m2/test.m2 line 65: generator in the two ideals whose intersection describes the special fibre Xzero

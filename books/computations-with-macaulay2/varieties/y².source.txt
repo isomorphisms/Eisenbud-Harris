@@ -5,3 +5,7 @@ Book: Computations in Algebraic Geometry with Macaulay 2
 Chapter: Ideals, Varieties, and Macaulay 2
 Role: nonzero coefficient appearing in the C.dd_2/C.dd_3 syzygy matrices of the minimal resolution of M=staircase³
 Derived output: chapter.out.expected lines 293–346; machine-readable matrices o49/o50 in test.oldvalues.
+Schemes chapter occurrences:
+- chapter.m2/test.m2 line 33,36: quadratic monomial basis used to contract derivatives of F and its Hessian
+- chapter.m2/test.m2 line 65: generator in the two ideals whose intersection describes the special fibre Xzero
+- chapter.m2/test.m2 line 93: generator of I=(x³,xy,y²), the nonreduced center used in the blow-up example

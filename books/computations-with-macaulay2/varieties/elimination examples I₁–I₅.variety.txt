@@ -1,0 +1,8 @@
+Kind: five ideals for elimination over algebraic coefficient constraints
+I₁: (x−a, y−a, a²−2)
+I₂: (x−a, y−b, a²−2, b²−3)
+I₃: (x−a, y−a⁴, a⁴+a³+a²+a+1)
+I₄: (a×x+b×y, a²−2, b²−3)
+I₅: (a×x+b×y−1, a²−2, b²−3)
+Source: schemes/chapter.m2/test.m2 lines 44–54.
+Why: These examples show elimination of algebraic parameters to produce equations in x,y.

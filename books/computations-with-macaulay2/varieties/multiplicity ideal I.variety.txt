@@ -1,0 +1,7 @@
+Kind: affine ideal
+Components:
+- x⁵ + y³ + z³
+- x³ + y⁵ + z³
+- x³ + y³ + z⁵
+Source: schemes/chapter.m2/test.m2 lines 56–58.
+Why: The degree of I:saturate(I) measures the embedded/nonreduced multiplicity removed by saturation.

@@ -1,0 +1,3 @@
+status: unavailable
+reason: its real zero locus is the isolated origin, not a surface that SURFER's surface renderer can faithfully display
+SURFER: unavailable

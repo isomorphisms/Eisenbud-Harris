@@ -1,0 +1,13 @@
+Kind: blow-up/Segre construction
+Graph relations:
+- u − t × x
+- v − t × y
+Segre coordinates:
+- x × u
+- y × u
+- z × u
+- x × v
+- y × v
+- z × v
+Source: schemes/chapter.m2/test.m2 lines 102–112.
+Why: This constructs surfaceB from the blow-up of P² along (x,y), embeds via Segre, then projects to P⁴.

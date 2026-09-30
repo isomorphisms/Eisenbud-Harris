@@ -1,0 +1,9 @@
+Kind: determinantal/intersection example
+IX: 2×2 minors of [[a,b²,b×d,c],[b,a×c,c²,d]]
+IY = (a,d)
+J = minimal generators of IX+(a)
+Decomposition:
+- (a, b×c, b², c³−b×d²)
+- (a, d, b×c, c³, b³)  [embedded point]
+Source: schemes/chapter.m2/test.m2 lines 68–76.
+Why: The example compares codimensions/degrees and then exposes an embedded component scheme-theoretically.

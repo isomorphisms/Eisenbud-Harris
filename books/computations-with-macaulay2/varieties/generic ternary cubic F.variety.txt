@@ -1,0 +1,5 @@
+Kind: parameterized polynomial family
+Component polynomial:
+- a × x³ + b × x² × y + c × x² × z + d × x × y² + e × x × y × z + f × x × z² + g × y³ + h × y² × z + i × y × z² + j × z³
+Source: schemes/chapter.m2/test.m2 lines 26–42.
+Why: F is the generic ternary cubic. Its Jacobian equations and Hessian feed two independent constructions of the discriminant, which are then checked for equality.

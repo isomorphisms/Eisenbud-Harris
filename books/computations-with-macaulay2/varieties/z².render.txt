@@ -1,0 +1,3 @@
+status: unavailable
+reason: the exponent 2 is algebraic multiplicity; the reduced plane z=0 would discard it
+SURFER: unavailable

@@ -1,0 +1,5 @@
+chapter.m2/test.m2 line 57: generator of the three-equation affine ideal I used to measure the multiplicity removed by saturation
+
+The polynomial is kept separately because the surrounding ideal, family, matrix, or map is a different mathematical object from any one of its component equations.
+
+This is a canonical real affine polynomial in the renderer's x,y,z coordinates, so an actual SURFER still is appropriate.

@@ -1,0 +1,11 @@
+source	lines	object	status	note
+chapter.m2/test.m2	2-5	symmetric-function ideals	cataloged	elementaryBasis and powerSumBasis component polynomials
+chapter.m2/test.m2	7-24	generic-matrix orbit closure	input-structure-recorded	literal generic-matrix setup recorded in source; expanded eliminant output remains for semantic output pass
+chapter.m2/test.m2	26-42	generic ternary cubic discriminant	cataloged-source	F and quadratic contraction basis cataloged; huge discriminant polynomial deferred to output pass
+chapter.m2/test.m2	44-54	five elimination examples	cataloged	all literal input generators cataloged
+chapter.m2/test.m2	56-58	multiplicity/saturation ideal	cataloged	three real affine surface generators sent to SURFER
+chapter.m2/test.m2	60-66	degenerating lines/special fibre	cataloged	family and special-fibre component equations recorded
+chapter.m2/test.m2	68-76	determinantal intersection/embedded point	cataloged	matrix entries, IY, and decomposition generators recorded
+chapter.m2/test.m2	78-95	blow-up helper and nonreduced center	cataloged-source	center generators cataloged; derived blow-up ideal deferred to output pass
+chapter.m2/test.m2	97-117	three surface constructions	cataloged-source	parametrization and Segre/projection inputs recorded; derived surface ideals deferred to output pass
+chapter.m2/test.m2	119-137	quadric family/Fano schemes	cataloged-source	family, line substitution, coefficient basis, and one-fibre component equations recorded

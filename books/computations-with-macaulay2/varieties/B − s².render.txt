@@ -1,0 +1,3 @@
+status: unavailable
+reason: the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+SURFER: unavailable

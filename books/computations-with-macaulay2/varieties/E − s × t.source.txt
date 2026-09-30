@@ -1,0 +1,11 @@
+Display: E − s × t
+SURFER: unavailable
+Macaulay2: E-s*t
+Coefficient ring: QQ unless the source line states ZZ or another ambient ring
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Occurrences:
+- chapter.m2/test.m2 line 99: generator of the parametrization ideal used to construct surfaceA
+Upstream sources:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.m2

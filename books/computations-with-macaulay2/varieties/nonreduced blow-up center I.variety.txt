@@ -1,0 +1,8 @@
+Kind: ideal / blow-up center
+Components:
+- x³
+- x × y
+- y²
+Construction: J = blowUpIdeal(I)
+Source: schemes/chapter.m2/test.m2 lines 78–95.
+Why: The blow-up helper is tested on a nonreduced monomial ideal; smoothness is checked via Jacobian minors after constructing the Rees-type elimination ideal.

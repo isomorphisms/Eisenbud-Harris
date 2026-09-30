@@ -1,0 +1,13 @@
+Display: b² − 3
+SURFER: unavailable
+Macaulay2: b^2-3
+Coefficient ring: QQ unless the source line states ZZ or another ambient ring
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Occurrences:
+- chapter.m2/test.m2 line 47: generator of elimination example I2
+- chapter.m2/test.m2 line 51: generator of elimination example I4
+- chapter.m2/test.m2 line 53: generator of elimination example I5
+Upstream sources:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.m2

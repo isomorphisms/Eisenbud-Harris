@@ -1,0 +1,7 @@
+chapter.m2/test.m2 line 69: entry of the 2×4 matrix whose 2×2 minors define IX
+
+chapter.m2/test.m2 line 75-76: generator in the two-component decomposition of J, including the embedded-point component
+
+The polynomial is kept separately because the surrounding ideal, family, matrix, or map is a different mathematical object from any one of its component equations.
+
+No SURFER image is substituted because the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source.

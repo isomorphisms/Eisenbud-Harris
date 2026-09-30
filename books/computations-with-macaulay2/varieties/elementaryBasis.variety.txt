@@ -1,0 +1,7 @@
+Kind: ideal
+Components:
+- x + y + z
+- x × y + x × z + y × z
+- x × y × z
+Source: schemes/chapter.m2/test.m2 line 2.
+Why: The elementary symmetric functions are compared with the power-sum generators through saturation by x.

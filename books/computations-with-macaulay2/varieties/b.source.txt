@@ -1,0 +1,11 @@
+Display: b
+SURFER: unavailable
+Macaulay2: b
+Coefficient ring: QQ unless the source line states ZZ or another ambient ring
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: schemes computations
+Occurrences:
+- chapter.m2/test.m2 line 69: entry of the 2×4 matrix whose 2×2 minors define IX
+Upstream sources:
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/chapter.m2
+- https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/schemes/test.m2

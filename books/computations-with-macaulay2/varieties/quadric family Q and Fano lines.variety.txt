@@ -1,0 +1,14 @@
+Kind: family of quadrics and its Fano scheme of lines
+Family polynomial:
+- t × x² + t × y² + t × z² + w²
+Line-substitution coordinates:
+- u × A + v × E
+- u × B + v × F
+- u × C + v × G
+- u × D + v × H
+Coefficient basis: u², u×v, v²
+One-fibre decomposition:
+- (c−d, b+e, a−f, d²+e²+f²)
+- (c+d, b−e, a+f, d²+e²+f²)
+Source: schemes/chapter.m2/test.m2 lines 119–137.
+Why: The computation follows the Fano scheme through a degeneration of quadrics and compares special and smooth fibres.

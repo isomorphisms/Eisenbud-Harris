@@ -1,0 +1,7 @@
+Kind: ideal
+Components:
+- x + y + z
+- x² + y² + z²
+- x³ + y³ + z³
+Source: schemes/chapter.m2/test.m2 line 4.
+Why: This alternative symmetric-function basis is saturated by x and compared computationally with elementaryBasis.

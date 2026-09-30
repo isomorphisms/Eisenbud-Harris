@@ -1,0 +1,3 @@
+status: pending actual SURFER render
+SURFER: y
+expected-primary: y.png

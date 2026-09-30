@@ -1,0 +1,7 @@
+Kind: family/intersection
+L = (x,y)
+M = (x−t×z, y+t²×w)
+X = L ∩ M
+Special fibre comparison: Xzero = (x²,y) ∩ (x,y²,z)
+Source: schemes/chapter.m2/test.m2 lines 60–66.
+Why: The family shows a limiting intersection whose scheme structure contains more than the naive limiting pair of lines.

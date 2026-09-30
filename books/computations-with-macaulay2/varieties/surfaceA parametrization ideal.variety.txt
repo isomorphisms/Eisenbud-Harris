@@ -1,0 +1,10 @@
+Kind: parametrization/elimination ideal
+Components:
+- A − r²
+- B − s²
+- C − r × s
+- D − r × t
+- E − s × t
+Construction: eliminate r,s,t and map to P⁴ to obtain surfaceA.
+Source: schemes/chapter.m2/test.m2 lines 97–101.
+Why: This is the first of three constructions of the same surface.
