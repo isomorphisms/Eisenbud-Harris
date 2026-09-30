@@ -1,3 +1,0 @@
-status: pending actual SURFER render
-SURFER: z
-expected-primary: z.png

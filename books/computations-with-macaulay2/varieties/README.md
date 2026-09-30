@@ -122,11 +122,191 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this degree-19 quotient normal form is being used as algebra in R/staircase³; a raw zero-set render would not show that quotient relation
 
+## A − r²
+
+- [source](<A − r².source.txt>) · [why](<A − r².why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## B − s²
+
+- [source](<B − s².source.txt>) · [why](<B − s².why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## C − r × s
+
+- [source](<C − r × s.source.txt>) · [why](<C − r × s.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## D − r × t
+
+- [source](<D − r × t.source.txt>) · [why](<D − r × t.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## E − s × t
+
+- [source](<E − s × t.source.txt>) · [why](<E − s × t.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a + f
+
+- [source](<a + f.source.txt>) · [why](<a + f.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a × c
+
+- [source](<a × c.source.txt>) · [why](<a × c.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a × x + b × y − 1
+
+- [source](<a × x + b × y − 1.source.txt>) · [why](<a × x + b × y − 1.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a × x + b × y
+
+- [source](<a × x + b × y.source.txt>) · [why](<a × x + b × y.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a × x³ + b × x² × y + c × x² × z + d × x × y² + e × x × y × z + f × x × z² + g × y³ + h × y² × z + i × y × z² + j × z³
+
+- [source](<a × x³ + b × x² × y + c × x² × z + d × x × y² + e × x × y × z + f × x × z² + g × y³ + h × y² × z + i × y × z² + j × z³.source.txt>) · [why](<a × x³ + b × x² × y + c × x² × z + d × x × y² + e × x × y × z + f × x × z² + g × y³ + h × y² × z + i × y × z² + j × z³.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a − f
+
+- [source](<a − f.source.txt>) · [why](<a − f.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a
+
+- [source](<a.source.txt>) · [why](<a.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a² − 2
+
+- [source](<a² − 2.source.txt>) · [why](<a² − 2.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## a⁴ + a³ + a² + a + 1
+
+- [source](<a⁴ + a³ + a² + a + 1.source.txt>) · [why](<a⁴ + a³ + a² + a + 1.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b + e
+
+- [source](<b + e.source.txt>) · [why](<b + e.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b × c
+
+- [source](<b × c.source.txt>) · [why](<b × c.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b × d
+
+- [source](<b × d.source.txt>) · [why](<b × d.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b − e
+
+- [source](<b − e.source.txt>) · [why](<b − e.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b
+
+- [source](<b.source.txt>) · [why](<b.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b² − 3
+
+- [source](<b² − 3.source.txt>) · [why](<b² − 3.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b²
+
+- [source](<b².source.txt>) · [why](<b².why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## b³
+
+- [source](<b³.source.txt>) · [why](<b³.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## c + d
+
+- [source](<c + d.source.txt>) · [why](<c + d.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## c − d
+
+- [source](<c − d.source.txt>) · [why](<c − d.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## c
+
+- [source](<c.source.txt>) · [why](<c.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## c²
+
+- [source](<c².source.txt>) · [why](<c².why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## c³ − b × d²
+
+- [source](<c³ − b × d².source.txt>) · [why](<c³ − b × d².why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## c³
+
+- [source](<c³.source.txt>) · [why](<c³.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
 ## d − x × y¹⁰
 
 - [source](<d − x × y¹⁰.source.txt>) · [why](<d − x × y¹⁰.why.txt>)
 
 **SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
+
+## d
+
+- [source](<d.source.txt>) · [why](<d.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## d² + e² + f²
+
+- [source](<d² + e² + f².source.txt>) · [why](<d² + e² + f².why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
 
 ## d² × n⁶ × q²
 
@@ -260,11 +440,77 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
 
+## t × x² + t × y² + t × z² + w²
+
+- [source](<t × x² + t × y² + t × z² + w².source.txt>) · [why](<t × x² + t × y² + t × z² + w².why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
 ## t³
 
 - [source](<t³.source.txt>) · [why](<t³.why.txt>)
 
 **SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
+
+## u × A + v × E
+
+- [source](<u × A + v × E.source.txt>) · [why](<u × A + v × E.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## u × B + v × F
+
+- [source](<u × B + v × F.source.txt>) · [why](<u × B + v × F.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## u × C + v × G
+
+- [source](<u × C + v × G.source.txt>) · [why](<u × C + v × G.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## u × D + v × H
+
+- [source](<u × D + v × H.source.txt>) · [why](<u × D + v × H.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## u × v
+
+- [source](<u × v.source.txt>) · [why](<u × v.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## u − t × x
+
+- [source](<u − t × x.source.txt>) · [why](<u − t × x.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## u²
+
+- [source](<u².source.txt>) · [why](<u².why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## v − t × y
+
+- [source](<v − t × y.source.txt>) · [why](<v − t × y.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## v²
+
+- [source](<v².source.txt>) · [why](<v².why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## x + y + z
+
+- [source](<x + y + z.source.txt>) · [why](<x + y + z.why.txt>)
+
+![x + y + z](<x + y + z.png>)
 
 ## x × d − n²
 
@@ -283,6 +529,36 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x × q − y⁵ × d².source.txt>) · [why](<x × q − y⁵ × d².why.txt>)
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## x × u
+
+- [source](<x × u.source.txt>) · [why](<x × u.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## x × v
+
+- [source](<x × v.source.txt>) · [why](<x × v.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## x × y + x × z + y × z
+
+- [source](<x × y + x × z + y × z.source.txt>) · [why](<x × y + x × z + y × z.why.txt>)
+
+![x × y + x × z + y × z](<x × y + x × z + y × z.png>)
+
+## x × y × z
+
+- [source](<x × y × z.source.txt>) · [why](<x × y × z.why.txt>)
+
+![x × y × z](<x × y × z.png>)
+
+## x × y
+
+- [source](<x × y.source.txt>) · [why](<x × y.why.txt>)
+
+![x × y](<x × y.png>)
 
 ## x × y² × z¹⁰
 
@@ -314,17 +590,41 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
 
+## x × z
+
+- [source](<x × z.source.txt>) · [why](<x × z.why.txt>)
+
+![x × z](<x × z.png>)
+
 ## x − 1
 
 - [source](<x − 1.source.txt>) · [why](<x − 1.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## x − a
+
+- [source](<x − a.source.txt>) · [why](<x − a.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## x − t × z
+
+- [source](<x − t × z.source.txt>) · [why](<x − t × z.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
 ## x
 
 - [source](<x.source.txt>) · [why](<x.why.txt>)
 
 ![x](<x.png>)
+
+## x² + y² + z²
+
+- [source](<x² + y² + z².source.txt>) · [why](<x² + y² + z².why.txt>)
+
+**SURFER unavailable:** its real zero locus is the isolated origin, not a surface that SURFER's surface renderer can faithfully display
 
 ## x² × y⁴ × z⁵
 
@@ -338,6 +638,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
 
+## x²
+
+- [source](<x².source.txt>) · [why](<x².why.txt>)
+
+**SURFER unavailable:** the exponent 2 is algebraic multiplicity; the reduced plane x=0 would discard it
+
 ## x²³⁴ × y⁵⁶⁷⁷
 
 - [source](<x²³⁴ × y⁵⁶⁷⁷.source.txt>) · [why](<x²³⁴ × y⁵⁶⁷⁷.why.txt>)
@@ -349,6 +655,24 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x³ + 11 × x² + 6 × x × y − 5 × y² − 11 × x + y + 5.source.txt>) · [why](<x³ + 11 × x² + 6 × x × y − 5 × y² − 11 × x + y + 5.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## x³ + y³ + z³
+
+- [source](<x³ + y³ + z³.source.txt>) · [why](<x³ + y³ + z³.why.txt>)
+
+![x³ + y³ + z³](<x³ + y³ + z³.png>)
+
+## x³ + y³ + z⁵
+
+- [source](<x³ + y³ + z⁵.source.txt>) · [why](<x³ + y³ + z⁵.why.txt>)
+
+![x³ + y³ + z⁵](<x³ + y³ + z⁵.png>)
+
+## x³ + y⁵ + z³
+
+- [source](<x³ + y⁵ + z³.source.txt>) · [why](<x³ + y⁵ + z³.why.txt>)
+
+![x³ + y⁵ + z³](<x³ + y⁵ + z³.png>)
 
 ## x³ × y⁶
 
@@ -463,6 +787,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<x⁴.source.txt>) · [why](<x⁴.why.txt>)
 
 **SURFER unavailable:** this monomial is a graded syzygy coefficient; its reduced zero-set plane hides the exponent and resolution data
+
+## x⁵ + y³ + z³
+
+- [source](<x⁵ + y³ + z³.source.txt>) · [why](<x⁵ + y³ + z³.why.txt>)
+
+![x⁵ + y³ + z³](<x⁵ + y³ + z³.png>)
 
 ## x⁵ + y⁵ + z⁵ − 1
 
@@ -836,6 +1166,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is projective and/or over F₃₂₇₄₉; a faithful SURFER view requires an explicit affine chart and base-field specialization
 
+## y + t² × w
+
+- [source](<y + t² × w.source.txt>) · [why](<y + t² × w.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
 ## y × d³ − p × n × q
 
 - [source](<y × d³ − p × n × q.source.txt>) · [why](<y × d³ − p × n × q.why.txt>)
@@ -854,17 +1190,59 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
 
+## y × u
+
+- [source](<y × u.source.txt>) · [why](<y × u.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## y × v
+
+- [source](<y × v.source.txt>) · [why](<y × v.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## y × z
+
+- [source](<y × z.source.txt>) · [why](<y × z.why.txt>)
+
+![y × z](<y × z.png>)
+
 ## y − 1
 
 - [source](<y − 1.source.txt>) · [why](<y − 1.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## y − a
+
+- [source](<y − a.source.txt>) · [why](<y − a.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## y − a⁴
+
+- [source](<y − a⁴.source.txt>) · [why](<y − a⁴.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## y − b
+
+- [source](<y − b.source.txt>) · [why](<y − b.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
 ## y − x⁶
 
 - [source](<y − x⁶.source.txt>) · [why](<y − x⁶.why.txt>)
 
 ![y − x⁶](<y − x⁶.png>)
+
+## y
+
+- [source](<y.source.txt>) · [why](<y.why.txt>)
+
+![y](<y.png>)
 
 ## y² × d² × n − p² × q
 
@@ -992,6 +1370,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
+## z × u
+
+- [source](<z × u.source.txt>) · [why](<z × u.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
+## z × v
+
+- [source](<z × v.source.txt>) · [why](<z × v.why.txt>)
+
+**SURFER unavailable:** the polynomial uses parameters, projective coordinates, or more than three independent variables; rendering would require a specialization or coordinate choice absent from the source
+
 ## z − 14
 
 - [source](<z − 14.source.txt>) · [why](<z − 14.why.txt>)
@@ -1009,6 +1399,18 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<z − 6.source.txt>) · [why](<z − 6.why.txt>)
 
 **SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## z
+
+- [source](<z.source.txt>) · [why](<z.why.txt>)
+
+![z](<z.png>)
+
+## z²
+
+- [source](<z².source.txt>) · [why](<z².why.txt>)
+
+**SURFER unavailable:** the exponent 2 is algebraic multiplicity; the reduced plane z=0 would discard it
 
 ## z¹⁵
 
@@ -1162,6 +1564,7 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [GB(I = toric parametrization ideal)](<GB(I = toric parametrization ideal).variety.txt>)
 - [GB(curve)](<GB(curve).variety.txt>)
 - [I = toric parametrization ideal](<I = toric parametrization ideal.variety.txt>)
+- [IX and IY intersection with embedded point](<IX and IY intersection with embedded point.variety.txt>)
 - [Jacobian map δ₁ for twisted cubic](<Jacobian map δ₁ for twisted cubic.variety.txt>)
 - [M = staircase³](<M = staircase³.variety.txt>)
 - [V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface)](<V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface).variety.txt>)
@@ -1172,6 +1575,7 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [basis(R∕staircase), 65 standard monomials](<basis(R∕staircase), 65 standard monomials.variety.txt>)
 - [basis(R∕staircase³), 690 standard monomials](<basis(R∕staircase³), 690 standard monomials.variety.txt>)
 - [basis({25,219}, multigraded R)](<basis({25,219}, multigraded R).variety.txt>)
+- [blow-up graph and Segre construction](<blow-up graph and Segre construction.variety.txt>)
 - [canonical generators canGens](<canonical generators canGens.variety.txt>)
 - [canonical homomorphism f](<canonical homomorphism f.variety.txt>)
 - [canonical idealXcan](<canonical idealXcan.variety.txt>)
@@ -1179,20 +1583,29 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [curve₁ = saturate(curve, (x))](<curve₁ = saturate(curve, (x)).variety.txt>)
 - [curve₂ = saturate(curve, curve₁)](<curve₂ = saturate(curve, curve₁).variety.txt>)
 - [decompose(ourpoints over F₁₀₁)](<decompose(ourpoints over F₁₀₁).variety.txt>)
+- [degenerating line family X](<degenerating line family X.variety.txt>)
 - [determinantal ideal I=minors(2,m)](<determinantal ideal I=minors(2,m).variety.txt>)
 - [determinantal matrix m](<determinantal matrix m.variety.txt>)
+- [elementaryBasis](<elementaryBasis.variety.txt>)
 - [elimination GB(ourpoints″)](<elimination GB(ourpoints″).variety.txt>)
+- [elimination examples I₁–I₅](<elimination examples I₁–I₅.variety.txt>)
+- [generic ternary cubic F](<generic ternary cubic F.variety.txt>)
 - [idealL₁](<idealL₁.variety.txt>)
 - [idealL₂](<idealL₂.variety.txt>)
 - [idealY = L₁ ∪ L₂](<idealY = L₁ ∪ L₂.variety.txt>)
 - [linear idealX in P⁴](<linear idealX in P⁴.variety.txt>)
+- [multiplicity ideal I](<multiplicity ideal I.variety.txt>)
 - [mystery curve idealX](<mystery curve idealX.variety.txt>)
+- [nonreduced blow-up center I](<nonreduced blow-up center I.variety.txt>)
 - [plane map toP2](<plane map toP2.variety.txt>)
 - [plane model idealXplane](<plane model idealXplane.variety.txt>)
+- [powerSumBasis](<powerSumBasis.variety.txt>)
 - [quadratic embedding idealC5](<quadratic embedding idealC5.variety.txt>)
 - [quadratic subideal idealS](<quadratic subideal idealS.variety.txt>)
+- [quadric family Q and Fano lines](<quadric family Q and Fano lines.variety.txt>)
 - [reconstructed idealC = mystery idealX](<reconstructed idealC = mystery idealX.variety.txt>)
 - [staircase = LT(ourpoints)](<staircase = LT(ourpoints).variety.txt>)
+- [surfaceA parametrization ideal](<surfaceA parametrization ideal.variety.txt>)
 - [toric quotient normal forms](<toric quotient normal forms.variety.txt>)
 - [twisted cubic determinantal matrix M](<twisted cubic determinantal matrix M.variety.txt>)
 - [twisted cubic ideal](<twisted cubic ideal.variety.txt>)
