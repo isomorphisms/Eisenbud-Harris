@@ -1,0 +1,4 @@
+Kind: support-variety ideal in the Ext coordinate ring
+Result: zero ideal
+Source: chapter.m2/test.m2 lines 242–245; test.oldvalues o156.
+Why: Replacing y³ by y³−2z³ changes the pair support variety to the whole support-coordinate space, reflected by the zero annihilator ideal.

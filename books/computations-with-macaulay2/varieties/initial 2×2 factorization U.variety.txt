@@ -1,0 +1,12 @@
+Kind: matrix / module data
+Source object: o2 (Matrix)
+Shape: 2 × 2
+Role: U for f=x×y−w×z
+Distinct nonzero nonconstant entries:
+- w
+- x
+- y
+- z
+Exact Macaulay2 matrix:
+matrix {{w, x}, {y, z}}
+Source: completeIntersections/test.oldvalues o2; corresponding construction in chapter.m2/test.m2.

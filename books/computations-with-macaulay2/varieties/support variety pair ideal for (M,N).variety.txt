@@ -1,0 +1,4 @@
+Kind: support-variety ideal in the Ext coordinate ring
+Result: (X₁)
+Source: chapter.m2/test.m2 lines 242–245; test.oldvalues o155.
+Why: For N=B/(x²+z²,y³), the annihilator of Ext(M,N) cuts out the hyperplane X₁=0 in the support-coordinate space.

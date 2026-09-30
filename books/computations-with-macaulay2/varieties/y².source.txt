@@ -12,3 +12,7 @@ Schemes chapter occurrences:
 Complete-intersections occurrences:
 - 65-68: finite-field complete-intersection or presentation polynomial in Ext(N,N) (ZZ/103[x,y])
 - 145-148: generator of B'=A'/(x²,y²,z³) in the Poincare-series example (ZZ/103[x,y,z])
+Complete-intersections matrix occurrences:
+- U [Matrix]
+- o19 [Matrix]
+- o28 [Matrix]

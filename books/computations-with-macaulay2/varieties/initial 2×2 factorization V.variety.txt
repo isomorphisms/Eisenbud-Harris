@@ -1,0 +1,12 @@
+Kind: matrix / module data
+Source object: o9 (Matrix)
+Shape: 2 × 2
+Role: partner V with U×V=V×U=−f
+Distinct nonzero nonconstant entries:
+- z
+- − x
+- − y
+- w
+Exact Macaulay2 matrix:
+matrix {{z, -x}, {-y, w}}
+Source: completeIntersections/test.oldvalues o9; corresponding construction in chapter.m2/test.m2.

@@ -1,0 +1,11 @@
+Display: − 37 × x² × y + 51 × x × y² − 36 × y³ + 26 × x² × z − 38 × x × y × z − 17 × y² × z + 17 × x × z² − 11 × y × z² + 8 × z³
+SURFER: unavailable
+Macaulay2: -37*x^2*y+51*x*y^2-36*y^3+26*x^2*z-38*x*y*z-17*y^2*z+17*x*z^2-11*y*z^2+8*z^3
+Coefficient context: ZZ/103 (for fixed random presentation/support-ring outputs)
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Matrix occurrences:
+- f [Matrix]
+- o71 [Matrix]
+- o72 [Matrix]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.oldvalues

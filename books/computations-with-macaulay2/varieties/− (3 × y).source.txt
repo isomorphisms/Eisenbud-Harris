@@ -1,0 +1,13 @@
+Display: − (3 × y)
+SURFER: unavailable
+Macaulay2: -(3*y)
+Coefficient context: QQ[w,x,y,z]
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Matrix occurrences:
+- s [ChainComplexMap]
+- V [Matrix]
+- o21 [ChainComplexMap]
+- o22 [Matrix]
+- o29 [Matrix]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.oldvalues

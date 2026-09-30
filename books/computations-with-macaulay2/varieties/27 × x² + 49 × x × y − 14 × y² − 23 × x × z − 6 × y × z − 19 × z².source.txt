@@ -1,0 +1,10 @@
+Display: 27 × x² + 49 × x × y − 14 × y² − 23 × x × z − 6 × y × z − 19 × z²
+SURFER: unavailable
+Macaulay2: 27*x^2+49*x*y-14*y^2-23*x*z-6*y*z-19*z^2
+Coefficient context: ZZ/103 (for fixed random presentation/support-ring outputs)
+Book: Computations in Algebraic Geometry with Macaulay 2
+Chapter: complete intersections computations
+Matrix occurrences:
+- f [Matrix]
+- o71 [Matrix]
+Machine-readable source: https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.oldvalues

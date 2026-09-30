@@ -14,3 +14,10 @@ Complete-intersections occurrences:
 - 11-14: hypersurface equation or maximal-ideal generator for the ternary-cubic matrix-factorization example (QQ[x,y,z])
 - 88-94: finite-field complete-intersection generator or residue-field generator in the three-variable Ext example (ZZ/103[x,y,z])
 - 145-148: generator of B'=A'/(x²,y²,z³) in the Poincare-series example (ZZ/103[x,y,z])
+Complete-intersections matrix occurrences:
+- U [Matrix]
+- o2 [Matrix]
+- o7 [ChainComplexMap]
+- o9 [Matrix]
+- o28 [Matrix]
+- o76 [Matrix]

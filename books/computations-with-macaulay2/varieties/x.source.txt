@@ -16,3 +16,10 @@ Complete-intersections occurrences:
 - 55-59: finite-field hypersurface/module relation in the one-variable Ext example (ZZ/103[x])
 - 88-94: finite-field complete-intersection generator or residue-field generator in the three-variable Ext example (ZZ/103[x,y,z])
 - 145-148: generator of B'=A'/(x²,y²,z³) in the Poincare-series example (ZZ/103[x,y,z])
+Complete-intersections matrix occurrences:
+- U [Matrix]
+- o2 [Matrix]
+- o19 [Matrix]
+- o28 [Matrix]
+- o59 [Matrix]
+- o76 [Matrix]

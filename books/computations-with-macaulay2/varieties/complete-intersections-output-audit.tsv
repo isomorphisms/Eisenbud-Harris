@@ -1,0 +1,10 @@
+output_area	status	note
+initial 2×2 factorization	complete	U and V recorded structurally; f=x×y−w×z source polynomial cataloged
+cubic B/m² factorization	complete	9×9 U and V/nullhomotopy coefficient vocabulary cataloged
+cubic B/m³ factorization	complete	15×15 U,V coefficient vocabulary cataloged
+fixed random F103 module presentation	complete	3×2 f and selected column f₁ recorded; all six fixed random entries cataloged
+Ext support-coordinate matrices	complete	X₁,X₂,X₃ occurrences merged rather than duplicated
+supportVarietyPairIdeal(M,N)	complete	ideal(X₁) recorded
+supportVarietyPairIdeal(M,N′)	complete	zero ideal recorded
+Poincare/Bass/Ext generating series	structured-non-variety	retained as rational/Laurent series outputs; not promoted to algebraic-variety polynomial bundles
+F7 seeded random support scan	pending-side-effect	printed random modules/support ideals occur only in chapter.out.expected and require separate deterministic transcript audit

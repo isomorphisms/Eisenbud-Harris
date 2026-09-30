@@ -1,0 +1,3 @@
+This polynomial occurs explicitly as a nonzero matrix coefficient in the complete-intersections computations.
+
+The coefficient matters as part of a matrix factorization, nullhomotopy, periodic resolution, fixed random module presentation, or support-ring coordinate matrix. It is not introduced as an independent geometric hypersurface, so the catalog preserves it algebraically rather than inventing a separate surface visualization.

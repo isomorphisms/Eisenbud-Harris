@@ -1,0 +1,3 @@
+status: unavailable
+reason: this occurrence is a matrix coefficient, not an independently specified variety; rendering its zero set would discard the matrix-factorization or module context
+SURFER: unavailable

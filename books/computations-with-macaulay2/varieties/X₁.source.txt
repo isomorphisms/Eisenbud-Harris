@@ -10,3 +10,4 @@ Upstream:
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/chapter.m2
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/test.m2
 - https://github.com/Macaulay2/M2/blob/stable/M2/Macaulay2/tests/ComputationsBook/completeIntersections/simplify.m2
+Derived occurrence: generator of supportVarietyPairIdeal(M,N)=ideal(X_1), test.oldvalues o155 / chapter output lines 963–972.

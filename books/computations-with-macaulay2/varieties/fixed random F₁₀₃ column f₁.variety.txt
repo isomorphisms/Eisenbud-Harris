@@ -1,0 +1,11 @@
+Kind: matrix / module data
+Source object: o72 (Matrix)
+Shape: 3 × 1
+Role: second column selected from the presentation matrix
+Distinct nonzero nonconstant entries:
+- 38 × x² × y − 34 × x × y² + 4 × y³ + x² × z + 16 × x × y × z − y² × z − 5 × x × z² − 6 × y × z² + 47 × z³
+- − 37 × x² × y + 51 × x × y² − 36 × y³ + 26 × x² × z − 38 × x × y × z − 17 × y² × z + 17 × x × z² − 11 × y × z² + 8 × z³
+- − 6 × x² × y − 14 × x × y² − 26 × y³ − 7 × x² × z + 41 × x × y × z + 50 × y² × z + 26 × x × z² + 46 × y × z² − 44 × z³
+Exact Macaulay2 matrix:
+matrix {{38*x^2*y-34*x*y^2+4*y^3+x^2*z+16*x*y*z-y^2*z-5*x*z^2-6*y*z^2+47*z^3}, {-37*x^2*y+51*x*y^2-36*y^3+26*x^2*z-38*x*y*z-17*y^2*z+17*x*z^2-11*y*z^2+8*z^3}, {-6*x^2*y-14*x*y^2-26*y^3-7*x^2*z+41*x*y*z+50*y^2*z+26*x*z^2+46*y*z^2-44*z^3}}
+Source: completeIntersections/test.oldvalues o72; corresponding construction in chapter.m2/test.m2.
