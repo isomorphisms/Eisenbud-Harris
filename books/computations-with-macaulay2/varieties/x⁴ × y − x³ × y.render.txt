@@ -1,3 +1,0 @@
-status: pending actual SURFER render
-SURFER: x^4*y-x^3*y
-expected-primary: x⁴ × y − x³ × y.png

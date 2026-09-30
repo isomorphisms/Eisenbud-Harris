@@ -1,3 +1,0 @@
-status: pending actual SURFER render
-SURFER: x^5*y^5+y^10+y^5*z^5-x^9-x^4*y^5-x^4*z^5-y^5+x^4
-expected-primary: x⁵ × y⁵ + y¹⁰ + y⁵ × z⁵ − x⁹ − x⁴ × y⁵ − x⁴ × z⁵ − y⁵ + x⁴.png

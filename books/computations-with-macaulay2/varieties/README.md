@@ -14,11 +14,29 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the exact polynomial is a 19-fold plane; a point-set surface would erase the multiplicity the example is testing
 
+## 58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴
+
+- [source](<58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴.source.txt>) · [why](<58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴.why.txt>)
+
+**SURFER unavailable:** this degree-19 quotient normal form is being used as algebra in R/staircase³; a raw zero-set render would not show that quotient relation
+
 ## d − x × y¹⁰
 
 - [source](<d − x × y¹⁰.source.txt>) · [why](<d − x × y¹⁰.why.txt>)
 
 **SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
+
+## d² × n⁶ × q²
+
+- [source](<d² × n⁶ × q².source.txt>) · [why](<d² × n⁶ × q².why.txt>)
+
+**SURFER unavailable:** the normal form lives in a quotient with variables p,n,d,q (and sometimes y); there is no canonical three-dimensional SURFER realization
+
+## d⁴ − n³ × q
+
+- [source](<d⁴ − n³ × q.source.txt>) · [why](<d⁴ − n³ × q.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
 
 ## n − x × y⁵
 
@@ -26,11 +44,53 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
 
+## n⁷⁵ × q²⁵
+
+- [source](<n⁷⁵ × q²⁵.source.txt>) · [why](<n⁷⁵ × q²⁵.why.txt>)
+
+**SURFER unavailable:** the normal form lives in a quotient with variables p,n,d,q (and sometimes y); there is no canonical three-dimensional SURFER realization
+
 ## p − x × y
 
 - [source](<p − x × y.source.txt>) · [why](<p − x × y.why.txt>)
 
 **SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
+
+## p² × n⁴ × d³ × q²²⁵
+
+- [source](<p² × n⁴ × d³ × q²²⁵.source.txt>) · [why](<p² × n⁴ × d³ × q²²⁵.why.txt>)
+
+**SURFER unavailable:** the normal form lives in a quotient with variables p,n,d,q (and sometimes y); there is no canonical three-dimensional SURFER realization
+
+## p¹⁴ × n² × d² × q⁷
+
+- [source](<p¹⁴ × n² × d² × q⁷.source.txt>) · [why](<p¹⁴ × n² × d² × q⁷.why.txt>)
+
+**SURFER unavailable:** the polynomial uses four independent variables p,n,d,q and belongs to a multigraded counting example rather than a canonical x/y/z surface
+
+## p⁴ × n² × d¹⁸ × q
+
+- [source](<p⁴ × n² × d¹⁸ × q.source.txt>) · [why](<p⁴ × n² × d¹⁸ × q.why.txt>)
+
+**SURFER unavailable:** the polynomial uses four independent variables p,n,d,q and belongs to a multigraded counting example rather than a canonical x/y/z surface
+
+## p⁴ × n¹¹ × d⁶ × q⁴
+
+- [source](<p⁴ × n¹¹ × d⁶ × q⁴.source.txt>) · [why](<p⁴ × n¹¹ × d⁶ × q⁴.why.txt>)
+
+**SURFER unavailable:** the polynomial uses four independent variables p,n,d,q and belongs to a multigraded counting example rather than a canonical x/y/z surface
+
+## p⁴ × n¹⁴ × d² × q⁵
+
+- [source](<p⁴ × n¹⁴ × d² × q⁵.source.txt>) · [why](<p⁴ × n¹⁴ × d² × q⁵.why.txt>)
+
+**SURFER unavailable:** the polynomial uses four independent variables p,n,d,q and belongs to a multigraded counting example rather than a canonical x/y/z surface
+
+## p⁴ × n⁵ × d¹⁴ × q²
+
+- [source](<p⁴ × n⁵ × d¹⁴ × q².source.txt>) · [why](<p⁴ × n⁵ × d¹⁴ × q².why.txt>)
+
+**SURFER unavailable:** the polynomial uses four independent variables p,n,d,q and belongs to a multigraded counting example rather than a canonical x/y/z surface
 
 ## p⁴ × n⁸ × d¹⁰ × q³
 
@@ -38,11 +98,71 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** four independent variables p,n,d,q have no canonical embedding into SURFER's x,y,z surface coordinates
 
+## p⁵ × d² × q³
+
+- [source](<p⁵ × d² × q³.source.txt>) · [why](<p⁵ × d² × q³.why.txt>)
+
+**SURFER unavailable:** the normal form lives in a quotient with variables p,n,d,q (and sometimes y); there is no canonical three-dimensional SURFER realization
+
+## p⁵ × q − n⁶
+
+- [source](<p⁵ × q − n⁶.source.txt>) · [why](<p⁵ × q − n⁶.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## p⁶⁰ × n³ × q³⁷
+
+- [source](<p⁶⁰ × n³ × q³⁷.source.txt>) · [why](<p⁶⁰ × n³ × q³⁷.why.txt>)
+
+**SURFER unavailable:** the normal form lives in a quotient with variables p,n,d,q (and sometimes y); there is no canonical three-dimensional SURFER realization
+
+## p⁹ × n² × d¹⁰ × q⁴
+
+- [source](<p⁹ × n² × d¹⁰ × q⁴.source.txt>) · [why](<p⁹ × n² × d¹⁰ × q⁴.why.txt>)
+
+**SURFER unavailable:** the polynomial uses four independent variables p,n,d,q and belongs to a multigraded counting example rather than a canonical x/y/z surface
+
+## p⁹ × n⁵ × d⁶ × q⁵
+
+- [source](<p⁹ × n⁵ × d⁶ × q⁵.source.txt>) · [why](<p⁹ × n⁵ × d⁶ × q⁵.why.txt>)
+
+**SURFER unavailable:** the polynomial uses four independent variables p,n,d,q and belongs to a multigraded counting example rather than a canonical x/y/z surface
+
+## p⁹ × n⁸ × d² × q⁶
+
+- [source](<p⁹ × n⁸ × d² × q⁶.source.txt>) · [why](<p⁹ × n⁸ × d² × q⁶.why.txt>)
+
+**SURFER unavailable:** the polynomial uses four independent variables p,n,d,q and belongs to a multigraded counting example rather than a canonical x/y/z surface
+
 ## q − x × y²⁵
 
 - [source](<q − x × y²⁵.source.txt>) · [why](<q − x × y²⁵.why.txt>)
 
 **SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
+
+## x × d − n²
+
+- [source](<x × d − n².source.txt>) · [why](<x × d − n².why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## x × n − y³ × p²
+
+- [source](<x × n − y³ × p².source.txt>) · [why](<x × n − y³ × p².why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## x × q − y⁵ × d²
+
+- [source](<x × q − y⁵ × d².source.txt>) · [why](<x × q − y⁵ × d².why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## x × y² × z¹⁰
+
+- [source](<x × y² × z¹⁰.source.txt>) · [why](<x × y² × z¹⁰.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
 
 ## x × y² − 1
 
@@ -56,17 +176,47 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the reduced zero set is just x=0 union y=0 and does not show the y² multiplicity that drives the staircase combinatorics
 
+## x × y¹²
+
+- [source](<x × y¹².source.txt>) · [why](<x × y¹².why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x × y⁷ × z⁵
+
+- [source](<x × y⁷ × z⁵.source.txt>) · [why](<x × y⁷ × z⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
 ## x
 
 - [source](<x.source.txt>) · [why](<x.why.txt>)
 
 ![x](<x.png>)
 
+## x² × y⁴ × z⁵
+
+- [source](<x² × y⁴ × z⁵.source.txt>) · [why](<x² × y⁴ × z⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x² × y⁹
+
+- [source](<x² × y⁹.source.txt>) · [why](<x² × y⁹.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
 ## x²³⁴ × y⁵⁶⁷⁷
 
 - [source](<x²³⁴ × y⁵⁶⁷⁷.source.txt>) · [why](<x²³⁴ × y⁵⁶⁷⁷.why.txt>)
 
 **SURFER unavailable:** degree 5911 with repeated coordinate factors; exact SURFER rendering is impractical and visually loses the multiplicity
+
+## x³ × y⁶
+
+- [source](<x³ × y⁶.source.txt>) · [why](<x³ × y⁶.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
 
 ## x³ − y⁷
 
@@ -92,17 +242,65 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ![x¹³ − 1](<x¹³ − 1.png>)
 
+## x¹¹ × y²
+
+- [source](<x¹¹ × y².source.txt>) · [why](<x¹¹ × y².why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x¹⁰ + x⁵ × y⁵ + x⁵ × z⁵ − x⁵ × y³ − y⁸ − y³ × z⁵ − x⁵ + y³
+
+- [source](<x¹⁰ + x⁵ × y⁵ + x⁵ × z⁵ − x⁵ × y³ − y⁸ − y³ × z⁵ − x⁵ + y³.source.txt>) · [why](<x¹⁰ + x⁵ × y⁵ + x⁵ × z⁵ − x⁵ × y³ − y⁸ − y³ × z⁵ − x⁵ + y³.why.txt>)
+
+![x¹⁰ + x⁵ × y⁵ + x⁵ × z⁵ − x⁵ × y³ − y⁸ − y³ × z⁵ − x⁵ + y³](<x¹⁰ + x⁵ × y⁵ + x⁵ × z⁵ − x⁵ × y³ − y⁸ − y³ × z⁵ − x⁵ + y³.png>)
+
 ## x¹⁰ × y¹⁰⁰
 
 - [source](<x¹⁰ × y¹⁰⁰.source.txt>) · [why](<x¹⁰ × y¹⁰⁰.why.txt>)
 
 **SURFER unavailable:** degree 110 with heavy repeated coordinate factors; its zero-set picture discards the multiplicity and adds little to the normal-form example
 
+## x¹⁰ × y⁵
+
+- [source](<x¹⁰ × y⁵.source.txt>) · [why](<x¹⁰ × y⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x¹⁰ × z⁵
+
+- [source](<x¹⁰ × z⁵.source.txt>) · [why](<x¹⁰ × z⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
 ## x¹⁰⁰ × y¹⁰⁰⁰
 
 - [source](<x¹⁰⁰ × y¹⁰⁰⁰.source.txt>) · [why](<x¹⁰⁰ × y¹⁰⁰⁰.why.txt>)
 
 **SURFER unavailable:** degree 1100 with repeated coordinate factors; exact SURFER rendering is impractical and visually loses the multiplicity
+
+## x¹⁴ × y × z⁴
+
+- [source](<x¹⁴ × y × z⁴.source.txt>) · [why](<x¹⁴ × y × z⁴.why.txt>)
+
+**SURFER unavailable:** the monomial is a quotient-basis element with repeated coordinate factors; a surface picture would discard the quotient and exponent information
+
+## x¹⁵
+
+- [source](<x¹⁵.source.txt>) · [why](<x¹⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x⁴ × y × z¹⁴
+
+- [source](<x⁴ × y × z¹⁴.source.txt>) · [why](<x⁴ × y × z¹⁴.why.txt>)
+
+**SURFER unavailable:** the monomial is a quotient-basis element with repeated coordinate factors; a surface picture would discard the quotient and exponent information
+
+## x⁴ × y − x³ × y
+
+- [source](<x⁴ × y − x³ × y.source.txt>) · [why](<x⁴ × y − x³ × y.why.txt>)
+
+![x⁴ × y − x³ × y](<x⁴ × y − x³ × y.png>)
 
 ## x⁴ × y² − x³
 
@@ -122,6 +320,30 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ![x⁵ + y⁵ + z⁵ − 1](<x⁵ + y⁵ + z⁵ − 1.png>)
 
+## x⁵ × y¹⁰
+
+- [source](<x⁵ × y¹⁰.source.txt>) · [why](<x⁵ × y¹⁰.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x⁵ × y⁵ + y¹⁰ + y⁵ × z⁵ − x⁹ − x⁴ × y⁵ − x⁴ × z⁵ − y⁵ + x⁴
+
+- [source](<x⁵ × y⁵ + y¹⁰ + y⁵ × z⁵ − x⁹ − x⁴ × y⁵ − x⁴ × z⁵ − y⁵ + x⁴.source.txt>) · [why](<x⁵ × y⁵ + y¹⁰ + y⁵ × z⁵ − x⁹ − x⁴ × y⁵ − x⁴ × z⁵ − y⁵ + x⁴.why.txt>)
+
+![x⁵ × y⁵ + y¹⁰ + y⁵ × z⁵ − x⁹ − x⁴ × y⁵ − x⁴ × z⁵ − y⁵ + x⁴](<x⁵ × y⁵ + y¹⁰ + y⁵ × z⁵ − x⁹ − x⁴ × y⁵ − x⁴ × z⁵ − y⁵ + x⁴.png>)
+
+## x⁵ × y⁵ × z⁵
+
+- [source](<x⁵ × y⁵ × z⁵.source.txt>) · [why](<x⁵ × y⁵ × z⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x⁵ × z¹⁰
+
+- [source](<x⁵ × z¹⁰.source.txt>) · [why](<x⁵ × z¹⁰.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
 ## x⁵ − y³
 
 - [source](<x⁵ − y³.source.txt>) · [why](<x⁵ − y³.why.txt>)
@@ -134,17 +356,131 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the zero set is the plane x=0; the exponent 5, not the support, is the information used downstream
 
+## x⁶ × y² + x × y⁷ + x × y² × z⁵ − x⁵ − y⁵ − z⁵ − x × y² + 1
+
+- [source](<x⁶ × y² + x × y⁷ + x × y² × z⁵ − x⁵ − y⁵ − z⁵ − x × y² + 1.source.txt>) · [why](<x⁶ × y² + x × y⁷ + x × y² × z⁵ − x⁵ − y⁵ − z⁵ − x × y² + 1.why.txt>)
+
+![x⁶ × y² + x × y⁷ + x × y² × z⁵ − x⁵ − y⁵ − z⁵ − x × y² + 1](<x⁶ × y² + x × y⁷ + x × y² × z⁵ − x⁵ − y⁵ − z⁵ − x × y² + 1.png>)
+
+## x⁶ × y² × z⁵
+
+- [source](<x⁶ × y² × z⁵.source.txt>) · [why](<x⁶ × y² × z⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x⁶ × y⁷
+
+- [source](<x⁶ × y⁷.source.txt>) · [why](<x⁶ × y⁷.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x⁷ × y⁴
+
+- [source](<x⁷ × y⁴.source.txt>) · [why](<x⁷ × y⁴.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
 ## x⁸ − x³ × y³
 
 - [source](<x⁸ − x³ × y³.source.txt>) · [why](<x⁸ − x³ × y³.why.txt>)
 
 ![x⁸ − x³ × y³](<x⁸ − x³ × y³.png>)
 
+## x⁹ × y × z⁹
+
+- [source](<x⁹ × y × z⁹.source.txt>) · [why](<x⁹ × y × z⁹.why.txt>)
+
+**SURFER unavailable:** the monomial is a quotient-basis element with repeated coordinate factors; a surface picture would discard the quotient and exponent information
+
+## y × d³ − p × n × q
+
+- [source](<y × d³ − p × n × q.source.txt>) · [why](<y × d³ − p × n × q.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y × n² − d × p
+
+- [source](<y × n² − d × p.source.txt>) · [why](<y × n² − d × p.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y × p⁴ × q − d × n⁴
+
+- [source](<y × p⁴ × q − d × n⁴.source.txt>) · [why](<y × p⁴ × q − d × n⁴.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
 ## y − x⁶
 
 - [source](<y − x⁶.source.txt>) · [why](<y − x⁶.why.txt>)
 
 ![y − x⁶](<y − x⁶.png>)
+
+## y² × d² × n − p² × q
+
+- [source](<y² × d² × n − p² × q.source.txt>) · [why](<y² × d² × n − p² × q.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y² × d² × p³ − n⁵
+
+- [source](<y² × d² × p³ − n⁵.source.txt>) · [why](<y² × d² × p³ − n⁵.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y² × p³ × q − d² × n²
+
+- [source](<y² × p³ × q − d² × n².source.txt>) · [why](<y² × p³ × q − d² × n².why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y²⁵ × q³⁹
+
+- [source](<y²⁵ × q³⁹.source.txt>) · [why](<y²⁵ × q³⁹.why.txt>)
+
+**SURFER unavailable:** the normal form lives in a quotient with variables p,n,d,q (and sometimes y); there is no canonical three-dimensional SURFER realization
+
+## y³ × d × p² − n³
+
+- [source](<y³ × d × p² − n³.source.txt>) · [why](<y³ × d × p² − n³.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y³ × p² × q − d³
+
+- [source](<y³ × p² × q − d³.source.txt>) · [why](<y³ × p² × q − d³.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y¹⁰ × z⁵
+
+- [source](<y¹⁰ × z⁵.source.txt>) · [why](<y¹⁰ × z⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## y¹⁵ × d − q
+
+- [source](<y¹⁵ × d − q.source.txt>) · [why](<y¹⁵ × d − q.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y¹⁵
+
+- [source](<y¹⁵.source.txt>) · [why](<y¹⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## y⁴ × p − n
+
+- [source](<y⁴ × p − n.source.txt>) · [why](<y⁴ × p − n.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y⁵ × n − d
+
+- [source](<y⁵ × n − d.source.txt>) · [why](<y⁵ × n − d.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
 
 ## y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁴
 
@@ -158,11 +494,29 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ![y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁵](<y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁵.png>)
 
+## y⁵ × z¹⁰
+
+- [source](<y⁵ × z¹⁰.source.txt>) · [why](<y⁵ × z¹⁰.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
 ## y⁵
 
 - [source](<y⁵.source.txt>) · [why](<y⁵.why.txt>)
 
 **SURFER unavailable:** the zero set is only the plane y=0, while exponent 5 is the relevant algebraic multiplicity
+
+## y⁶ × d² − p × q
+
+- [source](<y⁶ × d² − p × q.source.txt>) · [why](<y⁶ × d² − p × q.why.txt>)
+
+**SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## z¹⁵
+
+- [source](<z¹⁵.source.txt>) · [why](<z¹⁵.why.txt>)
+
+**SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
 
 ## z⁵ + x⁵ + x⁴ − 1
 
@@ -178,14 +532,19 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ## Composite varieties, schemes, ideals, and systems
 
+- [GB(I = toric parametrization ideal)](<GB(I = toric parametrization ideal).variety.txt>)
 - [GB(curve)](<GB(curve).variety.txt>)
 - [I = toric parametrization ideal](<I = toric parametrization ideal.variety.txt>)
+- [M = staircase³](<M = staircase³.variety.txt>)
 - [V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface)](<V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface).variety.txt>)
 - [V(I_curve ∩ I_surface) = V(I_curve) ∪ V(I_surface)](<V(I_curve ∩ I_surface) = V(I_curve) ∪ V(I_surface).variety.txt>)
 - [V(x⁴ − y⁵, x³ − y⁷)](<V(x⁴ − y⁵, x³ − y⁷).variety.txt>)
 - [V(x⁵ + y⁵ + z⁵ − 1)](<V(x⁵ + y⁵ + z⁵ − 1).variety.txt>)
+- [basis(19, R∕staircase³)](<basis(19, R∕staircase³).variety.txt>)
+- [basis({25,219}, multigraded R)](<basis({25,219}, multigraded R).variety.txt>)
 - [curve₁ = saturate(curve, (x))](<curve₁ = saturate(curve, (x)).variety.txt>)
 - [curve₂ = saturate(curve, curve₁)](<curve₂ = saturate(curve, curve₁).variety.txt>)
 - [elimination GB(ourpoints″)](<elimination GB(ourpoints″).variety.txt>)
 - [staircase = LT(ourpoints)](<staircase = LT(ourpoints).variety.txt>)
+- [toric quotient normal forms](<toric quotient normal forms.variety.txt>)
 
