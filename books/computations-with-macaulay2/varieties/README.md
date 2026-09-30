@@ -14,6 +14,72 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the exact polynomial is a 19-fold plane; a point-set surface would erase the multiplicity the example is testing
 
+## 15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5
+
+- [source](<15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5.source.txt>) · [why](<15 × x² − 40 × x × y + y² − 2 × x × z − 31 × x − 26 × y + 19 × z − 5.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 16 × x² + 22 × x × y − 24 × y² + 3 × x × z + y × z + 16 × x + 17 × y + 45 × z − 11
+
+- [source](<16 × x² + 22 × x × y − 24 × y² + 3 × x × z + y × z + 16 × x + 17 × y + 45 × z − 11.source.txt>) · [why](<16 × x² + 22 × x × y − 24 × y² + 3 × x × z + y × z + 16 × x + 17 × y + 45 × z − 11.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 16 × x² − 23 × x × y + z² + 8 × x − 26 × y − 31 × z − 26
+
+- [source](<16 × x² − 23 × x × y + z² + 8 × x − 26 × y − 31 × z − 26.source.txt>) · [why](<16 × x² − 23 × x × y + z² + 8 × x − 26 × y − 31 × z − 26.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 19 × x³ + x² × y + x² + 20 × x × y − 19 × x + 20 × y − 18
+
+- [source](<19 × x³ + x² × y + x² + 20 × x × y − 19 × x + 20 × y − 18.source.txt>) · [why](<19 × x³ + x² × y + x² + 20 × x × y − 19 × x + 20 × y − 18.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 29 × x² + 42 × x × y − 44 × y² + 24 × x × z + y × z + 39 × x + 23 × y + 48 × z + 44
+
+- [source](<29 × x² + 42 × x × y − 44 × y² + 24 × x × z + y × z + 39 × x + 23 × y + 48 × z + 44.source.txt>) · [why](<29 × x² + 42 × x × y − 44 × y² + 24 × x × z + y × z + 39 × x + 23 × y + 48 × z + 44.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 31 × x² − 13 × x × y + z² − 35 × x + 38 × y − 5 × z + 38
+
+- [source](<31 × x² − 13 × x × y + z² − 35 × x + 38 × y − 5 × z + 38.source.txt>) · [why](<31 × x² − 13 × x × y + z² − 35 × x + 38 × y − 5 × z + 38.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 31 × x² − 32 × x × y + y² + 11 × x × z − 23 × x + 38 × y + 12 × z + 2
+
+- [source](<31 × x² − 32 × x × y + y² + 11 × x × z − 23 × x + 38 × y + 12 × z + 2.source.txt>) · [why](<31 × x² − 32 × x × y + y² + 11 × x × z − 23 × x + 38 × y + 12 × z + 2.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 33 × x² − 20 × x × y − 13 × y² + 5 × x × z + y × z + 30 × x − 31 × y + 45 × z + 12
+
+- [source](<33 × x² − 20 × x × y − 13 × y² + 5 × x × z + y × z + 30 × x − 31 × y + 45 × z + 12.source.txt>) · [why](<33 × x² − 20 × x × y − 13 × y² + 5 × x × z + y × z + 30 × x − 31 × y + 45 × z + 12.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 39 × x² − 31 × x × y + x × z − 31 × x − 46 × y − 30 × z + 36
+
+- [source](<39 × x² − 31 × x × y + x × z − 31 × x − 46 × y − 30 × z + 36.source.txt>) · [why](<39 × x² − 31 × x × y + x × z − 31 × x − 46 × y − 30 × z + 36.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 44 × x² + 22 × x × y + x × z + 22 × x − 26 × y − 30 × z − 6
+
+- [source](<44 × x² + 22 × x × y + x × z + 22 × x − 26 × y − 30 × z − 6.source.txt>) · [why](<44 × x² + 22 × x × y + x × z + 22 × x − 26 × y − 30 × z − 6.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## 5 × x² + 37 × x × y + z² − 48 × x − 46 × y + 30 × z − 46
+
+- [source](<5 × x² + 37 × x × y + z² − 48 × x − 46 × y + 30 × z − 46.source.txt>) · [why](<5 × x² + 37 × x × y + z² − 48 × x − 46 × y + 30 × z − 46.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
 ## 58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴
 
 - [source](<58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴.source.txt>) · [why](<58140 × x¹⁴ × y × z⁴ + 923780 × x⁹ × y × z⁹ + 58140 × x⁴ × y × z¹⁴.why.txt>)
@@ -188,6 +254,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
 
+## x − 1
+
+- [source](<x − 1.source.txt>) · [why](<x − 1.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
 ## x
 
 - [source](<x.source.txt>) · [why](<x.why.txt>)
@@ -212,11 +284,23 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** degree 5911 with repeated coordinate factors; exact SURFER rendering is impractical and visually loses the multiplicity
 
+## x³ + 11 × x² + 6 × x × y − 5 × y² − 11 × x + y + 5
+
+- [source](<x³ + 11 × x² + 6 × x × y − 5 × y² − 11 × x + y + 5.source.txt>) · [why](<x³ + 11 × x² + 6 × x × y − 5 × y² − 11 × x + y + 5.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
 ## x³ × y⁶
 
 - [source](<x³ × y⁶.source.txt>) · [why](<x³ × y⁶.why.txt>)
 
 **SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## x³ − 46 × x² + 28 × x × y − 27 × y² + 46 × x + y + 27
+
+- [source](<x³ − 46 × x² + 28 × x × y − 27 × y² + 46 × x + y + 27.source.txt>) · [why](<x³ − 46 × x² + 28 × x × y − 27 × y² + 46 × x + y + 27.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
 ## x³ − y⁷
 
@@ -314,6 +398,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ![x⁴ − y⁵](<x⁴ − y⁵.png>)
 
+## x⁴
+
+- [source](<x⁴.source.txt>) · [why](<x⁴.why.txt>)
+
+**SURFER unavailable:** this monomial is a graded syzygy coefficient; its reduced zero-set plane hides the exponent and resolution data
+
 ## x⁵ + y⁵ + z⁵ − 1
 
 - [source](<x⁵ + y⁵ + z⁵ − 1.source.txt>) · [why](<x⁵ + y⁵ + z⁵ − 1.why.txt>)
@@ -410,6 +500,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
 
+## y − 1
+
+- [source](<y − 1.source.txt>) · [why](<y − 1.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
 ## y − x⁶
 
 - [source](<y − x⁶.source.txt>) · [why](<y − x⁶.why.txt>)
@@ -434,11 +530,23 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
 
+## y²
+
+- [source](<y².source.txt>) · [why](<y².why.txt>)
+
+**SURFER unavailable:** this monomial is a graded syzygy coefficient; its reduced zero-set plane hides the exponent and resolution data
+
 ## y²⁵ × q³⁹
 
 - [source](<y²⁵ × q³⁹.source.txt>) · [why](<y²⁵ × q³⁹.why.txt>)
 
 **SURFER unavailable:** the normal form lives in a quotient with variables p,n,d,q (and sometimes y); there is no canonical three-dimensional SURFER realization
+
+## y³ + 28 × x² − 27 × x × y + 46 × y² − 27 × x + y − 28
+
+- [source](<y³ + 28 × x² − 27 × x × y + 46 × y² − 27 × x + y − 28.source.txt>) · [why](<y³ + 28 × x² − 27 × x × y + 46 × y² − 27 × x + y − 28.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
 ## y³ × d × p² − n³
 
@@ -451,6 +559,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [source](<y³ × p² × q − d³.source.txt>) · [why](<y³ × p² × q − d³.why.txt>)
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
+
+## y³
+
+- [source](<y³.source.txt>) · [why](<y³.why.txt>)
+
+**SURFER unavailable:** this monomial is a graded syzygy coefficient; its reduced zero-set plane hides the exponent and resolution data
 
 ## y¹⁰ × z⁵
 
@@ -512,11 +626,47 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the relation belongs to a six-variable toric presentation; a three-coordinate specialization would add choices not present in the source
 
+## z + 1
+
+- [source](<z + 1.source.txt>) · [why](<z + 1.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## z + 36
+
+- [source](<z + 36.source.txt>) · [why](<z + 36.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## z − 14
+
+- [source](<z − 14.source.txt>) · [why](<z − 14.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## z − 17
+
+- [source](<z − 17.source.txt>) · [why](<z − 17.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## z − 6
+
+- [source](<z − 6.source.txt>) · [why](<z − 6.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
 ## z¹⁵
 
 - [source](<z¹⁵.source.txt>) · [why](<z¹⁵.why.txt>)
 
 **SURFER unavailable:** this monomial's zero set is only a union of coordinate hyperplanes; the exponents and redundancy in the monomial ideal are the information the example uses
+
+## z⁵ + 46 × x² − 46 × x × y + 8 × y² − 48 × x − 19 × y − 29
+
+- [source](<z⁵ + 46 × x² − 46 × x × y + 8 × y² − 48 × x − 19 × y − 29.source.txt>) · [why](<z⁵ + 46 × x² − 46 × x × y + 8 × y² − 48 × x − 19 × y − 29.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
 
 ## z⁵ + x⁵ + x⁴ − 1
 
@@ -530,8 +680,93 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 **SURFER unavailable:** the zero set is the plane z=0; the exponent 5, not the support, is the information used downstream
 
+## − 10 × x² − 5 × x × y + x × z − 5 × x − 40 × y − 30 × z − 17
+
+- [source](<− 10 × x² − 5 × x × y + x × z − 5 × x − 40 × y − 30 × z − 17.source.txt>) · [why](<− 10 × x² − 5 × x × y + x × z − 5 × x − 40 × y − 30 × z − 17.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 16 × x³ + x² × y + x² − 15 × x × y + 16 × x − 15 × y + 17
+
+- [source](<− 16 × x³ + x² × y + x² − 15 × x × y + 16 × x − 15 × y + 17.source.txt>) · [why](<− 16 × x³ + x² × y + x² − 15 × x × y + 16 × x − 15 × y + 17.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44
+
+- [source](<− 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44.source.txt>) · [why](<− 2 × x² + 2 × x × y + y² − 11 × x × z + 11 × x + 7 × y − 5 × z − 44.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 22 × x² + 19 × x × y + z² − 11 × x − 40 × y + 22 × z − 40
+
+- [source](<− 22 × x² + 19 × x × y + z² − 11 × x − 40 × y + 22 × z − 40.source.txt>) · [why](<− 22 × x² + 19 × x × y + z² − 11 × x − 40 × y + 22 × z − 40.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 24 × x² − 5 × x × y + 14 × y² − 34 × x × z + y × z + 5 × x − 31 × y + 26 × z − 16
+
+- [source](<− 24 × x² − 5 × x × y + 14 × y² − 34 × x × z + y × z + 5 × x − 31 × y + 26 × z − 16.source.txt>) · [why](<− 24 × x² − 5 × x × y + 14 × y² − 34 × x × z + y × z + 5 × x − 31 × y + 26 × z − 16.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 26 × x³ + x × y² − 16 × x² − 21 × x × y − 5 × y² + 16 × x − 26 × y + 4
+
+- [source](<− 26 × x³ + x × y² − 16 × x² − 21 × x × y − 5 × y² + 16 × x − 26 × y + 4.source.txt>) · [why](<− 26 × x³ + x × y² − 16 × x² − 21 × x × y − 5 × y² + 16 × x − 26 × y + 4.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 30 × x² − 20 × x × y + z² − 15 × x − 27 × y − 16 × z − 27
+
+- [source](<− 30 × x² − 20 × x × y + z² − 15 × x − 27 × y − 16 × z − 27.source.txt>) · [why](<− 30 × x² − 20 × x × y + z² − 15 × x − 27 × y − 16 × z − 27.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 32 × x² − 16 × x × y + x × z − 16 × x − 27 × y − 30 × z − 14
+
+- [source](<− 32 × x² − 16 × x × y + x × z − 16 × x − 27 × y − 30 × z − 14.source.txt>) · [why](<− 32 × x² − 16 × x × y + x × z − 16 × x − 27 × y − 30 × z − 14.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 34 × x² − 14 × x × y + y² + 49 × x × z − 5 × x − 20 × y + 35 × z + 43
+
+- [source](<− 34 × x² − 14 × x × y + y² + 49 × x × z − 5 × x − 20 × y + 35 × z + 43.source.txt>) · [why](<− 34 × x² − 14 × x × y + y² + 49 × x × z − 5 × x − 20 × y + 35 × z + 43.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 41 × x² + 30 × x × y + x × z + 30 × x + 38 × y − 30 × z + 1
+
+- [source](<− 41 × x² + 30 × x × y + x × z + 30 × x + 38 × y − 30 × z + 1.source.txt>) · [why](<− 41 × x² + 30 × x × y + x × z + 30 × x + 38 × y − 30 × z + 1.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 43 × x² + 32 × x × y + y² + 39 × x × z + 41 × x + 45 × y − 15 × z − 43
+
+- [source](<− 43 × x² + 32 × x × y + y² + 39 × x × z + 41 × x + 45 × y − 15 × z − 43.source.txt>) · [why](<− 43 × x² + 32 × x × y + y² + 39 × x × z + 41 × x + 45 × y − 15 × z − 43.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
+## − 46 × x² + 26 × x × y + 20 × y² + 40 × x × z + y × z − 44 × x − 45 × y − 27 × z − 6
+
+- [source](<− 46 × x² + 26 × x × y + 20 × y² + 40 × x × z + y × z − 44 × x − 45 × y − 27 × z − 6.source.txt>) · [why](<− 46 × x² + 26 × x × y + 20 × y² + 40 × x × z + y × z − 44 × x − 45 × y − 27 × z − 6.why.txt>)
+
+**SURFER unavailable:** this occurrence is a polynomial over F₁₀₁; interpreting the same coefficients over R would change the base field and geometry
+
 ## Composite varieties, schemes, ideals, and systems
 
+- [C.dd₂ syzygy matrix](<C.dd₂ syzygy matrix.variety.txt>)
+- [C.dd₃ syzygy matrix](<C.dd₃ syzygy matrix.variety.txt>)
+- [F₁₀₁ decomposition component 01](<F₁₀₁ decomposition component 01.variety.txt>)
+- [F₁₀₁ decomposition component 02](<F₁₀₁ decomposition component 02.variety.txt>)
+- [F₁₀₁ decomposition component 03](<F₁₀₁ decomposition component 03.variety.txt>)
+- [F₁₀₁ decomposition component 04](<F₁₀₁ decomposition component 04.variety.txt>)
+- [F₁₀₁ decomposition component 05](<F₁₀₁ decomposition component 05.variety.txt>)
+- [F₁₀₁ decomposition component 06](<F₁₀₁ decomposition component 06.variety.txt>)
+- [F₁₀₁ decomposition component 07](<F₁₀₁ decomposition component 07.variety.txt>)
+- [F₁₀₁ decomposition component 08](<F₁₀₁ decomposition component 08.variety.txt>)
+- [F₁₀₁ decomposition component 09](<F₁₀₁ decomposition component 09.variety.txt>)
+- [F₁₀₁ decomposition component 10](<F₁₀₁ decomposition component 10.variety.txt>)
+- [F₁₀₁ decomposition component 11](<F₁₀₁ decomposition component 11.variety.txt>)
 - [GB(I = toric parametrization ideal)](<GB(I = toric parametrization ideal).variety.txt>)
 - [GB(curve)](<GB(curve).variety.txt>)
 - [I = toric parametrization ideal](<I = toric parametrization ideal.variety.txt>)
@@ -541,9 +776,12 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 - [V(x⁴ − y⁵, x³ − y⁷)](<V(x⁴ − y⁵, x³ − y⁷).variety.txt>)
 - [V(x⁵ + y⁵ + z⁵ − 1)](<V(x⁵ + y⁵ + z⁵ − 1).variety.txt>)
 - [basis(19, R∕staircase³)](<basis(19, R∕staircase³).variety.txt>)
+- [basis(R∕staircase), 65 standard monomials](<basis(R∕staircase), 65 standard monomials.variety.txt>)
+- [basis(R∕staircase³), 690 standard monomials](<basis(R∕staircase³), 690 standard monomials.variety.txt>)
 - [basis({25,219}, multigraded R)](<basis({25,219}, multigraded R).variety.txt>)
 - [curve₁ = saturate(curve, (x))](<curve₁ = saturate(curve, (x)).variety.txt>)
 - [curve₂ = saturate(curve, curve₁)](<curve₂ = saturate(curve, curve₁).variety.txt>)
+- [decompose(ourpoints over F₁₀₁)](<decompose(ourpoints over F₁₀₁).variety.txt>)
 - [elimination GB(ourpoints″)](<elimination GB(ourpoints″).variety.txt>)
 - [staircase = LT(ourpoints)](<staircase = LT(ourpoints).variety.txt>)
 - [toric quotient normal forms](<toric quotient normal forms.variety.txt>)
