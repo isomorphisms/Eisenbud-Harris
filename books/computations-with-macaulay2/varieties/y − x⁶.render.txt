@@ -1,3 +1,0 @@
-status: pending actual SURFER render
-SURFER: y-x^6
-expected-primary: y − x⁶.png

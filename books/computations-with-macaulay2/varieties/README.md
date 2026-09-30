@@ -8,11 +8,107 @@ Each polynomial has exactly three siblings: one primary render slot, provenance,
 
 A polynomial is not the same object as a variety; composite varieties appear separately below.
 
+## (x + y + z)¹⁹
+
+- [source](<(x + y + z)¹⁹.source.txt>) · [why](<(x + y + z)¹⁹.why.txt>)
+
+**SURFER unavailable:** the exact polynomial is a 19-fold plane; a point-set surface would erase the multiplicity the example is testing
+
+## d − x × y¹⁰
+
+- [source](<d − x × y¹⁰.source.txt>) · [why](<d − x × y¹⁰.why.txt>)
+
+**SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
+
+## n − x × y⁵
+
+- [source](<n − x × y⁵.source.txt>) · [why](<n − x × y⁵.why.txt>)
+
+**SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
+
+## p − x × y
+
+- [source](<p − x × y.source.txt>) · [why](<p − x × y.why.txt>)
+
+**SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
+
+## p⁴ × n⁸ × d¹⁰ × q³
+
+- [source](<p⁴ × n⁸ × d¹⁰ × q³.source.txt>) · [why](<p⁴ × n⁸ × d¹⁰ × q³.why.txt>)
+
+**SURFER unavailable:** four independent variables p,n,d,q have no canonical embedding into SURFER's x,y,z surface coordinates
+
+## q − x × y²⁵
+
+- [source](<q − x × y²⁵.source.txt>) · [why](<q − x × y²⁵.why.txt>)
+
+**SURFER unavailable:** the polynomial belongs to a six-variable toric presentation; choosing a three-variable specialization would be extra data
+
+## x × y² − 1
+
+- [source](<x × y² − 1.source.txt>) · [why](<x × y² − 1.why.txt>)
+
+![x × y² − 1](<x × y² − 1.png>)
+
+## x × y²
+
+- [source](<x × y².source.txt>) · [why](<x × y².why.txt>)
+
+**SURFER unavailable:** the reduced zero set is just x=0 union y=0 and does not show the y² multiplicity that drives the staircase combinatorics
+
+## x
+
+- [source](<x.source.txt>) · [why](<x.why.txt>)
+
+![x](<x.png>)
+
+## x²³⁴ × y⁵⁶⁷⁷
+
+- [source](<x²³⁴ × y⁵⁶⁷⁷.source.txt>) · [why](<x²³⁴ × y⁵⁶⁷⁷.why.txt>)
+
+**SURFER unavailable:** degree 5911 with repeated coordinate factors; exact SURFER rendering is impractical and visually loses the multiplicity
+
 ## x³ − y⁷
 
 - [source](<x³ − y⁷.source.txt>) · [why](<x³ − y⁷.why.txt>)
 
 ![x³ − y⁷](<x³ − y⁷.png>)
+
+## x³
+
+- [source](<x³.source.txt>) · [why](<x³.why.txt>)
+
+**SURFER unavailable:** the zero set is only the plane x=0, while the exponent 3 is the scheme-theoretic information being recorded
+
+## x³⁹ × y¹⁰⁰⁰
+
+- [source](<x³⁹ × y¹⁰⁰⁰.source.txt>) · [why](<x³⁹ × y¹⁰⁰⁰.why.txt>)
+
+**SURFER unavailable:** degree 1039 with repeated coordinate factors; exact SURFER rendering is impractical and visually loses the multiplicity
+
+## x¹³ − 1
+
+- [source](<x¹³ − 1.source.txt>) · [why](<x¹³ − 1.why.txt>)
+
+![x¹³ − 1](<x¹³ − 1.png>)
+
+## x¹⁰ × y¹⁰⁰
+
+- [source](<x¹⁰ × y¹⁰⁰.source.txt>) · [why](<x¹⁰ × y¹⁰⁰.why.txt>)
+
+**SURFER unavailable:** degree 110 with heavy repeated coordinate factors; its zero-set picture discards the multiplicity and adds little to the normal-form example
+
+## x¹⁰⁰ × y¹⁰⁰⁰
+
+- [source](<x¹⁰⁰ × y¹⁰⁰⁰.source.txt>) · [why](<x¹⁰⁰ × y¹⁰⁰⁰.why.txt>)
+
+**SURFER unavailable:** degree 1100 with repeated coordinate factors; exact SURFER rendering is impractical and visually loses the multiplicity
+
+## x⁴ × y² − x³
+
+- [source](<x⁴ × y² − x³.source.txt>) · [why](<x⁴ × y² − x³.why.txt>)
+
+![x⁴ × y² − x³](<x⁴ × y² − x³.png>)
 
 ## x⁴ − y⁵
 
@@ -26,6 +122,30 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ![x⁵ + y⁵ + z⁵ − 1](<x⁵ + y⁵ + z⁵ − 1.png>)
 
+## x⁵ − y³
+
+- [source](<x⁵ − y³.source.txt>) · [why](<x⁵ − y³.why.txt>)
+
+![x⁵ − y³](<x⁵ − y³.png>)
+
+## x⁵
+
+- [source](<x⁵.source.txt>) · [why](<x⁵.why.txt>)
+
+**SURFER unavailable:** the zero set is the plane x=0; the exponent 5, not the support, is the information used downstream
+
+## x⁸ − x³ × y³
+
+- [source](<x⁸ − x³ × y³.source.txt>) · [why](<x⁸ − x³ × y³.why.txt>)
+
+![x⁸ − x³ × y³](<x⁸ − x³ × y³.png>)
+
+## y − x⁶
+
+- [source](<y − x⁶.source.txt>) · [why](<y − x⁶.why.txt>)
+
+![y − x⁶](<y − x⁶.png>)
+
 ## y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁴
 
 - [source](<y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁴.source.txt>) · [why](<y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁴.why.txt>)
@@ -38,10 +158,34 @@ A polynomial is not the same object as a variety; composite varieties appear sep
 
 ![y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁵](<y⁵ × x⁵ − x⁹ − y⁸ + y³ × x⁵.png>)
 
+## y⁵
+
+- [source](<y⁵.source.txt>) · [why](<y⁵.why.txt>)
+
+**SURFER unavailable:** the zero set is only the plane y=0, while exponent 5 is the relevant algebraic multiplicity
+
+## z⁵ + x⁵ + x⁴ − 1
+
+- [source](<z⁵ + x⁵ + x⁴ − 1.source.txt>) · [why](<z⁵ + x⁵ + x⁴ − 1.why.txt>)
+
+![z⁵ + x⁵ + x⁴ − 1](<z⁵ + x⁵ + x⁴ − 1.png>)
+
+## z⁵
+
+- [source](<z⁵.source.txt>) · [why](<z⁵.why.txt>)
+
+**SURFER unavailable:** the zero set is the plane z=0; the exponent 5, not the support, is the information used downstream
+
 ## Composite varieties, schemes, ideals, and systems
 
+- [GB(curve)](<GB(curve).variety.txt>)
+- [I = toric parametrization ideal](<I = toric parametrization ideal.variety.txt>)
 - [V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface)](<V(I_curve + I_surface) = V(I_curve) ∩ V(I_surface).variety.txt>)
 - [V(I_curve ∩ I_surface) = V(I_curve) ∪ V(I_surface)](<V(I_curve ∩ I_surface) = V(I_curve) ∪ V(I_surface).variety.txt>)
 - [V(x⁴ − y⁵, x³ − y⁷)](<V(x⁴ − y⁵, x³ − y⁷).variety.txt>)
 - [V(x⁵ + y⁵ + z⁵ − 1)](<V(x⁵ + y⁵ + z⁵ − 1).variety.txt>)
+- [curve₁ = saturate(curve, (x))](<curve₁ = saturate(curve, (x)).variety.txt>)
+- [curve₂ = saturate(curve, curve₁)](<curve₂ = saturate(curve, curve₁).variety.txt>)
+- [elimination GB(ourpoints″)](<elimination GB(ourpoints″).variety.txt>)
+- [staircase = LT(ourpoints)](<staircase = LT(ourpoints).variety.txt>)
 
